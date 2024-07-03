@@ -138,7 +138,7 @@ Failed Refererence
 	volume = {23},
 	number = {1},
 	pages = {87-90},
-	error = {missing year in PolitisComputers}
+	year = {1990}
 }
 
 ```
