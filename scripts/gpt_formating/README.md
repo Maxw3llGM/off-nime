@@ -106,7 +106,7 @@ Failed Refererence
 	volume = {4},
 	number = {1-2},
 	pages = {97-115},
-	error = {missing year in ForestCommunication}
+	year = {1988}
 }
 
 ```
@@ -122,12 +122,12 @@ Failed Refererence
 	volume = {4},
 	number = {2},
 	pages = {74-79},
-	error = {missing year in LovelessLive}
+	year = {1999}
 }
 
 ```
 
-Failed Refererence 
+Failed Reference 
  
 
 ```
