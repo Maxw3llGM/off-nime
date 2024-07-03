@@ -1,6 +1,6 @@
 # Off-NIME ISIDM Papers
 Nime papers, chapters and books published outside of the NIME Conference Proceedings
-<body>Failed Reference 
+<body>Failed Refererence 
  
 
 ```
@@ -11,7 +11,7 @@ Nime papers, chapters and books published outside of the NIME Conference Proceed
 	volume = {1},
 	number = {3},
 	pages = {21-25},
-	error = {missing year in DavidsonHaptic}
+	year = {1976}
 }
 
 ```
@@ -23,6 +23,7 @@ D.&nbsp;Buchla.<span class="bibtex-protected">Lightning II MIDI Controller</span
 	author = {Buchla, D.},
 	title = {{Lightning II MIDI Controller}},
 	howpublished = {\url{http://www.buchla.com/}}
+	year = {1996}
 }
 
 ```
@@ -33,7 +34,9 @@ M.&nbsp;Hurney.<span class="bibtex-protected">Synthophone. The MIDI sax</span>.\
 @misc{HurneySynthophone,
 	author = {Hurney, M.},
 	title = {{Synthophone. The MIDI sax}},
-	howpublished = {\url{http://www.softwind.com}}
+	howpublished = {\url{http://www.softwind.com}},
+	edition = {9},
+	year = {2016}
 }
 
 ```
