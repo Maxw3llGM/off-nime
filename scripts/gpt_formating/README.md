@@ -10507,6 +10507,110 @@ J.&nbsp;Birringer. <span class="bibtex-protected">New Environments for Interacti
 
 ```
 
+J.-M. Raczinski and G.&nbsp;Marino. <span class="bibtex-protected">A Real-Time Synthesis Unit</span>. In <em>Proceedings of the 1988 International Computer Music Conference</em>, 90&ndash;100. San Francisco, CA, 1988. International Computer Music Association.
+
+```
+@inproceedings{Raczinski1988_RealTime,
+	author = {Raczinski, J.-M. and G. Marino},
+	title = {{A Real-Time Synthesis Unit}},
+	year = {1988},
+	booktitle = {Proceedings of the 1988 International Computer Music Conference},
+	publisher = {International Computer Music Association},
+	address = {San Francisco, CA},
+	pages = {90-100},
+	error = {'Style' object has no attribute 'format_conference'}
+}
+
+```
+
+P.&nbsp;R. Cook, D.&nbsp;Morrill, and J.&nbsp;O. Smith. <span class="bibtex-protected">An Automatic Pitch Detection and MIDI Control System for Brass Instruments</span>. In <em>Acoustical Society of America Conference</em>. New Orleans, 1992.
+
+```
+@inproceedings{Cook1992Pitch,
+	author = {Cook, P. R. and Morrill, D. and Smith, J. O.},
+	title = {{An Automatic Pitch Detection and MIDI Control System for Brass Instruments}},
+	booktitle = {Acoustical Society of America Conference},
+	year = {1992},
+	address = {New Orleans},
+	error = {'Style' object has no attribute 'format_conference'}
+}
+
+```
+
+C.&nbsp;Ramstein and V.&nbsp;Hayward. <span class="bibtex-protected">The Pantograph: a Large Workspace Haptic Device for a Multi-Modal Human-Computer Interaction</span>. In <em>Proceedings of the CHI'94 Conference on Human factors in Computing Systems</em>. 1994. Association of Computer Machinery.
+
+```
+@inproceedings{Ramstein1994_Pantograph,
+	author = {Ramstein, C. and V. Hayward},
+	title = {{The Pantograph: a Large Workspace Haptic Device for a Multi-Modal Human-Computer Interaction}},
+	year = {1994},
+	booktitle = {Proceedings of the CHI'94 Conference on Human factors in Computing Systems},
+	publisher = {Association of Computer Machinery},
+	address = {},
+	error = {'Style' object has no attribute 'format_conference'}
+}
+
+```
+
+J.&nbsp;Rovan, M.&nbsp;Wanderley, S.&nbsp;Dubnov, and P.&nbsp;Depalle. <span class="bibtex-protected">Instrumental Gestural Mapping Strategies as Expressivity Determinants in Computer Music Performance</span>. In A.&nbsp;Camurri, editor, <em>Kansei, The Technology of Emotion. Proceedings of the AIMI International Workshop</em>, pp. 68&ndash;73. Genoa: Associazione di Informatica Musicale Italiana, October 3-4, 1997, 1997.
+
+```
+@inproceedings{Rovan1997_Gestural,
+	author = {Rovan, J. and M. Wanderley and S. Dubnov and P. Depalle},
+	title = {{Instrumental Gestural Mapping Strategies as Expressivity Determinants in Computer Music Performance}},
+	year = {1997},
+	booktitle = {Kansei, The Technology of Emotion. Proceedings of the AIMI International Workshop},
+	editor = {A. Camurri},
+	address = {Genoa: Associazione di Informatica Musicale Italiana, October 3-4, 1997},
+	pages = {pp. 68-73},
+	error = {'Style' object has no attribute 'format_conference'}
+}
+
+```
+
+J.&nbsp;Rovan and M.&nbsp;Wanderley. <span class="bibtex-protected">Gestural Controllers: Strategies for Expressive Application</span>. In <em>Abstract presented at the SEAMUS Conference</em>. Hanover, N. H., 1998.
+
+```
+@inproceedings{Rovan1998_Strategies,
+	author = {Rovan, J. and M. Wanderley},
+	title = {{Gestural Controllers: Strategies for Expressive Application}},
+	year = {1998},
+	booktitle = {Abstract presented at the SEAMUS Conference},
+	address = {Hanover, N. H.},
+	error = {'Style' object has no attribute 'format_conference'}
+}
+
+```
+
+W.&nbsp;Putnam and B.&nbsp;Knapp. <span class="bibtex-protected">Input/Data Acquisition System Design for Human Computer Interfacing</span>. In 199X.
+
+```
+@inproceedings{Putnam199X_Input,
+	author = {Putnam, W. and B. Knapp},
+	title = {{Input/Data Acquisition System Design for Human Computer Interfacing}},
+	year = {199X},
+	booktitle = {},
+	publisher = {},
+	address = {},
+	error = {'Style' object has no attribute 'format_conference'}
+}
+
+```
+
+C.&nbsp;Roberts, M.&nbsp;Wright, J.&nbsp;Kuchera-Morin, L.&nbsp;Putnam, and G.&nbsp;Wakefield. <span class="bibtex-protected">Dynamic Interactivity Inside the AlloSphere</span>. In <em>Proceedings of the 2010 Conference on New Interfaces for Musical Expression</em>, pp. 57. 2010.
+
+```
+@inproceedings{Roberts2010_Dynamic,
+	author = {Roberts, C. and M. Wright and J. Kuchera-Morin and L. Putnam and G. Wakefield},
+	title = {{Dynamic Interactivity Inside the AlloSphere}},
+	year = {2010},
+	booktitle = {Proceedings of the 2010 Conference on New Interfaces for Musical Expression},
+	pages = {pp. 57},
+	error = {'Style' object has no attribute 'format_conference'}
+}
+
+```
+
 Failed Reference 
  
 
@@ -10567,38 +10671,6 @@ Failed Reference
  
 
 ```
-@conference{Raczinski1988_RealTime,
-	author = {Raczinski, J.-M. and G. Marino},
-	title = {{A Real-Time Synthesis Unit}},
-	year = {1988},
-	booktitle = {Proceedings of the 1988 International Computer Music Conference},
-	publisher = {International Computer Music Association},
-	address = {San Francisco, CA},
-	pages = {90-100},
-	error = {'Style' object has no attribute 'format_conference'}
-}
-
-```
-
-Failed Reference 
- 
-
-```
-@conference{Cook1992Pitch,
-	author = {Cook, P. R. and Morrill, D. and Smith, J. O.},
-	title = {{An Automatic Pitch Detection and MIDI Control System for Brass Instruments}},
-	booktitle = {Acoustical Society of America Conference},
-	year = {1992},
-	address = {New Orleans},
-	error = {'Style' object has no attribute 'format_conference'}
-}
-
-```
-
-Failed Reference 
- 
-
-```
 @inproceedings{Bates1992Architecture,
 	author = {Bates, J., Loyall, A. Bryan, and Reilly, W. Scott},
 	year = {1992},
@@ -10606,22 +10678,6 @@ Failed Reference
 	booktitle = {Proceedings of the Fourth European Workshop on Modeling Autonomous Agents in a Multi-Agent World},
 	address = {S. Martino al Cimino, Italy},
 	error = {Too many commas in 'Bates, J., Loyall, A. Bryan,'}
-}
-
-```
-
-Failed Reference 
- 
-
-```
-@conference{Ramstein1994_Pantograph,
-	author = {Ramstein, C. and V. Hayward},
-	title = {{The Pantograph: a Large Workspace Haptic Device for a Multi-Modal Human-Computer Interaction}},
-	year = {1994},
-	booktitle = {Proceedings of the CHI'94 Conference on Human factors in Computing Systems},
-	publisher = {Association of Computer Machinery},
-	address = {},
-	error = {'Style' object has no attribute 'format_conference'}
 }
 
 ```
@@ -10652,23 +10708,6 @@ Failed Reference
 	pages = {60-63},
 	year = {1997},
 	error = {Too many commas in 'Zannos, I., P. Modler,'}
-}
-
-```
-
-Failed Reference 
- 
-
-```
-@conference{Rovan1997_Gestural,
-	author = {Rovan, J. and M. Wanderley and S. Dubnov and P. Depalle},
-	title = {{Instrumental Gestural Mapping Strategies as Expressivity Determinants in Computer Music Performance}},
-	year = {1997},
-	booktitle = {Kansei, The Technology of Emotion. Proceedings of the AIMI International Workshop},
-	editor = {A. Camurri},
-	address = {Genoa: Associazione di Informatica Musicale Italiana, October 3-4, 1997},
-	pages = {pp. 68-73},
-	error = {'Style' object has no attribute 'format_conference'}
 }
 
 ```
@@ -10708,21 +10747,6 @@ Failed Reference
  
 
 ```
-@conference{Rovan1998_Strategies,
-	author = {Rovan, J. and M. Wanderley},
-	title = {{Gestural Controllers: Strategies for Expressive Application}},
-	year = {1998},
-	booktitle = {Abstract presented at the SEAMUS Conference},
-	address = {Hanover, N. H.},
-	error = {'Style' object has no attribute 'format_conference'}
-}
-
-```
-
-Failed Reference 
- 
-
-```
 @inproceedings{Guiard1999Navigation,
 	author = {Guiard, Y., Beaudouin-Lafon, M. and Mottet, D.},
 	title = {{Navigation as a Multiscale Pointing: Extending Fitts’Model to very high Precision Tasks}},
@@ -10732,22 +10756,6 @@ Failed Reference
 	year = {1999},
 	pages = {450-457},
 	error = {Too many commas in 'Guiard, Y., Beaudouin-Lafon, M.'}
-}
-
-```
-
-Failed Reference 
- 
-
-```
-@conference{Putnam199X_Input,
-	author = {Putnam, W. and B. Knapp},
-	title = {{Input/Data Acquisition System Design for Human Computer Interfacing}},
-	year = {199X},
-	booktitle = {},
-	publisher = {},
-	address = {},
-	error = {'Style' object has no attribute 'format_conference'}
 }
 
 ```
@@ -10953,21 +10961,6 @@ Failed Reference
 	title = {{Mappings – applying the lessons of motion tracking. An open letter to musical collaborators}},
 	year = {2009},
 	error = {missing note in Wechsler2009Mappings}
-}
-
-```
-
-Failed Reference 
- 
-
-```
-@conference{Roberts2010_Dynamic,
-	author = {Roberts, C. and M. Wright and J. Kuchera-Morin and L. Putnam and G. Wakefield},
-	title = {{Dynamic Interactivity Inside the AlloSphere}},
-	year = {2010},
-	booktitle = {Proceedings of the 2010 Conference on New Interfaces for Musical Expression},
-	pages = {pp. 57},
-	error = {'Style' object has no attribute 'format_conference'}
 }
 
 ```
