@@ -35,10 +35,10 @@ with open("README.md", "w") as md_file:
     for ref in sortedbibfile.entries:
         ref['title'] = "{" + ref['title'] + "}"
         try:
-            bib_string = pybtex.format_from_string(ref.raw, "plain", output_backend = "html").replace("\n","")
+            bib_string = pybtex.format_from_string(ref.raw, "plain", output_backend = "html").replace("\n"," ")
             md_file.write(re.findall(re_str,bib_string)[0])
         except Exception as inst: 
-            md_file.write("Failed Refererence \n ")
+            md_file.write("Failed Reference \n ")
             ref['error'] = str(inst)
             count += 1
         temp_lib=bp.Library()
