@@ -60,10 +60,12 @@ def generate_readme(directory):
                     bib_ref = bp.parse_file(directory+"/"+folder+"/"+bib_file)
                     bib_string = pybtex.format_from_string(bib_ref.entries[0].raw,"plain", output_backend = "html")
                     md_file.write(">" + bib_string_formater(bib_string))
-                    md_file.write(f"[<kbd><br>BibTex<br></kbd>](bib_files/{folder}/{bib_file})\n\n") 
                     md_file.write("\n\n")
+                    md_file.write(f"[<kbd><br>BibTex<br></kbd>](bib_files/{folder}/{bib_file})\n\n") 
+                    
                 except Exception as inst:
                     md_file.write(f"> Error: {inst} ")
+                    md_file.write("\n\n")
                     md_file.write(f"[<kbd><br>BibTex<br></kbd>](bib_files/{folder}/{bib_file})\n\n") 
                     md_file.write("\n\n")
 
