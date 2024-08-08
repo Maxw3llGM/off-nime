@@ -191,14 +191,15 @@ def main():
             nIME_references.append(row)
             data.drop(indeX,axis=0,inplace=True)
     
-    data.to_pickle("../ISIDM/sorted_references.pkl")
-    data.to_excel("../ISIDM/sorted_references.xlsx")
+    # data.to_pickle("../ISIDM/sorted_references.pkl")
+    # data.to_excel("../ISIDM/sorted_references.xlsx")
     nIME_references = pd.DataFrame(nIME_references)
+    nIME_references.to_excel("../ISIDM/NIME_sorted_references.xlsx")
 
 
 
-    print(data)
-    print(nIME_references)
+    # print(data)
+    # print(nIME_references)
     
         
     
