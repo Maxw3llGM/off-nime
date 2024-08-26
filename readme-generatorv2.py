@@ -147,7 +147,7 @@ def ref_fetcher(md_file):
         last_entry = entry
 
 def main():
-    with open("README2.md", "w") as md_file:
+    with open("README.md", "w") as md_file:
         md_file.write(f"# Off-NIME NIME Papers\n")
         md_file.write(f"Nime papers, chapters and books published outside of the NIME Conference Proceedings\n")
         ref_fetcher(md_file)
