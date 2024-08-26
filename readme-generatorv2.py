@@ -17,7 +17,6 @@ def ISIDM_fetcher(bib_Lib, directory="./ISIDM"):
     bib_folders = [folder for folder in os.listdir(directory)]
     bib_folders.sort()
     for folder in bib_folders:
-        print(folder)
         bib_files = [bib_ref for bib_ref in os.listdir(directory+"/"+folder)]
         for bib_file in bib_files:
             try:
@@ -105,40 +104,52 @@ def bib_sorter(bib_Lib):
     #         print(f"{ref.get('year', '').value}: {ref.get('editor', '').value} - {ref.get('title', '').value}")
 
 def md_generator(entry, repo, md_file):
-    if repo == "ISIDM":
-        year = entry.get('year', '').value
-        key = entry.key
-        try:
-            bib_string = pybtex.format_from_string(entry.raw,"plain", output_backend = "html")
-            md_file.write(">" + bib_string_formater(bib_string))
-            md_file.write("\n\n")
-            md_file.write(f"[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/{year}/{key}.bib)\n\n") 
-            
-        except Exception as inst:
-            md_file.write(f"> Error: {inst} ")
-            md_file.write("\n\n")
-            md_file.write(f"[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/{year}/{key}.bib)\n\n") 
-            md_file.write("\n\n")
-    else:
-        title = entry.get('title', '').value
-        author = entry.get('author', '').value
-        year = entry.get('year', '').value
-        try:
-            url = entry.get('url', '').value
-        except:
-            url = entry.get('URL', '').value   
-        entry_type = entry.entry_type
-        if repo == "CMJ":
-            number = entry.get('number', '').value
-            journal = entry.get('journal', '').value
-            volume = entry.get('volume', '').value
-            md_file.write(f"> {author}. {year}. {title}. *{journal} v.{volume} n.{number}*.\n\n")
-            md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/{year}.bib)\n\n") #I hardcoded all the journal articles to be identified with CMJ Folder. Fix this later
+    if entry.get('URL', ''):
+        entry['url'] = entry.pop('URL').value
+    year = entry.get('year', '').value
+    key = entry.key
+    try:
+        bib_string = pybtex.format_from_string(entry.raw,"plain", output_backend = "html")
+        md_file.write(bib_string_formater(bib_string))
+        md_file.write("\n")
+    except Exception as inst:
+        print(inst)
+        md_file.write("Error : " + str(inst))
+        md_file.write("\n")
 
-        if repo == "ICMC":
-            booktitle = entry.get('booktitle', '').value
-            md_file.write(f"> {author}. {year}. {title}. *{booktitle}*.\n\n")
-            md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/{year}.bib)\n\n") #I hardcoded all the conference proceedings papers to be identified with ICMC Folder. Fix this later
+    if repo == "ISIDM":
+        if entry.get('url', ''):
+            url = entry.get('url', '').value
+            md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp>") #I hardcoded all the journal articles to be identified with CMJ Folder. Fix this later
+        else: 
+            md_file.write(f"[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/{year}/{key}.bib)\n\n")
+        
+    elif repo == "CMJ":
+        url = entry.get('url', '').value
+        md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/{year}.bib)\n\n") #I hardcoded all the journal articles to be identified with CMJ Folder. Fix this later
+    elif repo == "ICMC":
+        url = entry.get('url', '').value
+        md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/{year}.bib)\n\n") #I hardcoded all the conference proceedings papers to be identified with ICMC Folder. Fix this later
+
+    # else:
+    #     title = entry.get('title', '').value
+    #     author = entry.get('author', '').value
+    #     year = entry.get('year', '').value
+    #     try:
+    #         url = entry.get('url', '').value
+    #     except:
+    #         url = entry.get('URL', '').value   
+    #     entry_type = entry.entry_type
+    #     if repo == "CMJ":
+    #         number = entry.get('number', '').value
+    #         journal = entry.get('journal', '').value
+    #         volume = entry.get('volume', '').value
+    #         md_file.write(f"> {author}. {year}. {title}. *{journal} v.{volume} n.{number}*.\n\n")
+
+    #     if repo == "ICMC":
+    #         booktitle = entry.get('booktitle', '').value
+    #         md_file.write(f"> {author}. {year}. {title}. *{booktitle}*.\n\n")
+    #         md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/{year}.bib)\n\n") #I hardcoded all the conference proceedings papers to be identified with ICMC Folder. Fix this later
         
     
 
@@ -147,73 +158,20 @@ def ref_fetcher(md_file):
     bib_Lib = bp.Library()
     other_bib_Lib = bp.Library()
     bib_Lib, other_bib_Lib = ISIDM_fetcher(bib_Lib)
-    # print(other_bib_Lib.entries)
     bib_Lib = CMJ_fetcher(bib_Lib)
     bib_Lib = ICMC_fetcher(bib_Lib)
     all_entries = bib_sorter(bib_Lib)
-
+    last_entry = all_entries[0]
+    md_file.write(f"## {last_entry.get('year', '').value}\n\n")
     for entry in all_entries:
+        if last_entry.get('year', '').value != entry.get('year', '').value:
+            md_file.write(f"## {entry.get('year', '').value}\n\n")
         md_generator(entry, entry.get('repo', '').value, md_file)
+        last_entry = entry
 
         
 
 
-def ref_parser_one(directory, md_file):
-    # create a list to store entries from all bib files
-        all_entries = []    
-    
-        # create a list of bib files in the directory
-        bib_files = [f for f in os.listdir(directory) if f.endswith('.bib')]
-    
-        # iterate over all bib files and extract the data
-        for bib_file in bib_files:
-            bib_database = bp.parse_file(os.path.join(directory, bib_file))
-            all_entries = bib_database.entries
-            md_file.write(f"### " + bib_file.split(".")[0] + "\n")
-            md_file.write("---" + "\n")
-
-            for entry in all_entries:
-                title = entry.get('title', '').value
-                author = entry.get('author', '').value
-                year = entry.get('year', '').value
-                try:
-                    url = entry.get('url', '').value
-                except:
-                    url = entry.get('URL', '').value
-                entry_type = entry.entry_type
-                if entry_type == 'article':
-                    number = entry.get('number', '').value
-                    journal = entry.get('journal', '').value
-                    volume = entry.get('volume', '').value
-                    md_file.write(f"> {author}. {year}. {title}. *{journal} v.{volume} n.{number}*.\n\n")
-                    md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/{year}.bib)\n\n") #I hardcoded all the journal articles to be identified with CMJ Folder. Fix this later
-        
-                if entry_type == 'inproceedings':
-                    booktitle = entry.get('booktitle', '').value
-                    md_file.write(f"> {author}. {year}. {title}. *{booktitle}*.\n\n")
-                    md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/{year}.bib)\n\n") #I hardcoded all the conference proceedings papers to be identified with ICMC Folder. Fix this later
-
-def ref_parser_two(directory, md_file):
-    directory = directory+"/bib_files"
-    bib_folders = [folder for folder in os.listdir(directory)]
-    bib_folders.sort()
-    for folder in bib_folders:
-        md_file.write(f"### {folder} \n --- \n")
-        
-        bib_files = [bib_ref for bib_ref in os.listdir(directory+"/"+folder)]
-        for bib_file in bib_files:
-            try:
-                bib_ref = bp.parse_file(directory+"/"+folder+"/"+bib_file)
-                bib_string = pybtex.format_from_string(bib_ref.entries[0].raw,"plain", output_backend = "html")
-                md_file.write(">" + bib_string_formater(bib_string))
-                md_file.write("\n\n")
-                md_file.write(f"[<kbd><br>BibTex<br></kbd>]({directory}/{folder}/{bib_file})\n\n") 
-                
-            except Exception as inst:
-                md_file.write(f"> Error: {inst} ")
-                md_file.write("\n\n")
-                md_file.write(f"[<kbd><br>BibTex<br></kbd>]({directory}/{folder}/{bib_file})\n\n") 
-                md_file.write("\n\n")
 
 
 # create a list of subdirectories containing bib files
