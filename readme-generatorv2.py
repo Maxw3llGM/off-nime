@@ -131,29 +131,6 @@ def md_generator(entry, repo, md_file):
         url = entry.get('url', '').value
         md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/{year}.bib)\n\n") #I hardcoded all the conference proceedings papers to be identified with ICMC Folder. Fix this later
 
-    # else:
-    #     title = entry.get('title', '').value
-    #     author = entry.get('author', '').value
-    #     year = entry.get('year', '').value
-    #     try:
-    #         url = entry.get('url', '').value
-    #     except:
-    #         url = entry.get('URL', '').value   
-    #     entry_type = entry.entry_type
-    #     if repo == "CMJ":
-    #         number = entry.get('number', '').value
-    #         journal = entry.get('journal', '').value
-    #         volume = entry.get('volume', '').value
-    #         md_file.write(f"> {author}. {year}. {title}. *{journal} v.{volume} n.{number}*.\n\n")
-
-    #     if repo == "ICMC":
-    #         booktitle = entry.get('booktitle', '').value
-    #         md_file.write(f"> {author}. {year}. {title}. *{booktitle}*.\n\n")
-    #         md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/{year}.bib)\n\n") #I hardcoded all the conference proceedings papers to be identified with ICMC Folder. Fix this later
-        
-    
-
-
 def ref_fetcher(md_file):
     bib_Lib = bp.Library()
     other_bib_Lib = bp.Library()
@@ -169,18 +146,12 @@ def ref_fetcher(md_file):
         md_generator(entry, entry.get('repo', '').value, md_file)
         last_entry = entry
 
-        
+def main():
+    with open("README2.md", "w") as md_file:
+        md_file.write(f"# Off-NIME NIME Papers\n")
+        md_file.write(f"Nime papers, chapters and books published outside of the NIME Conference Proceedings\n")
+        ref_fetcher(md_file)
 
 
-
-
-# create a list of subdirectories containing bib files
-directories = ["./CMJ", "./ICMC", "./ISIDM"]
-
-with open("README2.md", "w") as md_file:
-    md_file.write(f"# Off-NIME NIME Papers\n")
-    md_file.write(f"Nime papers, chapters and books published outside of the NIME Conference Proceedings\n")
-    
-    ref_fetcher(md_file)
-
-        
+if __name__ =='__main__':
+    main()
