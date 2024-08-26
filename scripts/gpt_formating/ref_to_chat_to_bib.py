@@ -80,23 +80,23 @@ assistant = client.beta.assistants.update(
 # ) as stream:
 #     stream.until_done()
 
-thread = client.beta.threads.create(
-  messages=[
-    {
-      "role": "user",
-      "content": [
-        {
-          "type": "text",
-          "text": "Based on the reference templates listed in the attached file, can you format the entire list of references into bib text references"
-        },
-        {
-          "type": "text",
-          "text": json_conv
-        },
-      ],
-        "attachments": [
-        { "file_id": json_file.id, "tools": [{"type": "file_search"}] }
-      ],
-    }
-  ]
-)
+# thread = client.beta.threads.create(
+#   messages=[
+#     {
+#       "role": "user",
+#       "content": [
+#         {
+#           "type": "text",
+#           "text": "Based on the reference templates listed in the attached file, can you format the entire list of references into bib text references"
+#         },
+#         {
+#           "type": "text",
+#           "text": json_conv
+#         },
+#       ],
+#         "attachments": [
+#         { "file_id": json_file.id, "tools": [{"type": "file_search"}] }
+#       ],
+#     }
+#   ]
+# )
