@@ -1,0 +1,131 @@
+[
+  {
+    "author": [
+      {
+        "family": "Naef",
+        "given": "Martin"
+      },
+      {
+        "family": "Collicott",
+        "given": "Daniel"
+      }
+    ],
+    "container-title": "Nime",
+    "id": "Naef2006VR",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "57-60",
+    "title": "A VR Interface for Collaborative 3D Audio Performance",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Waters",
+        "given": "Simon"
+      }
+    ],
+    "container-title": "jnmr",
+    "id": "Waters2021Entanglements",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "133-146",
+    "title": "The entanglements which make instruments musical: Rediscovering sociality",
+    "type": "article-journal",
+    "volume": "50"
+  },
+  {
+    "author": [
+      {
+        "family": "Calegario",
+        "given": "Filipe"
+      }
+    ],
+    "id": "Calegario2019Springer",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "publisher": "Springer Cham",
+    "publisher-place": "Cham, Switzerland",
+    "title": "Designing Digital Musical Instruments Using Probatio: A Physical Prototyping Toolkit ",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hardjowirogo",
+        "given": "Sarah-Indriyati"
+      }
+    ],
+    "container-title": "Musical instruments in the 21st century: Identities, configurations, practices",
+    "id": "Hardjowirogo2017Instrumentality",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "9-24",
+    "publisher": "Springer",
+    "publisher-place": "Singapore",
+    "title": " Instrumentality. On the Construction of Instrumental Identity ",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Marquez-Borbon",
+        "given": "Adnan"
+      }
+    ],
+    "genre": "PhD thesis",
+    "id": "Adnan2013Thesis",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "publisher": "Queen’s University Belfast",
+    "publisher-place": "Belfast, Northern Ireland",
+    "title": "Working Through: Characterising and Evaluating Skill with Digital Musical Interactions",
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Malloch",
+        "given": "Joseph W"
+      }
+    ],
+    "genre": "Master’s thesis",
+    "id": "malloch_consort_2008",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "publisher": "McGill University",
+    "title": "A Consort of Gestural Musical Controllers: Design, Construction, and Performance",
+    "type": "thesis"
+  }
+]
