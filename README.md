@@ -1099,7 +1099,7 @@ D.&nbsp;M. Gavrilla and L.&nbsp;S. Davis. <span class="bibtex-protected">3-D mod
 T.&nbsp;Kanamori, H.&nbsp;Katayose, Y.&nbsp;Aono, S.&nbsp;Inokuchi, and T.&nbsp;Sakaguchi. <span class="bibtex-protected">Sensor Integration for Interactive Digital Art</span>. In <em>Proceedings of the 1995 International Computer Music Conference</em>, 265–268. San Francisco, 1995. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Kanamori1995Sensor.bib)
 
-Error : Too many commas in 'Maes, P., Darrell, T., Blumberg, B., Pentland, A.'
+P.&nbsp;Maes, T.&nbsp;Darrell, B.&nbsp;Blumberg, and A.&nbsp;Pentland. <span class="bibtex-protected">The ALIVE system: Full-body interaction with autonomous agents</span>. In <em>Proceedings of the Computer Animation '95 Conference</em>. Geneva, Switzerland, 1995.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Maes1995ALIVE.bib)
 
 R.&nbsp;Vertegaal and T.&nbsp;Ungvary. <span class="bibtex-protected">The Sentograph: Input Devices and the Communication of Bodily Expression</span>. In <em>Proceedings of the 1995 International Computer Music Conference</em>, 253&ndash;256. San Francisco, 1995. International Computer Music Association.
