@@ -2460,8 +2460,6 @@ D.&nbsp;Huron. <span class="bibtex-protected">Music Information Processing Using
 Joachim Glesner. <span class="bibtex-protected">Web Dance: Konvergenzen zwischen Tanz und Internet?</span> In Christa Zipprich and Gabriele Klein, editors, <em>Tanz, Theorie, Text. Jahrbuch der Gesellschaft für Tanzforschung</em>, pages 509&ndash;2. LIT Verlag, Hamburg, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Glesner2002Web.bib)
 
-
-
 S.&nbsp;Fels, A.&nbsp;Gadd, and A.&nbsp;Mulder. <span class="bibtex-protected">Mapping Transparency through Metaphor: towards more expressive musical instruments</span>. <em>Organised Sound</em>, 7(2):109&ndash;126, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Fels2002Mapping.bib)
 
@@ -2730,7 +2728,6 @@ Z.&nbsp;Yang, B.&nbsp;Yu, R.&nbsp;Diankov, W.&nbsp;Wu, and R.&nbsp;Bajscy. <span
 
 D.&nbsp;Overholt. <span class="bibtex-protected">Musical Interaction Design with the CREATE USB Interface: Teaching HCI with CUIs instead of GUIs</span>. In <em>Proceedings of the International Computer Music Conference (ICMC-2006)</em>, 6&ndash;11. New Orleans, USA, 2006.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2006/Overholt2006Interaction.bib)
-
 
 ## 2007
 
