@@ -2460,8 +2460,7 @@ D.&nbsp;Huron. <span class="bibtex-protected">Music Information Processing Using
 Joachim Glesner. <span class="bibtex-protected">Web Dance: Konvergenzen zwischen Tanz und Internet?</span> In Christa Zipprich and Gabriele Klein, editors, <em>Tanz, Theorie, Text. Jahrbuch der Gesellschaft für Tanzforschung</em>, pages 509&ndash;2. LIT Verlag, Hamburg, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Glesner2002Web.bib)
 
-A.&nbsp;Hunt, M.&nbsp;Wanderley, and M.&nbsp;Paradis. <span class="bibtex-protected">The Importance of Parameter Mapping in Electronic Instrument Design</span>. In <em>Proceedings of the 2002 conference on New Interfaces for Musical Expression</em>, 1&ndash;6. National University of Singapore, 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Hunt2002Importance.bib)
+
 
 S.&nbsp;Fels, A.&nbsp;Gadd, and A.&nbsp;Mulder. <span class="bibtex-protected">Mapping Transparency through Metaphor: towards more expressive musical instruments</span>. <em>Organised Sound</em>, 7(2):109&ndash;126, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Fels2002Mapping.bib)
@@ -2732,8 +2731,6 @@ Z.&nbsp;Yang, B.&nbsp;Yu, R.&nbsp;Diankov, W.&nbsp;Wu, and R.&nbsp;Bajscy. <span
 D.&nbsp;Overholt. <span class="bibtex-protected">Musical Interaction Design with the CREATE USB Interface: Teaching HCI with CUIs instead of GUIs</span>. In <em>Proceedings of the International Computer Music Conference (ICMC-2006)</em>, 6&ndash;11. New Orleans, USA, 2006.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2006/Overholt2006Interaction.bib)
 
-R.&nbsp;Aylward and J.&nbsp;Paradiso. <span class="bibtex-protected">Sensemble: A Wireless, Compact, Multi-User Sensor System for Interactive Dance</span>. In <em>Proceedings of 2006 Conference on New Interfaces for Musical Expression</em>, 134&ndash;139. Paris, France, 2006.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2006/Aylward2006Sensemble.bib)
 
 ## 2007
 
@@ -2941,9 +2938,6 @@ P.D. Lehrman. <span class="bibtex-protected">The Wii Remote as a Musical Instrum
 
 ## 2010
 
-C.&nbsp;Roberts, M.&nbsp;Wright, J.&nbsp;Kuchera-Morin, L.&nbsp;Putnam, and G.&nbsp;Wakefield. <span class="bibtex-protected">Dynamic Interactivity Inside the AlloSphere</span>. In <em>Proceedings of the 2010 Conference on New Interfaces for Musical Expression</em>, pp. 57. 2010.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Roberts2010_Dynamic.bib)
-
 P.&nbsp;F. Dunn. <em><span class="bibtex-protected">Measurement and Data Analysis for Engineering and Science</span></em>. CRC Press, Taylor &amp; Francis Group, 2010.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Dunn2010Measurement.bib)
 
@@ -2956,23 +2950,11 @@ R.&nbsp;Hoadley. <span class="bibtex-protected">Implementation and Developments 
 M.&nbsp;Schumacher and J.&nbsp;Bresson. <span class="bibtex-protected">Spatial Sound Synthesis in Computer-Aided Composition</span>. <em>Organised Sound</em>, 15(3):271–289, 2010.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Schumacher_2010_Spatial.bib)
 
-L.&nbsp;Dahl and G.&nbsp;Wang. <span class="bibtex-protected">Sound Bounce: Physical Metaphors in Designing Mobile Music Performance</span>. In <em>Proceedings of the 2010 Conference on New Interfaces for Musical Expression</em>, 178. 2010.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Dahl2010Sound.bib)
-
 L.&nbsp;Mion, G.&nbsp;D'Inca, A.&nbsp;de&nbsp;Gotzen, and E.&nbsp;Rapana. <span class="bibtex-protected">Modeling Expression with Perceptual Audio Features to Enhance User Interaction</span>. <em>Computer Music Journal</em>, 34(1):65&ndash;79, 2010.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Mion2010Modeling.bib)
 
-T.&nbsp;Humphrey, M.&nbsp;Flynn, and J.&nbsp;Stevens. <span class="bibtex-protected">Epi-thet: A Musical Performance Installation and a Choreography of Stillness</span>. In <em>Proceedings of the 2010 Conference on New Interfaces for Musical Expression</em>, 69. 2010.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Humphrey2010Epi-thet.bib)
-
-A.&nbsp;McPherson and Y.&nbsp;Kim. <span class="bibtex-protected">Augmenting the Acoustic Piano with Electromagnetic String Actuation and Continuous Key Position Sensing</span>. In <em>Proceedings of the 2010 Conference on New Interfaces for Musical Expression</em>, 217. 2010.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/McPherson2010Augmenting.bib)
-
 M.&nbsp;Frank, L.&nbsp;Mehr, A.&nbsp;Sontacchi, and F.&nbsp;Zotter. <span class="bibtex-protected">Flexible and Intuitive Pointing Method for 3D Auditory Localization Experiments</span>. In <em>Proceedings of the 130th Audio Engineering Society Conference</em>. New York, 2010. Audio Engineering Society. Paper no. 38.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Frank2010Pointing.bib)
-
-J.&nbsp;Hochenbaum, A.&nbsp;Kapur, and M.&nbsp;Wright. <span class="bibtex-protected">Multimodal Musician Recognition</span>. In <em>Proceedings of the 2010 Conference on New Interfaces for Musical Expression</em>, 233. 2010.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Hochenbaum2010Musician.bib)
 
 M.&nbsp;Schumacher and J.&nbsp;Bresson. <span class="bibtex-protected">Compositional Control of Periphonic Sound Spatialization</span>. In <em>Proceedings of the 2nd International Symposium on Ambisonics and Spherical Acoustics</em>. Paris, France, 2010.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Schumacher_2010_Compositional.bib)
@@ -2983,20 +2965,11 @@ M.&nbsp;Frengel. <span class="bibtex-protected">A Multidimensional Approach to R
 M.&nbsp;A. Baalman, V.&nbsp;d Belleval, C.&nbsp;L. Salter, J.&nbsp;Malloch, J.&nbsp;Thibodeau, and M.&nbsp;Wanderley. <span class="bibtex-protected">Sense/Stage- Low Cost, Open Source Wireless Sensor Infrastructure for Liver Performance and Interactive, Real-Time Environments</span>. In <em>Proceedings of Linux Audio Conference (LAC 2010)</em>, 242&ndash;249. Utrecht, The Netherlands, 2010.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Baalman2010sense.bib)
 
-T.&nbsp;Hahnel. <span class="bibtex-protected">From Mozart to MIDI: A Rule System for Expressive Articulation</span>. In <em>Proceedings of the 2010 Conference on New Interfaces for Musical Expression</em>, 72. 2010.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Hahnel2010Mozart.bib)
-
 D.&nbsp;Black, K.&nbsp;Gohlke, and J.&nbsp;Lovischach. <span class="bibtex-protected">Foley Sonic: Placing Sounds on a Timeline Through Gestures</span>. In <em>Proceedings of the 128th Audio Engineering Society Conference</em>. New York, 2010. Audio Engineering Society. Paper no. 8004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Black2010Foley.bib)
 
 J.&nbsp;Bresson, C.&nbsp;Agon, and M.&nbsp;Schumacher. <span class="bibtex-protected">Représentation des données de contrôle pour la spatialisation dans OpenMusic</span>. In <em>Actes des Journées d'Informatique Musicale</em>. Rennes, France, 2010.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Bresson2010representation.bib)
-
-M.&nbsp;Havryliv. <span class="bibtex-protected">Composing For Improvisation with Chaotic Oscillators</span>. In <em>Proceedings of the 2010 Conference on New Interfaces for Musical Expression</em>, 94. 2010.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Havryliv2010Chaotic.bib)
-
-T.&nbsp;Baba, M.&nbsp;Hashida, and H.&nbsp;Katayose. <span class="bibtex-protected">VirtualPhilharmony: A Conducting System with Heuristics of Conducting an Orchestra</span>. In <em>Proceedings of the 2010 Conference on New Interfaces for Musical Expression</em>, 263. 2010.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Baba_2010_VirtualPhilharmony.bib)
 
 Henning Pohl. <span class="bibtex-protected">Motion Pattern Recognition For Interactive Dance</span>. Master's thesis, Darmstadt, Germany, 2010.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Pohl2010Motion.bib)
@@ -3004,14 +2977,8 @@ Henning Pohl. <span class="bibtex-protected">Motion Pattern Recognition For Inte
 T.&nbsp;Murray-Browne and et. al. <span class="bibtex-protected">The Serendiptichord: A Wearable Instrument for Contemporary Dance Performance</span>. In <em>Proceedings of the 128th Audio Engineering Society Convention</em>, Paper no. 8139. New York, 2010. Audio Engineering Society.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Murray-Browne2010Serendiptichord.bib)
 
-T.&nbsp;Yamaguchi, T.&nbsp;Kobayashi, A.&nbsp;Ariga, and S.&nbsp;Hashimoto. <span class="bibtex-protected">TwinkleBall: A Wireless Musical Interface for Embodied Sound Media</span>. In <em>Proceedings of the 2010 Conference on New Interfaces for Musical Expression</em>, 116. 2010.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Yamaguchi2010TwinkleBall.bib)
-
 K.&nbsp;Petersen, J.&nbsp;Solis, and A.&nbsp;Takanishi. <span class="bibtex-protected">Musical-based interaction system for the Waseda Flutist Robot</span>. <em>Autonomous Robots</em>, 28(4):471&ndash;488, 2010.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Petersen2010Interaction.bib)
-
-A.&nbsp;Tanaka. <span class="bibtex-protected">Mapping Out Instruments, Affordances, and Mobiles</span>. In <em>Proceedings of the 2010 Conference on New Interfaces for Musical Expression</em>, 88. 2010.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Tanaka2010Mapping.bib)
 
 R.&nbsp;Wechsler and A.&nbsp;P. Acitores. <span class="bibtex-protected">Motion Tracking: a Music and Dance Tool for People with Cerebral Palsy</span>. publication pending, 2010.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Wechsler2010Cerebral.bib)
