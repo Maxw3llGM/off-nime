@@ -2,11 +2,11 @@
 NIME-related papers, chapters, thesis and books published in other venues
 ## 1969
 
-M.&nbsp;V. Mathews and R.&nbsp;Moore. <span class="bibtex-protected">A Program to Compose, Store, and Edit Functions of Time</span>. <em>Communications of the ACM</em>, 13(12):715&ndash;721, 1969.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1969/Mathews1969Program.bib)
-
 M.&nbsp;V. Mathews and R.&nbsp;Moore. <span class="bibtex-protected">GROOVE, a Program for Realtime Control of a Sound Synthesizer by a Computer</span>. In <em>Proceedings of the 4th Annual Conference of the American Society of University Composers</em>, 22&ndash;31. New York, 1969. ASUC, Columbia University.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1969/Mathews1969GROOVE.bib)
+
+M.&nbsp;V. Mathews and R.&nbsp;Moore. <span class="bibtex-protected">A Program to Compose, Store, and Edit Functions of Time</span>. <em>Communications of the ACM</em>, 13(12):715&ndash;721, 1969.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1969/Mathews1969Program.bib)
 
 ## 1970
 
@@ -91,11 +91,11 @@ M.&nbsp;V. Mathews and G.&nbsp;Bennet. <span class="bibtex-protected">Real-Time 
 
 ## 1979
 
-W.A.S. Buxton, R.&nbsp;Sniderman, W.&nbsp;Reeves, S.&nbsp;Patel, and R.&nbsp;Baecker. <span class="bibtex-protected">The Evolution of the SSSP Score-Editing Tools</span>. <em>Computer Music Journal</em>, 3(4):14&ndash;25, 1979.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1979/Buxton1979Evolution.bib)
-
 W.&nbsp;Buxton and others. <span class="bibtex-protected">A Computer-Based System for the Performance of Electroacoustic Music</span>. In <em>Proceedings of the 64th Annual Audio Engineering Society Convention</em>. New York, 1979. Audio Engineering Society. Paper no. 1529.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1979/Buxton1979Electroacoustic.bib)
+
+W.A.S. Buxton, R.&nbsp;Sniderman, W.&nbsp;Reeves, S.&nbsp;Patel, and R.&nbsp;Baecker. <span class="bibtex-protected">The Evolution of the SSSP Score-Editing Tools</span>. <em>Computer Music Journal</em>, 3(4):14&ndash;25, 1979.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1979/Buxton1979Evolution.bib)
 
 S.&nbsp;R. Holtzman. An automated digital sound synthesis instrument. <em>Computer Music Journal</em>, 3(2):53–61, 1979. URL: <a href="http://www.jstor.org/stable/3680284">http://www.jstor.org/stable/3680284</a>.
 [<kbd><br>Download PDF<br></kbd>](http://www.jstor.org/stable/3680284) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1979.bib)
@@ -204,11 +204,11 @@ Werner Kaegi. The midim system. In <em>Proceedings of the International Computer
 Gary Nelson and John Talbert. The alles machine revisited. In <em>Proceedings of the International Computer Music Conference</em>, 104&ndash;110. Eastman School of Music, Rochester, USA, 1983. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1983.010/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1983.010/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1983.010/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1983.bib)
 
-J.&nbsp;Snell. <span class="bibtex-protected">Sensors for Playing Computer Music with Expression</span>. In <em>Proceedings of the 1983 International Computer Music Conference (ICMC83)</em>, 113&ndash;126. Rochester, USA, 1983.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1983/Snell1983Expression.bib)
-
 J.&nbsp;Snell. <span class="bibtex-protected">Sensors for Playing Computer Music with Expression</span>. In <em>Proceedings of the 1983 International Computer Music Conference</em>. San Francisco, 1983. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1983/Snell1983Sensors.bib)
+
+J.&nbsp;Snell. <span class="bibtex-protected">Sensors for Playing Computer Music with Expression</span>. In <em>Proceedings of the 1983 International Computer Music Conference (ICMC83)</em>, 113&ndash;126. Rochester, USA, 1983.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1983/Snell1983Expression.bib)
 
 John Snell. Sensors for playing computer music with expression. In <em>Proceedings of the International Computer Music Conference</em>, 114&ndash;127. Eastman School of Music, Rochester, USA, 1983. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1983.012/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1983.012/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1983.012/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1983.bib)
@@ -347,11 +347,11 @@ Michel Starkier and Philippe Prevot. Real-time gestural control. In <em>Proceedi
 
 ## 1987
 
-W.A.S. Buxton. <span class="bibtex-protected">The Haptic Channel</span>. In Baecker and Buxton, editors, <em>Readings in Human-Computer Interaction: A Multidisciplinary Approach</em>, pages 357&ndash;365. Morgan Kaufmann Publishers, San Mateo, CA, 1987.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1987/Buxton1987Haptic.bib)
-
 R.&nbsp;M. Baecker and W.&nbsp;A.&nbsp;S. Buxton. <em><span class="bibtex-protected">Readings in Human-Computer Interaction: A Multidisciplinary Approach</span></em>. Morgan-Kauffmann Publishers, Inc., San Mateo, Calif., 1987.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1987/Baecker_1987_HumanComputer.bib)
+
+W.A.S. Buxton. <span class="bibtex-protected">The Haptic Channel</span>. In Baecker and Buxton, editors, <em>Readings in Human-Computer Interaction: A Multidisciplinary Approach</em>, pages 357&ndash;365. Morgan Kaufmann Publishers, San Mateo, CA, 1987.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1987/Buxton1987Haptic.bib)
 
 A.&nbsp;Camurri and others. <span class="bibtex-protected">Interactions between music and movement: A system for music generation from 3D animations</span>. In <em>Proceedings of the 4th international conference on event perception and action</em>. Trieste, 1987.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1987/Camurri1987Music.bib)
@@ -400,11 +400,11 @@ Sylvie Gibet and Jean-Loup Florens. Instrumental gesture modeling by identificat
 D.&nbsp;Herbison-Evans. <span class="bibtex-protected">Dance, Video, Notation and Computers</span>. <em>Leonardo</em>, 21(1):45–50, 1988.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1988/Herbison-Evans1988Dance.bib)
 
-J.-M. Raczinski and G.&nbsp;Marino. <span class="bibtex-protected">A Real-Time Synthesis Unit</span>. In <em>Proceedings of the 1988 International Computer Music Conference</em>, 90&ndash;100. San Francisco, CA, 1988. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1988/Raczinski1988_RealTime.bib)
-
 D.&nbsp;Rubine and P.&nbsp;McAvinney. <span class="bibtex-protected">The Videoharp</span>. In <em>Proceedings of the 1988 International Computer Music Conference</em>, 49&ndash;55. San Francisco, 1988. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1988/Rubine1988Videoharp.bib)
+
+J.-M. Raczinski and G.&nbsp;Marino. <span class="bibtex-protected">A Real-Time Synthesis Unit</span>. In <em>Proceedings of the 1988 International Computer Music Conference</em>, 90&ndash;100. San Francisco, CA, 1988. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1988/Raczinski1988_RealTime.bib)
 
 Rubine Dean and Paul McAvinney. The videoharp. In <em>Proceedings of the International Computer Music Conference</em>, 49&ndash;55. GIMIK, Köln, Germany, 1988. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1988.006/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1988.006/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1988.006/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1988.bib)
@@ -450,8 +450,8 @@ Gregory Kramer, Robert Moog, and Alan Peevers. The hybrid: a music performance s
 George&nbsp;W. Logemman. Experiments with a gestural controller. In <em>Proceedings of the International Computer Music Conference</em>, 184&ndash;185. Ohio State University, Columbus, USA, 1989. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1989.045/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1989.045/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1989.045/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1989.bib)
 
-T.&nbsp;Machover and J.&nbsp;Chung. <span class="bibtex-protected">Hyperinstruments: Musically intelligent and interactive performance and creativity systems</span>. In <em>Proceedings International Computer Music Conference</em>. Columbus, Ohio, USA, 1989. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1989/Machover1989Hyperinstruments.bib)
+M.&nbsp;V. Mathews and J.&nbsp;R. Pierce, editors. <em><span class="bibtex-protected">Current Directions in Computer Music Research</span></em>. Volume&nbsp;2 of System Development Foundation Benchmark Series: The MIT. The MIT Press, Cambridge, Mass., 1989.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1989/Mathews1989Current.bib)
 
 H.&nbsp;Morita, S.&nbsp;Otheru, and S.&nbsp;Hashimoto. <span class="bibtex-protected">Computer Music System that Follows a Human Conductor</span>. In <em>Proceedings of the 1989 International Computer Music Conference</em>, 207&ndash;210. San Francisco, 1989. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1989/Morita_1989_computer.bib)
@@ -459,14 +459,14 @@ H.&nbsp;Morita, S.&nbsp;Otheru, and S.&nbsp;Hashimoto. <span class="bibtex-prote
 T.&nbsp;Machover, J.&nbsp;Performance, and J.&nbsp;Chung. <span class="bibtex-protected">Hyperinstruments: Musically Intelligent and Interactive Performance</span>. In <em>Proceedings of the 1989 International Computer Music Conference</em>, 186&ndash;190. International Computer Music Association, 1989.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1989/Machover1989Musically.bib)
 
-M.&nbsp;V. Mathews and J.&nbsp;R. Pierce, editors. <em><span class="bibtex-protected">Current Directions in Computer Music Research</span></em>. Volume&nbsp;2 of System Development Foundation Benchmark Series: The MIT. The MIT Press, Cambridge, Mass., 1989.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1989/Mathews1989Current.bib)
-
 M.&nbsp;V. Mathews. <span class="bibtex-protected">The Conductor Program and the Mechanical Baton</span>. In M.&nbsp;Mathews and J.&nbsp;Pierce, editors, <em>Current Directions in Computer Music Research</em>, pages 263&ndash;282. The MIT Press, Cambridge, Mass., 1989.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1989/Mathews1989Conductor.bib)
 
 D.&nbsp;Morrill and P.R. Cook. <span class="bibtex-protected">Hardware, Software, and Compositional Tools for a Real-Time Improvised Solo Trumpet Work</span>. In <em>Proceedings of the 1989 International Computer Music Conference</em>, 211&ndash;214. San Francisco, 1989. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1989/Morrill_1989_hardware.bib)
+
+T.&nbsp;Machover and J.&nbsp;Chung. <span class="bibtex-protected">Hyperinstruments: Musically intelligent and interactive performance and creativity systems</span>. In <em>Proceedings International Computer Music Conference</em>. Columbus, Ohio, USA, 1989. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1989/Machover1989Hyperinstruments.bib)
 
 Tod Machover. Hyperinstruments: musically intelligent and interactive performance and creativity systems. In <em>Proceedings of the International Computer Music Conference</em>, 186&ndash;190. Ohio State University, Columbus, USA, 1989. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1989.046/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1989.046/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1989.046/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1989.bib)
@@ -503,17 +503,17 @@ Marina Bosi. An interactive real-time system for the control of sound localizati
 Marina Bosi. An interactive real-time system for the control of sound localization. In <em>Proceedings of the International Computer Music Conference</em>, 112&ndash;114. University of Glasgow, Glasgow, United Kingdom, 1990. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1990.028/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1990.028/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1990.028/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1990.bib)
 
+X.&nbsp;Chabot. <span class="bibtex-protected">Gesture Interfaces and a Software Toolkit for Performance with Electronics</span>. <em>Computer Music Journal</em>, 14(2):15&ndash;27, 1990.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Chabot1990Gesture.bib)
+
+C.&nbsp;Cadoz and C.&nbsp;Ramstein. <span class="bibtex-protected">Capture, Representation and Composition of the Instrumental Gesture</span>. In <em>Proceedings of the 1990 International Computer Music Conference</em>, 53&ndash;56. San Francisco, 1990. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Cadoz1990Capture.bib)
+
 C.&nbsp;Cadoz, L.&nbsp;Lisowsky, and J.&nbsp;L. Florens. <span class="bibtex-protected">Modular Feedback Keyboard</span>. In <em>Proceedings of the 1990 International Computer Music Conference</em>, 379&ndash;382. San Francisco, 1990. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Cadoz1990Feedback.bib)
 
 C.&nbsp;Cadoz, L.&nbsp;Lisowski, and J.&nbsp;L. Florens. <span class="bibtex-protected">A Modular Feedback Keyboard Design</span>. <em>Computer Music Journal</em>, 14(2):47&ndash;51, 1990.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Cadoz1990Modular.bib)
-
-C.&nbsp;Cadoz and C.&nbsp;Ramstein. <span class="bibtex-protected">Capture, Representation and Composition of the Instrumental Gesture</span>. In <em>Proceedings of the 1990 International Computer Music Conference</em>, 53&ndash;56. San Francisco, 1990. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Cadoz1990Capture.bib)
-
-X.&nbsp;Chabot. <span class="bibtex-protected">Gesture Interfaces and a Software Toolkit for Performance with Electronics</span>. <em>Computer Music Journal</em>, 14(2):15&ndash;27, 1990.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Chabot1990Gesture.bib)
 
 Xavier Chabot. Gesture interfaces and a software toolkit for performance with electronics. <em>Computer Music Journal</em>, 14(2):15–27, 1990. URL: <a href="https://www.jstor.org/stable/3679708">https://www.jstor.org/stable/3679708</a>.
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3679708) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1990.bib)
@@ -560,14 +560,14 @@ Volker Krefeld. The hand in the web: an interview with michel waisvisz. <em>Comp
 M.&nbsp;Minnick. <span class="bibtex-protected">A Graphical Editor for Building Unit Generator Patches</span>. In <em>Proceedings of the International Computer Music Conference (ICMC 1990)</em>, 253&ndash;255. Glasgow, UK, 1990.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Minnick1990Graphical.bib)
 
-J.&nbsp;D. Mackinlay, S.&nbsp;K. Card, and G.&nbsp;G. Robertson. <span class="bibtex-protected">A Semantic Analysis of the Design Space of Input Devices</span>. <em>Human-Computer Interaction</em>, 5:145&ndash;190, 1990.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Mackinlay1990Semantic.bib)
+R.&nbsp;Moog and T.&nbsp;Rea. <span class="bibtex-protected">Evolution of the Keyboard Interface: The Bosendorfer 290SE Recording Piano and the Moog Multiply-Touch-Sensitive Keyboards</span>. <em>Computer Music Journal</em>, 14(2):52&ndash;60, 1990.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Moog_1990_evolution.bib)
 
 H.&nbsp;Morita, H.&nbsp;Watanabe, T.&nbsp;Harada, S.&nbsp;Otheru, and S.&nbsp;Hashimoto. <span class="bibtex-protected">Knowledge Information Processing in Conducting Computer Music Performance</span>. In <em>Proceedings of the 1990 International Computer Music Conference</em>, 332&ndash;334. San Francisco, 1990. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Morita_1990_knowledge.bib)
 
-R.&nbsp;Moog and T.&nbsp;Rea. <span class="bibtex-protected">Evolution of the Keyboard Interface: The Bosendorfer 290SE Recording Piano and the Moog Multiply-Touch-Sensitive Keyboards</span>. <em>Computer Music Journal</em>, 14(2):52&ndash;60, 1990.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Moog_1990_evolution.bib)
+J.&nbsp;D. Mackinlay, S.&nbsp;K. Card, and G.&nbsp;G. Robertson. <span class="bibtex-protected">A Semantic Analysis of the Design Space of Input Devices</span>. <em>Human-Computer Interaction</em>, 5:145&ndash;190, 1990.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Mackinlay1990Semantic.bib)
 
 Robert Moog and Thomas Rhea. Evolution of the keyboard interface: the bösendorfer 290 se recording piano and the moog multiply-touch-sensitive keyboards. <em>Computer Music Journal</em>, 14(2):52–60, 1990. URL: <a href="https://www.jstor.org/stable/3679712">https://www.jstor.org/stable/3679712</a>.
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3679712) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1990.bib)
@@ -590,14 +590,14 @@ J.&nbsp;Pressing. <span class="bibtex-protected">Cybernetic issues in interactiv
 Jeff Pressing. Cybernetic issues in interactive performance systems. <em>Computer Music Journal</em>, 14(1):12–25, 1990. URL: <a href="https://www.jstor.org/stable/3680113">https://www.jstor.org/stable/3680113</a>.
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3680113) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1990.bib)
 
-D.&nbsp;Rosenboom. <em><span class="bibtex-protected">Extended Musical Interface with the Human Nervous System</span></em>. International Society for the Arts, Sciences, and Technology, Berkeley, Calif., 1990.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Rosenboom_1990_extended.bib)
+D.&nbsp;Rubine and P.&nbsp;McAvinney. <span class="bibtex-protected">Programmable finger tracking instrument controllers</span>. <em>Computer Music Journal</em>, 14(1):26–41, 1990.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Rubine1990Programmable.bib)
 
 D.&nbsp;Rosenboom. <em><span class="bibtex-protected">Extended Musical Interface with the Human Nervous System</span></em>. International Society for the Arts, Sciences, and Technology, Berkeley, Calif., 1990.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Rosenboom1990_Extended.bib)
 
-D.&nbsp;Rubine and P.&nbsp;McAvinney. <span class="bibtex-protected">Programmable finger tracking instrument controllers</span>. <em>Computer Music Journal</em>, 14(1):26–41, 1990.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Rubine1990Programmable.bib)
+D.&nbsp;Rosenboom. <em><span class="bibtex-protected">Extended Musical Interface with the Human Nervous System</span></em>. International Society for the Arts, Sciences, and Technology, Berkeley, Calif., 1990.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Rosenboom_1990_extended.bib)
 
 Dean Rubine and Paul McAvinney. Programmable finger-tracking instrument controllers. <em>Computer Music Journal</em>, 14(1):26–41, 1990. URL: <a href="https://www.jstor.org/stable/3680114">https://www.jstor.org/stable/3680114</a>.
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3680114) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1990.bib)
@@ -605,11 +605,11 @@ Dean Rubine and Paul McAvinney. Programmable finger-tracking instrument controll
 Alistair&nbsp;M. Riddell. A meta-action for the grand piano. In <em>Proceedings of the International Computer Music Conference</em>, 395&ndash;397. University of Glasgow, Glasgow, United Kingdom, 1990. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1990.112/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1990.112/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1990.112/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1990.bib)
 
-W.&nbsp;A. Schloss. <span class="bibtex-protected">Recent Advances in the Coupling of the Language MAX with the Mathews/Boie Radio Drum</span>. In <em>Proceedings of the International Computer Music Conference</em>, 398&ndash;400. San Francisco, 1990. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Schloss1990MAX.bib)
-
 W.&nbsp;A. Schloss. <span class="bibtex-protected">Recent Advances in the Coupling of the Language MAX with the Mathews/Boie Radio Drum</span>. In <em>Proceedings of the 1990 International Computer Music Conference</em>, 398–400. San Francisco, USA, 1990. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Schloss1990Recent.bib)
+
+W.&nbsp;A. Schloss. <span class="bibtex-protected">Recent Advances in the Coupling of the Language MAX with the Mathews/Boie Radio Drum</span>. In <em>Proceedings of the International Computer Music Conference</em>, 398&ndash;400. San Francisco, 1990. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1990/Schloss1990MAX.bib)
 
 W.&nbsp;Andrew Schloss. Recent advances in the coupling of the language max with the matthews/boie radio drum. In <em>Proceedings of the International Computer Music Conference</em>, 398&ndash;400. University of Glasgow, Glasgow, United Kingdom, 1990. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1990.113/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1990.113/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1990.113/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1990.bib)
@@ -637,14 +637,14 @@ Roger&nbsp;B. Dannenberg and Kenneth Bookstein. Practical aspects of a midi cond
 S.&nbsp;R. Ellis. <span class="bibtex-protected">Nature and Origins of Virtual Environments: A Bibliographical Essay</span>. In R.&nbsp;Baecker, J.&nbsp;Grudin, W.&nbsp;A.&nbsp;S. Buxton, and S.&nbsp;Greenberg, editors, <em>Human-Computer Interaction: Towards the Year 2000</em>, pages 913&ndash;932. Morgan Kaufmann Publishers Inc., San Mateo, Calif., 1991.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Ellis1991Nature.bib)
 
+A.&nbsp;Friberg. <span class="bibtex-protected">Generative rules for music performance: A formal description of a rule system</span>. <em>Computer Music Journal</em>, pages 56&ndash;71, 1991.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Friberg_1991_Generative.bib)
+
 C.&nbsp;Fadon. <span class="bibtex-protected">StillLife/Alive</span>. <em>Leonardo</em>, 24(2):97&ndash;115, 1991. In Connectivity: Art and Interactive Telecommunications. Roy Ascott and Carl Eugene Loeffler, (eds.).
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Fadon1991StillLife.bib)
 
 A.&nbsp;Friberg and others. <span class="bibtex-protected">PERFORMANCE RULES FOR COMPUTER-CONTROLLED CONTEMPORARY KEYBOARD MUSIC</span>. <em>Computer Music Journal</em>, 15(2):49&ndash;55, 1991.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Friberg_1991_PERFORMANCE.bib)
-
-A.&nbsp;Friberg. <span class="bibtex-protected">Generative rules for music performance: A formal description of a rule system</span>. <em>Computer Music Journal</em>, pages 56&ndash;71, 1991.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Friberg_1991_Generative.bib)
 
 E.&nbsp;Johnstone. <span class="bibtex-protected">A MIDI Foot Controller - The PodoBoard</span>. In <em>International Computer Music Conference</em>. San Francisco, CA, 1991.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Johnstone1991Controller.bib)
@@ -661,11 +661,11 @@ David Keane and Kevin Wood. The midi baton iii. In <em>Proceedings of the Intern
 M.&nbsp;Lee, A.&nbsp;Freed, and D.&nbsp;Wessel. <span class="bibtex-protected">Real-Time Neural Network Processing of Gestural and Acoustic Signals</span>. In <em>Proceedings of the 1991 International Computer Music Conference</em>, 277&ndash;280. International Computer Music Association, 1991.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Lee1991Real-Time.bib)
 
-A.&nbsp;Mulder. <span class="bibtex-protected">Viewing dance as instrumental to music</span>. <em>Interface</em>, 4(2):15&ndash;17, 1991.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Mulder1991Instrumental.bib)
-
 M.&nbsp;V. Mathews. <span class="bibtex-protected">The Radio Baton and the Conductor Program, or: Pitch, the Most Important and Least Expressive Part of Music</span>. <em>Computer Music Journal</em>, 15(4):37&ndash;46, 1991.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Mathews1991Radio.bib)
+
+A.&nbsp;Mulder. <span class="bibtex-protected">Viewing dance as instrumental to music</span>. <em>Interface</em>, 4(2):15&ndash;17, 1991.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Mulder1991Instrumental.bib)
 
 Max&nbsp;V. Mathews. The radio baton and conductor program, or: pitch, the most important and least expressive part of music. <em>Computer Music Journal</em>, 15(4):37–46, 1991. URL: <a href="https://www.jstor.org/stable/3681070">https://www.jstor.org/stable/3681070</a>.
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3681070) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1991.bib)
@@ -676,14 +676,14 @@ Pauline Oliveros. The expanded instrument system (eis). In <em>Proceedings of th
 Bruce Pennycook. Machine songs ii: the praescio series - composition-driven interactive software. <em>Computer Music Journal</em>, 15(3):16–26, 1991. URL: <a href="https://www.jstor.org/stable/3680762">https://www.jstor.org/stable/3680762</a>.
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3680762) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1991.bib)
 
-C.&nbsp;Ramstein. <em><span class="bibtex-protected">Analyse, représentation et traitement du geste instrumental</span></em>. PhD thesis, 1991.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Ramstein1991_Analyse.bib)
+J.&nbsp;Ryan. <span class="bibtex-protected">Some Remarks on Musical Instrument Design at STEIM</span>. <em>Contemporary Music Review</em>, 6(1):3&ndash;17, 1991.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Ryan1991STEIM.bib)
 
 J.&nbsp;Ryan. <span class="bibtex-protected">Some Remarks on Musical Instrument Design at STEIM</span>. <em>Contemporary Music Review</em>, 6(1):3–17, 1991.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Ryan1991Remarks.bib)
 
-J.&nbsp;Ryan. <span class="bibtex-protected">Some Remarks on Musical Instrument Design at STEIM</span>. <em>Contemporary Music Review</em>, 6(1):3&ndash;17, 1991.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Ryan1991STEIM.bib)
+C.&nbsp;Ramstein. <em><span class="bibtex-protected">Analyse, représentation et traitement du geste instrumental</span></em>. PhD thesis, 1991.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Ramstein1991_Analyse.bib)
 
 J.&nbsp;M. Raczinski. New upic system demonstration. In <em>Proceedings of the International Computer Music Conference</em>, 567&ndash;570. McGill University, Montréal, Canada, 1991. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1991.140/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1991.140/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1991.140/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1991.bib)
@@ -695,18 +695,15 @@ Atau Tanaka. Cyberarts international. <em>Computer Music Journal</em>, 15(1):55&
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3680387) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1991.bib)
 
 D.&nbsp;Wessel. <span class="bibtex-protected">Instruments that Learn, Refined Controllers, and Source Model Loudspeakers</span>. <em>Computer Music Journal</em>, 15(4):82&ndash;86, 1991.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Wessel_1991_Instruments.bib)
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Wessel1991Instruments.bib)
 
 D.&nbsp;Wessel. <span class="bibtex-protected">Instruments that Learn, Refined Controllers, and Source Model Loudspeakers</span>. <em>Computer Music Journal</em>, 15(4):82&ndash;86, 1991.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Wessel1991Instruments.bib)
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1991/Wessel_1991_Instruments.bib)
 
 David&nbsp;L. Wessel. Instruments that learn, refined controllers, source model loudspeakers. <em>Computer Music Journal</em>, 15(4):82–86, 1991. URL: <a href="https://www.jstor.org/stable/3681079">https://www.jstor.org/stable/3681079</a>.
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3681079) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1991.bib)
 
 ## 1992
-
-M.&nbsp;Bolas and P.&nbsp;Stone. <span class="bibtex-protected">Virtual Mutant Theremin</span>. In <em>Proceedings of the 1992 International Computer Music Conference</em>, 360&ndash;361. San Francisco, 1992. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Bolas1992Virtual.bib)
 
 W.&nbsp;Bauer and B.&nbsp;Foss. <span class="bibtex-protected">GAMS: An Integrated Media Controller System</span>. <em>Computer Music Journal</em>, 16(1):19&ndash;24, 1992.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Bauer1992GAMS.bib)
@@ -717,6 +714,9 @@ J.&nbsp;Bates, A.&nbsp;Bryan Loyall, and W.&nbsp;Scott Reilly. <span class="bibt
 G.&nbsp;Bertini and P.&nbsp;Carosi. <span class="bibtex-protected">The light baton: a system for conducting computer music performance</span>. In <em>Proceedings International Computer Music Conference</em>, 73&ndash;76. San Jose, California, USA, 1992. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Bertini1992Light.bib)
 
+M.&nbsp;Bolas and P.&nbsp;Stone. <span class="bibtex-protected">Virtual Mutant Theremin</span>. In <em>Proceedings of the 1992 International Computer Music Conference</em>, 360&ndash;361. San Francisco, 1992. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Bolas1992Virtual.bib)
+
 Will Bauer and Bruce Foss. Gams: an integrated media controller system. <em>Computer Music Journal</em>, 16(1):19–24, 1992. URL: <a href="https://www.jstor.org/stable/3680491">https://www.jstor.org/stable/3680491</a>.
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3680491) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1992.bib)
 
@@ -726,14 +726,14 @@ Graziano Bertini and Paolo Carosi. The light baton: a system for conducting comp
 Mark Bolas and Phil Stone. Virtual mutant theremin. In <em>Proceedings of the International Computer Music Conference</em>, 360&ndash;361. San Jose State University, San Jose, USA, 1992. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1992.098/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1992.098/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1992.098/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1992.bib)
 
-B.&nbsp;Cariou. <span class="bibtex-protected">Design of an Alternate Controller from an Industrial Design Perspective</span>. In <em>Proceedings of the 1992 International Computer Music Conference</em>, 366&ndash;367. San Francisco, 1992. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Cariou1992Alternate.bib)
+P.&nbsp;R. Cook, D.&nbsp;Morrill, and J.&nbsp;O. Smith. <span class="bibtex-protected">An Automatic Pitch Detection and MIDI Control System for Brass Instruments</span>. In <em>Acoustical Society of America Conference</em>. New Orleans, 1992.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Cook1992Pitch.bib)
 
 P.&nbsp;R. Cook. <span class="bibtex-protected">A Meta-Wind-Instrument Physical Model, and a Meta-Controller for Real Time Performance Control</span>. In <em>Proceedings of the 1992 International Computer Music Conference</em>, 273&ndash;276. San Francisco, 1992. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Cook1992Meta.bib)
 
-P.&nbsp;R. Cook, D.&nbsp;Morrill, and J.&nbsp;O. Smith. <span class="bibtex-protected">An Automatic Pitch Detection and MIDI Control System for Brass Instruments</span>. In <em>Acoustical Society of America Conference</em>. New Orleans, 1992.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Cook1992Pitch.bib)
+B.&nbsp;Cariou. <span class="bibtex-protected">Design of an Alternate Controller from an Industrial Design Perspective</span>. In <em>Proceedings of the 1992 International Computer Music Conference</em>, 366&ndash;367. San Francisco, 1992. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Cariou1992Alternate.bib)
 
 Czeiszpergerm Michael and Atau Tanaka. Cyberarts international. <em>Computer Music Journal</em>, 16(3):92–96, 1992. URL: <a href="https://www.jstor.org/stable/3680853">https://www.jstor.org/stable/3680853</a>.
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3680853) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1992.bib)
@@ -750,14 +750,14 @@ B.&nbsp;Gillespie. <span class="bibtex-protected">The Touchback Keyboard</span>.
 Brent Gillespie. Dynamical modeling of the grand piano action. In <em>Proceedings of the International Computer Music Conference</em>, 77&ndash;80. San Jose State University, San Jose, USA, 1992. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1992.021/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1992.021/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1992.021/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1992.bib)
 
+L.&nbsp;Haken, R.&nbsp;Abdullah, and M.&nbsp;Smart. <span class="bibtex-protected">The Continuum: A Continuous Music Keyboard</span>. In <em>Proceedings of the 1992 International Computer Music Conference</em>, 81&ndash;84. San Francisco, 1992. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Haken1992Continuum.bib)
+
 R.&nbsp;Held and N.&nbsp;Durlach. <span class="bibtex-protected">Telepresence</span>. <em>Presence</em>, 1(1):109–112, 1992.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Held1992Telepresence.bib)
 
 T.&nbsp;Harada, A.&nbsp;Sato, S.&nbsp;Hashimoto, and S.&nbsp;Ohteru. <span class="bibtex-protected">Real Time Control of 3D Sound Space by Gesture</span>. In <em>Proceedings of the 1992 International Computer Music Conference</em>, 85&ndash;88. MPublishing, University of Michigan Library, 1992.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Harada1992Real.bib)
-
-L.&nbsp;Haken, R.&nbsp;Abdullah, and M.&nbsp;Smart. <span class="bibtex-protected">The Continuum: A Continuous Music Keyboard</span>. In <em>Proceedings of the 1992 International Computer Music Conference</em>, 81&ndash;84. San Francisco, 1992. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Haken1992Continuum.bib)
 
 Lippold Haken, Radi Abdullah, and Mark Smart. The continuum: a continuous music keyboard. In <em>Proceedings of the International Computer Music Conference</em>, 81&ndash;84. San Jose State University, San Jose, USA, 1992. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1992.022/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1992.022/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1992.022/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1992.bib)
@@ -768,11 +768,11 @@ Tsutomu Harada, Akio Sato, Shuji Hashimoto, and Sadamu Ohteru. Real time control
 David&nbsp;A. Jaffe and W.&nbsp;Andrew Schloss. The making of "widlife": species of interaction. In <em>Proceedings of the International Computer Music Conference</em>, 269&ndash;272. San Jose State University, San Jose, USA, 1992. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1992.071/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1992.071/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1992.071/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1992.bib)
 
-L.&nbsp;Kahlich. <span class="bibtex-protected">Dance Technology – Moving into the Future</span>. <em>Dance Research Journal</em>, 24(2):63&ndash;64, 1992.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Kahlich1992Technology.bib)
-
 E.&nbsp;Kac. <span class="bibtex-protected">Aspects of the Aesthetics of Telecommunications</span>. In John Grimes and Gray Lorig, editors, <em>Siggraph Visual Proceedings</em>, pages. ACM, New York, 1992.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Kac1992Aesthetics.bib)
+
+L.&nbsp;Kahlich. <span class="bibtex-protected">Dance Technology – Moving into the Future</span>. <em>Dance Research Journal</em>, 24(2):63&ndash;64, 1992.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Kahlich1992Technology.bib)
 
 Koji Kusu, Masaoki Ino, Donguk Skin, Shuji Hashimoto, and Sadama Ohteru. Computer noh system. In <em>Proceedings of the International Computer Music Conference</em>, 198&ndash;201. San Jose State University, San Jose, USA, 1992. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1992.052/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1992.052/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1992.052/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1992.bib)
@@ -786,17 +786,17 @@ M.&nbsp;Lee, G.&nbsp;Garnet, and D.&nbsp;Wessel. <span class="bibtex-protected">
 Michael Lee and David Wessel. Connectionist models for real-time control of synthesis and compositional algorithms. In <em>Proceedings of the International Computer Music Conference</em>, 277&ndash;280. San Jose State University, San Jose, USA, 1992. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1992.073/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1992.073/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1992.073/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1992.bib)
 
-I.&nbsp;S. MacKenzie and W.&nbsp;Buxton. <span class="bibtex-protected">Extending Fitts’ Law to Two Dimensional Tasks</span>. In <em>Proceedings of the 1992 ACM Conference on Human Factors in Computing Systems</em>, 219&ndash;226. New York, NY, 1992. ACM Press.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/MacKenzie1992Extending.bib)
-
-T.&nbsp;Machover. <span class="bibtex-protected">Hyperinstruments - a Progress Report 1987 - 1991</span>. Technical report, Massachusetts Institute of Technology, 1992.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Machover1992Progress.bib)
-
 T.&nbsp;Machover. <span class="bibtex-protected">Hyperinstruments - a Composer's Approach to the Evolution of Intelligent Musical Instruments</span>. In L.&nbsp;Jacobson, editor, <em>Cyberarts: Exploring Arts and Technology</em>, pages 67&ndash;76. MillerFreeman Inc., San Francisco, 1992.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Machover1992hyperinstruments.bib)
 
+I.&nbsp;S. MacKenzie and W.&nbsp;Buxton. <span class="bibtex-protected">Extending Fitts’ Law to Two Dimensional Tasks</span>. In <em>Proceedings of the 1992 ACM Conference on Human Factors in Computing Systems</em>, 219&ndash;226. New York, NY, 1992. ACM Press.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/MacKenzie1992Extending.bib)
+
 I.&nbsp;S. MacKenzie. <span class="bibtex-protected">Movement Time Prediction in Human-Computer Interfaces</span>. In <em>Proceedings Graphics Interface ’92</em>, 140&ndash;150. 1992. Reprinted in R. Backer et al., eds. Readings in Human-Computer Interaction: Towards the Year 2000, pp. 483-493. San Mateo, CA: Morgan-Kaufmann.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/MacKenzie1992Movement.bib)
+
+T.&nbsp;Machover. <span class="bibtex-protected">Hyperinstruments - a Progress Report 1987 - 1991</span>. Technical report, Massachusetts Institute of Technology, 1992.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1992/Machover1992Progress.bib)
 
 Max Mathews. My view of the future of real-time computer music. In <em>Proceedings of the International Computer Music Conference</em>, 1. San Jose State University, San Jose, USA, 1992. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1992.001/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1992.001/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1992.001/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1992.bib)
@@ -827,23 +827,23 @@ T.&nbsp;Ungvary, S.&nbsp;Waters, and P.&nbsp;Rajka. <span class="bibtex-protecte
 
 ## 1993
 
-N.&nbsp;J. Bailey, A.&nbsp;Purvis, I.&nbsp;W. Bowler, and P.&nbsp;D. Manning. <span class="bibtex-protected">Applications of the Phase Vocoder Interface in the Control of Real-Time Electronic Musical Instruments</span>. <em>Interface</em>, 22:259&ndash;275, 1993.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Bailey_1993_Phase.bib)
-
 W.&nbsp;Barfield and S.&nbsp;Weghorst. <span class="bibtex-protected">The sense of presence within virtual environment: A conceptual framework</span>. In <em>Proceedings of the International Conference on Human-computer Interaction</em>, volume&nbsp;5, 699&ndash;704. 1993.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Barfield1993Presence.bib)
 
-J.&nbsp;J. Carr. <em><span class="bibtex-protected">Sensors and Circuits: Sensors, Transducers, and Supporting Circuits for Electronic Instrumentation, Measurement, and Control</span></em>. Prentice-Hall, Upper Saddle River, USA, 1993.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Carr1993Sensors.bib)
+N.&nbsp;J. Bailey, A.&nbsp;Purvis, I.&nbsp;W. Bowler, and P.&nbsp;D. Manning. <span class="bibtex-protected">Applications of the Phase Vocoder Interface in the Control of Real-Time Electronic Musical Instruments</span>. <em>Interface</em>, 22:259&ndash;275, 1993.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Bailey_1993_Phase.bib)
 
 C.&nbsp;Chafe. <span class="bibtex-protected">Tactile Audio Feedback</span>. In <em>Proceedings of the 1993 International Computer Music Conference</em>, 76&ndash;79. International Computer Music Association, 1993.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Chafe1993Tactile.bib)
 
+P.&nbsp;R. Cook, D.&nbsp;Morrill, and J.&nbsp;O. Smith. <span class="bibtex-protected">A MIDI Control and Performance System for Brass Instruments</span>. In <em>Proceedings of the 1993 International Computer Music Conference</em>, 130&ndash;133. San Francisco, 1993. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Cook1993MIDI.bib)
+
 X.&nbsp;Chabot. <span class="bibtex-protected">To Listen and to See: Making and Using Electronic Instruments</span>. <em>Leonardo Music Journal</em>, 3:11&ndash;16, 1993.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Chabot1993Listen.bib)
 
-P.&nbsp;R. Cook, D.&nbsp;Morrill, and J.&nbsp;O. Smith. <span class="bibtex-protected">A MIDI Control and Performance System for Brass Instruments</span>. In <em>Proceedings of the 1993 International Computer Music Conference</em>, 130&ndash;133. San Francisco, 1993. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Cook1993MIDI.bib)
+J.&nbsp;J. Carr. <em><span class="bibtex-protected">Sensors and Circuits: Sensors, Transducers, and Supporting Circuits for Electronic Instrumentation, Measurement, and Control</span></em>. Prentice-Hall, Upper Saddle River, USA, 1993.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Carr1993Sensors.bib)
 
 Chris Chafe. Tactile audio feedback. In <em>Proceedings of the International Computer Music Conference</em>, 76&ndash;79. Waseda University, Tokyo, Japan, 1993. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1993.013/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1993.013/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1993.013/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1993.bib)
@@ -851,11 +851,11 @@ Chris Chafe. Tactile audio feedback. In <em>Proceedings of the International Com
 Perry Cook, Dexter Morrill, and Julius&nbsp;O. Smith. A midi control and performance system for brass instruments. In <em>Proceedings of the International Computer Music Conference</em>, 130&ndash;133. Waseda University, Tokyo, Japan, 1993. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1993.025/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1993.025/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1993.025/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1993.bib)
 
-G.&nbsp;Dubost. <span class="bibtex-protected">Technologies de capteurs et leurs applications musicales</span>. Master's thesis, Université Paris Sud Orsay, 1993.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Dubost1993Technologies.bib)
-
 R.&nbsp;Dannenberg. <span class="bibtex-protected">Computer music at Carnegie Mellon University</span>. In Goffredo Haus, editor, <em>Music Processing</em>, pages 303&ndash;333. A-R Editions, Madison, Wisconsin, 1993.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Dannenberg1993Computer.bib)
+
+G.&nbsp;Dubost. <span class="bibtex-protected">Technologies de capteurs et leurs applications musicales</span>. Master's thesis, Université Paris Sud Orsay, 1993.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Dubost1993Technologies.bib)
 
 C.&nbsp;Hand. <span class="bibtex-protected">A Survey of 3-D Input Devices</span>. Technical Report, De Montfort University, Leicester, UK, 1993.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Hand1993Survey.bib)
@@ -866,20 +866,20 @@ Eiji Hayashi, Tatuya Ishikawa, and Masami Yamane. The development of a piano pla
 Wataru Inoue, Shuji Hashimoto, and Sadamu Ohteru. A computer music system for human singing. In <em>Proceedings of the International Computer Music Conference</em>, 150&ndash;153. Waseda University, Tokyo, Japan, 1993. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1993.029/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1993.029/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1993.029/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1993.bib)
 
-P.&nbsp;Kabbash, I.S. MacKenzie, and W.&nbsp;Buxton. <span class="bibtex-protected">Human Performance Using Computer Input Devices in the 2001 International Preferred and Non-Preferred Hands</span>. In <em>Proceedings of the ACM INTERCHI</em>, 474–481. 1993.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Kabbash1993Human.bib)
-
 H.&nbsp;Katayose, T.&nbsp;Kanamori, K.&nbsp;Kamei, Y.&nbsp;Nagashima, K.&nbsp;Sato, S.&nbsp;Inokuchi, and S.&nbsp;Simura. <span class="bibtex-protected">Virtual Performer</span>. In <em>Proceedings of the 1993 International Computer Music Conference</em>, 138–145. San Francisco, 1993. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Katayose1993Virtual.bib)
-
-R.&nbsp;S. Kalawasky. <em><span class="bibtex-protected">The science of virtual reality and virtual environments</span></em>. Addison-Wesley, Wokingham, 1993.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Kalawasky1993Science.bib)
 
 T.&nbsp;Kanamori, H.&nbsp;Katayose, S.&nbsp;Simura, and S.&nbsp;Inokuchi. <span class="bibtex-protected">Gesture Sensor in Virtual Performer</span>. In <em>Proceedings of the 1993 International Computer Music Conference</em>, 127–129. San Francisco, 1993. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Kanamori1993Gesture.bib)
 
+P.&nbsp;Kabbash, I.S. MacKenzie, and W.&nbsp;Buxton. <span class="bibtex-protected">Human Performance Using Computer Input Devices in the 2001 International Preferred and Non-Preferred Hands</span>. In <em>Proceedings of the ACM INTERCHI</em>, 474–481. 1993.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Kabbash1993Human.bib)
+
 H.&nbsp;Katayose and S.&nbsp;Inokuchi. <span class="bibtex-protected">Learning Performance Rules in a Music Interpretation System</span>. <em>Computers and the Humanities</em>, 27(1):31&ndash;40, 1993.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Katayose1993Learning.bib)
+
+R.&nbsp;S. Kalawasky. <em><span class="bibtex-protected">The science of virtual reality and virtual environments</span></em>. Addison-Wesley, Wokingham, 1993.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Kalawasky1993Science.bib)
 
 Tsutomu Kanamori, Haruhiro Katayose, Satosi Simura, and Seiji Inokuchi. Gesture sensor in virtual performer. In <em>Proceedings of the International Computer Music Conference</em>, 127&ndash;129. Waseda University, Tokyo, Japan, 1993. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1993.024/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1993.024/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1993.024/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1993.bib)
@@ -890,11 +890,11 @@ Haruhro Katayose, Tsutomu Kanamori, Katsuyuki Kamei, Yoichi Nagashima, Kosuke Sa
 B.&nbsp;Laurel. <em><span class="bibtex-protected">Computers as Theatre</span></em>. Addison-Wesley, Reading, Mass., 1993.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Laurel1993Theatre.bib)
 
-F.&nbsp;Matsumoto. <span class="bibtex-protected">Using Simple Controls to Manipulate Complex Objects: Application to the Drum-Boy Interactive Percussion System</span>. Master's thesis, Massachusetts Institute of Technology, 1993.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Matsumoto1993Using.bib)
-
 R.&nbsp;Moog. <span class="bibtex-protected">Controller oddities</span>. <em>Keyboard</em>, 19(3):44&ndash;49, 1993.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Moog_1993_controller.bib)
+
+F.&nbsp;Matsumoto. <span class="bibtex-protected">Using Simple Controls to Manipulate Complex Objects: Application to the Drum-Boy Interactive Percussion System</span>. Master's thesis, Massachusetts Institute of Technology, 1993.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1993/Matsumoto1993Using.bib)
 
 Hirohisa Ohta, Hiroshi Akita, Motomu Ohtani, Satosi Ishicado, and Masami Yamane. The development of an automatic bagpipe playing device. In <em>Proceedings of the International Computer Music Conference</em>, 430&ndash;431. Waseda University, Tokyo, Japan, 1993. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1993.106/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1993.106/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1993.106/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1993.bib)
@@ -970,11 +970,11 @@ Stuart Favilla. Live performance and virtuosic pitch-blend technique for the syn
 Stuart Favilla. The ldr controller. In <em>Proceedings of the International Computer Music Conference</em>, 177&ndash;180. DIEM: Danish Institute of Electroacoustic Music, Århus, Denmark, 1994. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1994.044/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1994.044/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1994.044/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1994.bib)
 
-F.&nbsp;Giraudon. <span class="bibtex-protected">Contrôle de paramètres de synthèse issus d’une analyse par une interface gestuelle</span>. Master's thesis, Centre National de la Recherche Scientifique, 1994.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1994/Giraudon1994Controle.bib)
-
 P.&nbsp;H. Garrett. <em><span class="bibtex-protected">Advanced Instrumentation and Computer I/O Design: Real-time System Computer Interface Engineering</span></em>. IEEE Press, Los Alamitos, USA, 1994.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1994/Garrett1994Instrumentation.bib)
+
+F.&nbsp;Giraudon. <span class="bibtex-protected">Contrôle de paramètres de synthèse issus d’une analyse par une interface gestuelle</span>. Master's thesis, Centre National de la Recherche Scientifique, 1994.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1994/Giraudon1994Controle.bib)
 
 Brent Gillespie. The virtual piano action: design and implementation. In <em>Proceedings of the International Computer Music Conference</em>, 167&ndash;170. DIEM: Danish Institute of Electroacoustic Music, Århus, Denmark, 1994. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1994.041/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1994.041/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1994.041/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1994.bib)
@@ -1030,11 +1030,11 @@ K.&nbsp;Rohr. <span class="bibtex-protected">Towards model-based recognition of 
 M.&nbsp;Slater, M.&nbsp;Usoh, and A.&nbsp;Steed. <span class="bibtex-protected">Depth of presence in virtual environment</span>. <em>Presence</em>, 3(2):130–144, 1994.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1994/Slater1994Depth.bib)
 
-R.&nbsp;Vertegaal and E.&nbsp;Bonis. <span class="bibtex-protected">ISEE: An Intuitive Sound Editing Environment</span>. <em>Computer Music Journal</em>, 18(2):21&ndash;29, 1994.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1994/Vertegaal1994ISEE.bib)
-
 R.&nbsp;Vertegaal. <span class="bibtex-protected">An Evaluation of Input Devices for Timbre Space Navigation</span>. Master's thesis, University of Bradford, Department of Computing, 1994.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1994/Vertegaal1994Timbre.bib)
+
+R.&nbsp;Vertegaal and E.&nbsp;Bonis. <span class="bibtex-protected">ISEE: An Intuitive Sound Editing Environment</span>. <em>Computer Music Journal</em>, 18(2):21&ndash;29, 1994.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1994/Vertegaal1994ISEE.bib)
 
 Roel Vertegaal, Barry Eaglestone, and Clarke Michael. An evaluation of input devices for use in the isee human-synthesizer interface. In <em>Proceedings of the International Computer Music Conference</em>, 159&ndash;162. DIEM: Danish Institute of Electroacoustic Music, Århus, Denmark, 1994. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1994.039/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1994.039/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1994.039/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1994.bib)
@@ -1050,8 +1050,8 @@ M.&nbsp;Akamatsu, I.&nbsp;S. MacKenzie, and T.&nbsp;Hasbrouc. <span class="bibte
 Yushi Aono, Haruhiro Katayose, and Seiji Inokuchi. An improvisational accompaniment system observing performer's musical gesture. In <em>Proceedings of the International Computer Music Conference</em>, 106&ndash;107. Banff Centre for Arts, Banff, Canada, 1995. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1995.026/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1995.026/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1995.026/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1995.bib)
 
-B.&nbsp;Brecht and G.&nbsp;Garnett. <span class="bibtex-protected">Conductor follower</span>. In <em>Proceedings of the 1995 International Computer Music Conference</em>, 185&ndash;186. International Computer Music Association, 1995.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Brecht1995Conductor.bib)
+F.&nbsp;Biocca and B.&nbsp;Delaney. <span class="bibtex-protected">Immersive virtual reality technology</span>. In F.&nbsp;Biocca and M.&nbsp;Levy, editors, <em>Communication in the age of virtual reality</em>. Lawrence Erlbaum and Associates, Hillsdale, NJ, 1995.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Biocca1995immersive.bib)
 
 M.&nbsp;Bromwich. <span class="bibtex-protected">A Single Performer Controlled Interface for Electronic Dance/Music Theatre</span>. In <em>1995 International Computer Music Conference 'Digital Playgrounds'</em>. Banff Centre, Canada, 1995. Poster presented at 1995 International Computer Music Conference 'Digital Playgrounds', Paper published in ICMC proceedings.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Bromwich1995Single.bib)
@@ -1059,17 +1059,17 @@ M.&nbsp;Bromwich. <span class="bibtex-protected">A Single Performer Controlled I
 S.&nbsp;Barrass. <span class="bibtex-protected">Personify: A Toolkit for Perceptually Meaningful Sonification</span>. In <em>Proceedings of the Australian Conference on Computer Music (ACCM-95)</em>. Melbourne, 1995. Australasian Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Barrass1995personify.bib)
 
-F.&nbsp;Biocca and B.&nbsp;Delaney. <span class="bibtex-protected">Immersive virtual reality technology</span>. In F.&nbsp;Biocca and M.&nbsp;Levy, editors, <em>Communication in the age of virtual reality</em>. Lawrence Erlbaum and Associates, Hillsdale, NJ, 1995.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Biocca1995immersive.bib)
-
 F.&nbsp;Biocca, T.&nbsp;Kim, and M.&nbsp;Levy. <span class="bibtex-protected">The vision of virtual reality</span>. In F.&nbsp;Biocca and M.&nbsp;Levy, editors, <em>Communication in the age of virtual reality</em>, pages 3&ndash;14. Lawrence Erlbaum Associates, Inc., Hillsdale, NJ, 1995.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Biocca1995vision.bib)
 
-M.&nbsp;Battier. <span class="bibtex-protected">Entre l'idée et l'œuvre. Parcours de l'informatique musicale</span>. In Louise Poissant, editor, <em>Esthétique des arts médiatiques, tome 1</em>, pages 319&ndash;334. Presses de l'Université du Québec, Sainte-Foy (Québec), 1995.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Battier1995Entre.bib)
-
 R.&nbsp;M. Baecker, J.&nbsp;Grudin, W.&nbsp;A.&nbsp;S. Buxton, and S.&nbsp;Greenberg. <em><span class="bibtex-protected">Readings in Human-Computer Interaction: Toward the Year 2000</span></em>. Morgan-Kauffmann Publishers, Inc., San Mateo, Calif., 1995.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Baecker_1995_HumanComputer.bib)
+
+B.&nbsp;Brecht and G.&nbsp;Garnett. <span class="bibtex-protected">Conductor follower</span>. In <em>Proceedings of the 1995 International Computer Music Conference</em>, 185&ndash;186. International Computer Music Association, 1995.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Brecht1995Conductor.bib)
+
+M.&nbsp;Battier. <span class="bibtex-protected">Entre l'idée et l'œuvre. Parcours de l'informatique musicale</span>. In Louise Poissant, editor, <em>Esthétique des arts médiatiques, tome 1</em>, pages 319&ndash;334. Presses de l'Université du Québec, Sainte-Foy (Québec), 1995.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Battier1995Entre.bib)
 
 Bennett Brecht and Guy&nbsp;E. Garnett. Conductor following. In <em>Proceedings of the International Computer Music Conference</em>, 185&ndash;186. Banff Centre for Arts, Banff, Canada, 1995. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1995.056/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1995.056/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1995.056/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1995.bib)
@@ -1077,11 +1077,11 @@ Bennett Brecht and Guy&nbsp;E. Garnett. Conductor following. In <em>Proceedings 
 Mark&nbsp;A. Bromwich. A single performer controlled interface for electronic dance/music theatre. In <em>Proceedings of the International Computer Music Conference</em>, 491&ndash;492. Banff Centre for Arts, Banff, Canada, 1995. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1995.141/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1995.141/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1995.141/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1995.bib)
 
-I.&nbsp;Choi, R.&nbsp;Bargar, and C.&nbsp;Goudeseune. <span class="bibtex-protected">A Manifold Interface for a High Dimensional Control Space</span>. In <em>Proceedings of the 1995 International Computer Music Conference</em>, 385&ndash;392. International Computer Music Association, 1995.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Choi1995Manifold.bib)
-
 A.&nbsp;Camurri. <span class="bibtex-protected">Interactive dance/music systems</span>. In <em>Proceedings of the 1995 International Computer Music Conference</em>, 245&ndash;252. 1995.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Camurri1995Interactive.bib)
+
+I.&nbsp;Choi, R.&nbsp;Bargar, and C.&nbsp;Goudeseune. <span class="bibtex-protected">A Manifold Interface for a High Dimensional Control Space</span>. In <em>Proceedings of the 1995 International Computer Music Conference</em>, 385&ndash;392. International Computer Music Association, 1995.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Choi1995Manifold.bib)
 
 Brad Cariou. A demonstration of the axiǿ controller. In <em>Proceedings of the International Computer Music Conference</em>, 183&ndash;184. Banff Centre for Arts, Banff, Canada, 1995. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1995.055/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1995.055/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1995.055/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1995.bib)
@@ -1119,11 +1119,11 @@ Tsutomu Kanamori, Haruhiro Katayose, Yushi Aono, Seiji Inokuchi, and Takasi Saka
 Ross Kirk, Andy Hunt, and Richard Orton. Audio-visual instruments in live performance. In <em>Proceedings of the International Computer Music Conference</em>, 595&ndash;596. Banff Centre for Arts, Banff, Canada, 1995. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1995.173/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1995.173/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1995.173/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1995.bib)
 
-F.&nbsp;Lopez-Lezcano. <span class="bibtex-protected">Padmaster: An Improvisation Environment for Real-Time Performance</span>. In <em>Proceedings of the 1995 International Computer Music Conference</em>, 104&ndash;105. International Computer Music Association, 1995.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Lopez-Lezcano1995Padmaster.bib)
-
 R.&nbsp;Lovell and J.&nbsp;Mitchell. <span class="bibtex-protected">Using human movement to control activities in theatrical environments</span>. In <em>Proc. of Third International Conference on Dance and Technology</em>. 1995.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Lovell1995Human.bib)
+
+F.&nbsp;Lopez-Lezcano. <span class="bibtex-protected">Padmaster: An Improvisation Environment for Real-Time Performance</span>. In <em>Proceedings of the 1995 International Computer Music Conference</em>, 104&ndash;105. International Computer Music Association, 1995.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Lopez-Lezcano1995Padmaster.bib)
 
 Fernando Lopez-Lezcano. Padmaster: an improvisation environment for real time performance. In <em>Proceedings of the International Computer Music Conference</em>, 104&ndash;105. University of Illinois, Champaign/Urbana, USA, 1995. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1995.025/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1995.025/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1995.025/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1995.bib)
@@ -1131,29 +1131,29 @@ Fernando Lopez-Lezcano. Padmaster: an improvisation environment for real time pe
 Fernando Lopez-Lezcano. Padmaster: an improvisation environment for real time performance. In <em>Proceedings of the International Computer Music Conference</em>, 104&ndash;105. Banff Centre for Arts, Banff, Canada, 1995. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1995.025/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1995.025/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1995.025/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1995.bib)
 
-P.&nbsp;Maes, T.&nbsp;Darrell, B.&nbsp;Blumberg, and A.&nbsp;Pentland. <span class="bibtex-protected">The ALIVE system: Full-body interaction with autonomous agents</span>. In <em>Proceedings of the Computer Animation '95 Conference</em>. Geneva, Switzerland, 1995.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Maes1995ALIVE.bib)
-
 S.&nbsp;Martin. <em><span class="bibtex-protected">Theremin. An Electronic Odyssey</span></em>. 5080. Orion Home Video, Los Angeles, 1995. VHS video tape, 84 minutes.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Martin1995theremin.bib)
 
 J.&nbsp;D. Mitchell and R.&nbsp;Lovell. <span class="bibtex-protected">Using Human Movement to Control Activities in Theatrical Environments</span>. In <em>Third International Conference on Dance and Technology</em>. York University, Toronto, 1995.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Mitchell1995Using.bib)
 
-J.&nbsp;D. Mitchell and R.&nbsp;Lovell. <span class="bibtex-protected">Environment for the Interactive Design of Emergent Art</span>. In <em>International Symposium on Electronic Art</em>. Montreal, Canada, 1995.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Mitchell1995Environment.bib)
-
 A.&nbsp;Mulder. <span class="bibtex-protected">Human Movement Tracking Technology: Resources</span>. Technical report, Simon Fraser University, 1995. Addendum to Technical Report 94-1.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Mulder1995Resources.bib)
 
-R.&nbsp;Polfreman and J.&nbsp;Sapsford-Francis. <span class="bibtex-protected">A Human Factors Approach to Computer Music Systems User-Interface Design</span>. In <em>Proceedings of the 1995 International Computer Music Conference</em>, 381&ndash;384. San Francisco, 1995. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Polfreman1995Factors.bib)
+P.&nbsp;Maes, T.&nbsp;Darrell, B.&nbsp;Blumberg, and A.&nbsp;Pentland. <span class="bibtex-protected">The ALIVE system: Full-body interaction with autonomous agents</span>. In <em>Proceedings of the Computer Animation '95 Conference</em>. Geneva, Switzerland, 1995.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Maes1995ALIVE.bib)
+
+J.&nbsp;D. Mitchell and R.&nbsp;Lovell. <span class="bibtex-protected">Environment for the Interactive Design of Emergent Art</span>. In <em>International Symposium on Electronic Art</em>. Montreal, Canada, 1995.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Mitchell1995Environment.bib)
+
+R.&nbsp;Pinkston, J.&nbsp;Kerkhoff, and M.&nbsp;McQuilken. <span class="bibtex-protected">A Touch Sensitive Dance Floor/MIDI Controller</span>. In <em>Proceedings of the 1995 International Computer Music Conference</em>, 224&ndash;225. San Francisco, 1995. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Pinkston1995Dance.bib)
 
 J.&nbsp;K. Pulfer. <span class="bibtex-protected">Man-Machine Communication in Creative Applications</span>. <em>International Journal of Man-Machine Studies</em>, 1995.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Pulfer1995Communication.bib)
 
-R.&nbsp;Pinkston, J.&nbsp;Kerkhoff, and M.&nbsp;McQuilken. <span class="bibtex-protected">A Touch Sensitive Dance Floor/MIDI Controller</span>. In <em>Proceedings of the 1995 International Computer Music Conference</em>, 224&ndash;225. San Francisco, 1995. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Pinkston1995Dance.bib)
+R.&nbsp;Polfreman and J.&nbsp;Sapsford-Francis. <span class="bibtex-protected">A Human Factors Approach to Computer Music Systems User-Interface Design</span>. In <em>Proceedings of the 1995 International Computer Music Conference</em>, 381&ndash;384. San Francisco, 1995. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Polfreman1995Factors.bib)
 
 Russell Pinkston, Jim Kerkhoff, and Mark McQuilken. A touch sensitive dance floor/midi controller. In <em>Proceedings of the International Computer Music Conference</em>, 224&ndash;225. Banff Centre for Arts, Banff, Canada, 1995. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1995.064/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1995.064/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1995.064/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1995.bib)
@@ -1182,11 +1182,11 @@ Guido Van&nbsp;den Berghe, Bart De&nbsp;Moor, and Willem Minten. Modeling a gran
 Roel Vertegaal and Tamas Ungvary. The sentograph: input devices and the communication of bodily expression. In <em>Proceedings of the International Computer Music Conference</em>, 253&ndash;256. Banff Centre for Arts, Banff, Canada, 1995. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1995.076/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1995.076/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1995.076/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1995.bib)
 
-T.&nbsp;Winkler. <span class="bibtex-protected">Making Motion Musical: Gestural Mapping Strategies for Interactive Computer Music</span>. In <em>Proceedings of the 1995 International Computer Music Conference</em>, 261&ndash;264. San Francisco, 1995. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Winkler1995Motion.bib)
-
 R.&nbsp;Wechsler. <span class="bibtex-protected">Analysis of “reversals” in the Cunningham Dance Technique. Issues concerning the perception of symmetry in dance</span>. In <em>Proceedings of the first International Dance and Technology Conference</em>. Vancouver, Canada, 1995.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Wechsler1995Symmetry.bib)
+
+T.&nbsp;Winkler. <span class="bibtex-protected">Making Motion Musical: Gestural Mapping Strategies for Interactive Computer Music</span>. In <em>Proceedings of the 1995 International Computer Music Conference</em>, 261&ndash;264. San Francisco, 1995. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1995/Winkler1995Motion.bib)
 
 Todd&nbsp;Winkler and. Making motion musical: gesture mapping strategies for interactive computer music. In <em>Proceedings of the International Computer Music Conference</em>, 261&ndash;264. Banff Centre for Arts, Banff, Canada, 1995. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1995.078/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1995.078/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1995.078/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1995.bib)
@@ -1196,17 +1196,17 @@ Todd&nbsp;Winkler and. Making motion musical: gesture mapping strategies for int
 A.&nbsp;G. Almeida. <span class="bibtex-protected">Methodologies for Design and Evaluation of Interactive Musical Interfaces</span>. In <em>Proceedings of the 3rd Brazilian Symposium on Computer Music</em>, 68&ndash;73. 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Almeida1996Methodologies.bib)
 
-V.&nbsp;Auer, M.&nbsp;M. Maes, M.&nbsp;C. Bonfim, M.&nbsp;M. Wanderley, and M.&nbsp;V. Lamar. <span class="bibtex-protected">3D Position Signal Acquisition System with Application in Real-Time Processing</span>. In <em>Proceedings of the ICSPAT '96 -International Congress on Signal Processing Applications Technology</em>, 505&ndash;509. 1996.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Auer_1996_Position.bib)
-
 M.&nbsp;Akamatsu and I.&nbsp;S. MacKenzie. <span class="bibtex-protected">Movement Characteristics Using a Mouse with Tactile and Force Feedback</span>. <em>International Journal of Human-Computer Studies</em>, 45:483&ndash;493, 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Akamatsu1996Movement.bib)
 
-G.&nbsp;Burdea. <em><span class="bibtex-protected">Force and Touch Feedback for Virtual Reality</span></em>. John Wiley and Sons, 1996.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Burdea1996Force.bib)
+V.&nbsp;Auer, M.&nbsp;M. Maes, M.&nbsp;C. Bonfim, M.&nbsp;M. Wanderley, and M.&nbsp;V. Lamar. <span class="bibtex-protected">3D Position Signal Acquisition System with Application in Real-Time Processing</span>. In <em>Proceedings of the ICSPAT '96 -International Congress on Signal Processing Applications Technology</em>, 505&ndash;509. 1996.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Auer_1996_Position.bib)
 
 D.&nbsp;Buchla. <span class="bibtex-protected">Lightning II MIDI Controller</span>. \url <span class="bibtex-protected">http://www.buchla.com/</span>, 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/BuchlaLightning.bib)
+
+G.&nbsp;Burdea. <em><span class="bibtex-protected">Force and Touch Feedback for Virtual Reality</span></em>. John Wiley and Sons, 1996.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Burdea1996Force.bib)
 
 L.&nbsp;L. Chu. <span class="bibtex-protected">Haptic Feedback in Computer Music Performance</span>. In <em>Proceedings of the 1996 International Computer Music Conference (ICMC-96)</em>. 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Chu1996Haptic.bib)
@@ -1241,11 +1241,11 @@ Karl Hirano. A review of electronic musical instruments. <em>Computer Music Jour
 R.&nbsp;J.&nbsp;K. Jacob. <span class="bibtex-protected">Human-Computer Interaction: Input Devices</span>. <em>ACM Computing Surveys</em>, 28(1):177&ndash;179, 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Jacob1996Human-Computer.bib)
 
-D.&nbsp;V. Keyson. <em><span class="bibtex-protected">Touch in User Interface Navigation</span></em>. PhD thesis, Technische Universiteit Eindhoven, 1996.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Keyson1996Touch.bib)
-
 H.&nbsp;Katayose, T.&nbsp;Kanamori, and S.&nbsp;Inokuchi. <span class="bibtex-protected">An Environment for Interactive Art - sensor integration and applications</span>. In <em>Proceedings of the 1996 International Computer Music Conference</em>, 173–176. San Francisco, 1996. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Katayose1996Environment.bib)
+
+D.&nbsp;V. Keyson. <em><span class="bibtex-protected">Touch in User Interface Navigation</span></em>. PhD thesis, Technische Universiteit Eindhoven, 1996.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Keyson1996Touch.bib)
 
 G.&nbsp;Kramer. <span class="bibtex-protected">Mapping a single data stream to multiple auditory variables: A subjective approach to creating a compelling design</span>. In <em>Proceedings of International Conference on Auditory Display - ICAD'96</em>. 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Kramer1996Mapping.bib)
@@ -1256,20 +1256,20 @@ K.&nbsp;Kristiansen and A.&nbsp;Aaberg. <span class="bibtex-protected">Digital D
 Haruhiro Katayose, Tsutomu Kanamori, and Seiji Inokushi. An environment for interactive art - sensor integration and applications. In <em>Proceedings of the International Computer Music Conference</em>, 173&ndash;176. Hong Kong University of Science and Technology, Hong Kong, China, 1996. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1996.053/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1996.053/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1996.053/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1996.bib)
 
-H.&nbsp;S. Lusted and R.&nbsp;B. Knapp. <span class="bibtex-protected">Controlling Computers with Neural Signals</span>. <em>Scientific American</em>, pages 58&ndash;63, October 1996.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Lusted1996Controlling.bib)
+R.&nbsp;Linz. <span class="bibtex-protected">Towards the Design of a Real-Time Interactive Performance Sound System</span>. <em>Leonardo Music Journal</em>, 6:99&ndash;107, 1996.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Linz1996Towards.bib)
 
 C.&nbsp;Lippe. <span class="bibtex-protected">A Look at Performer/Machine Interaction using Real-Time Systems</span>. In <em>Proceedings of the 1996 International Computer Music Conference</em>, 116&ndash;117. San Francisco, 1996. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Lippe1996performer.bib)
 
+F.&nbsp;Lopez-Lezcano. <span class="bibtex-protected">Padmaster: Banging on Algorithms with Alternate Controllers</span>. In <em>Proceedings of the 1996 International Computer Music Conference</em>, 425&ndash;427. International Computer Music Association, 1996.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Lopez-Lezcano1996Padmaster.bib)
+
 G.&nbsp;H.&nbsp;T. Lima, M.&nbsp;Maes, M.&nbsp;Bonfim, M.&nbsp;V. Lamar, and M.&nbsp;M. Wanderley. <span class="bibtex-protected">Dance-Music Interface based on Ultrasound Sensors and Computers</span>. In <em>Proceedings of the 3rd Brazilian Symposium on Computer Music</em>, 12&ndash;16. 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Lima1996Dance.bib)
 
-R.&nbsp;Linz. <span class="bibtex-protected">Towards the Design of a Real-Time Interactive Performance Sound System</span>. <em>Leonardo Music Journal</em>, 6:99&ndash;107, 1996.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Linz1996Towards.bib)
-
-F.&nbsp;Lopez-Lezcano. <span class="bibtex-protected">Padmaster: Banging on Algorithms with Alternate Controllers</span>. In <em>Proceedings of the 1996 International Computer Music Conference</em>, 425&ndash;427. International Computer Music Association, 1996.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Lopez-Lezcano1996Padmaster.bib)
+H.&nbsp;S. Lusted and R.&nbsp;B. Knapp. <span class="bibtex-protected">Controlling Computers with Neural Signals</span>. <em>Scientific American</em>, pages 58&ndash;63, October 1996.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Lusted1996Controlling.bib)
 
 Cort Lippe. A look at performer/machine interaction using real-time systems. In <em>Proceedings of the International Computer Music Conference</em>, 116&ndash;117. Hong Kong University of Science and Technology, Hong Kong, China, 1996. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1996.033/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1996.033/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1996.033/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1996.bib)
@@ -1277,32 +1277,32 @@ Cort Lippe. A look at performer/machine interaction using real-time systems. In 
 Fernando Lopez-Lezcano. Padmaster: banging on algorithms with alternative controllers. In <em>Proceedings of the International Computer Music Conference</em>, 425&ndash;427. Hong Kong University of Science and Technology, Hong Kong, China, 1996. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1996.131/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1996.131/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1996.131/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1996.bib)
 
-G.&nbsp;Mair. <span class="bibtex-protected">Virtual performance</span>. <em>Global international</em>, pages 18&ndash;21, 1996.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Mair1996Performance.bib)
-
 A.&nbsp;Mulder. <span class="bibtex-protected">Hand Gestures for HCI</span>. Technical Report 96-1, Simon Fraser University, 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Mulder1996Hand.bib)
-
-A.&nbsp;Mulder. <span class="bibtex-protected">Getting a Grip on Alternate Controllers: Addressing the Variability of Gestural Expression in Musical Instrument Design</span>. <em>Leonardo Music Journal</em>, 6:33&ndash;40, 1996.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Mulder1996Grip.bib)
-
-A.&nbsp;Matuck. <span class="bibtex-protected">Tele-transmissãono contexto artístico, Perspectivas da televisão interativa, Telemáticae interatividade, Crítica ao futuro iminente</span>. In <em>O potencial dialógicoda televisão - Comunicação e arte na perspectiva do receptor</em>. Anna Blume e Eca-USP, São Paulo, 1996.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Matuck1996Tele.bib)
-
-T.&nbsp;A. Marrin. <span class="bibtex-protected">Toward an Understanding of Musical Gesture: Mapping Expressive Intention with the Digital Baton</span>. Master's thesis, Massachusetts Institute of Technology, 1996.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Marrin1996Toward.bib)
 
 E.&nbsp;Metois. <em><span class="bibtex-protected">Musical Sound Information: Musical Gestures and Embedding Systems</span></em>. PhD Thesis, MIT Media Lab, 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Metois1996Musical.bib)
 
-M.&nbsp;Maes and others. <span class="bibtex-protected">Dance-Music Interface Based on Ultrasound Sensors and Computers</span>. In <em>Proceedings of the 3rd Brazilian Symposium on Computer Music</em>. 1996. Accessed at http://recherche.ircam.fr/equipes/analyse-synthese/wanderle/Gestes/Externe/sbcm96.pdf.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Maes1996Dance.bib)
+T.&nbsp;A. Marrin. <span class="bibtex-protected">Toward an Understanding of Musical Gesture: Mapping Expressive Intention with the Digital Baton</span>. Master's thesis, Massachusetts Institute of Technology, 1996.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Marrin1996Understanding.bib)
+
+T.&nbsp;A. Marrin. <span class="bibtex-protected">Toward an Understanding of Musical Gesture: Mapping Expressive Intention with the Digital Baton</span>. Master's thesis, Massachusetts Institute of Technology, 1996.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Marrin1996Toward.bib)
+
+G.&nbsp;Mair. <span class="bibtex-protected">Virtual performance</span>. <em>Global international</em>, pages 18&ndash;21, 1996.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Mair1996Performance.bib)
 
 M.&nbsp;Moser and D.&nbsp;MacLeod, editors. <em><span class="bibtex-protected">Immersed in Technology: Art and Virtual Environments</span></em>. MIT Press, Cambridge, 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Moser1996Immersed.bib)
 
-T.&nbsp;A. Marrin. <span class="bibtex-protected">Toward an Understanding of Musical Gesture: Mapping Expressive Intention with the Digital Baton</span>. Master's thesis, Massachusetts Institute of Technology, 1996.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Marrin1996Understanding.bib)
+A.&nbsp;Mulder. <span class="bibtex-protected">Getting a Grip on Alternate Controllers: Addressing the Variability of Gestural Expression in Musical Instrument Design</span>. <em>Leonardo Music Journal</em>, 6:33&ndash;40, 1996.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Mulder1996Grip.bib)
+
+M.&nbsp;Maes and others. <span class="bibtex-protected">Dance-Music Interface Based on Ultrasound Sensors and Computers</span>. In <em>Proceedings of the 3rd Brazilian Symposium on Computer Music</em>. 1996. Accessed at http://recherche.ircam.fr/equipes/analyse-synthese/wanderle/Gestes/Externe/sbcm96.pdf.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Maes1996Dance.bib)
+
+A.&nbsp;Matuck. <span class="bibtex-protected">Tele-transmissãono contexto artístico, Perspectivas da televisão interativa, Telemáticae interatividade, Crítica ao futuro iminente</span>. In <em>O potencial dialógicoda televisão - Comunicação e arte na perspectiva do receptor</em>. Anna Blume e Eca-USP, São Paulo, 1996.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Matuck1996Tele.bib)
 
 M.&nbsp;Puckette. <span class="bibtex-protected">Pure Data: Another Integrated Computer Music Environment</span>. In <em>Proceedings of the Second Intercollege Computer Music Concerts</em>, 37–41. Tachikawa, Japan, 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Puckette_1996_PureData.bib)
@@ -1310,20 +1310,20 @@ M.&nbsp;Puckette. <span class="bibtex-protected">Pure Data: Another Integrated C
 J.&nbsp;A. Paradiso. <span class="bibtex-protected">The Interactive Ballon: Sensing, Actuation, and Behavior in a Common Object</span>. <em>IBM Systems Journal</em>, 35(3-4):473–487, 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Paradiso1996Balloon.bib)
 
-M.&nbsp;Reaney. <span class="bibtex-protected">Virtual scenography: The actor, audience, computer interface</span>. <em>Theatre Design and Technology</em>, 32(1):36&ndash;43, 1996.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Reaney1996Virtual.bib)
-
 J.&nbsp;Risset and S.&nbsp;van Duyne. <span class="bibtex-protected">Real-time performance interaction with a computer-controlled acoustic piano</span>. <em>Computer Music Journal</em>, 20(1):62–75, 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Risset1996Real.bib)
 
 C.&nbsp;Roads. <em><span class="bibtex-protected">The Computer Music Tutorial</span></em>. The MIT Press, Cambridge, MA, 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Roads1996_Tutorial.bib)
 
-J.&nbsp;R. Smith. <span class="bibtex-protected">Field Mice: Extracting Hand Geometry from Electric Field Measurements</span>. <em>IBM Systems Journal</em>, 35(3/4):587&ndash;608, 1996.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Smith1996Field.bib)
+M.&nbsp;Reaney. <span class="bibtex-protected">Virtual scenography: The actor, audience, computer interface</span>. <em>Theatre Design and Technology</em>, 32(1):36&ndash;43, 1996.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Reaney1996Virtual.bib)
 
 H.&nbsp;Sawada, N.&nbsp;Onoe, and S.&nbsp;Hashimoto. <span class="bibtex-protected">Acceleration Sensor as an Input Device for Musical Environment</span>. In <em>Proceedings of the 1996 International Computer Music Conference (ICMC96)</em>, 421&ndash;424. Hong Kong, 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Sawada1996Acceleration.bib)
+
+J.&nbsp;R. Smith. <span class="bibtex-protected">Field Mice: Extracting Hand Geometry from Electric Field Measurements</span>. <em>IBM Systems Journal</em>, 35(3/4):587&ndash;608, 1996.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Smith1996Field.bib)
 
 Hideyuki Sawada, Naoyuki Onoe, and Shuji Hashimoto. Acceleration sensor as an input device for musical environment. In <em>Proceedings of the International Computer Music Conference</em>, 421&ndash;424. Hong Kong University of Science and Technology, Hong Kong, China, 1996. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1996.130/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1996.130/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1996.130/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1996.bib)
@@ -1340,14 +1340,14 @@ Forrest Tobey and Ichiro Fujinaga. Extraction of conducting gestures in 3d space
 R.&nbsp;Vertegaal, T.&nbsp;Ungvary, and M.&nbsp;Kieslinger. <span class="bibtex-protected">Towards a Musician's Cockpit: Transducer, Feedback and Musical Function</span>. In <em>Proceedings of the 1996 International Computer Music Conference</em>, 308&ndash;311. San Francisco, CA, 1996. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Vertegaal1996Cockpit.bib)
 
+R.&nbsp;Vertegaal, T.&nbsp;Ungvary, and M.&nbsp;Kieslinger. <span class="bibtex-protected">Towards a Musicianʼs Cockpit: Transducers, Feedback and Musical Function</span>. In <em>Proceedings of the International Computer Music Conference</em>, 308&ndash;311. 1996.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Vertegaal1996Towards.bib)
+
 R.&nbsp;Vertegaal and B.&nbsp;Eaglestone. <span class="bibtex-protected">Comparison of Input Devices in an ISEE Direct Timbre Manipulation Task</span>. <em>Interacting with Computers</em>, 8(1):113&ndash;30, 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Vertegaal1996Comparison.bib)
 
 C.&nbsp;Verplaetse. <span class="bibtex-protected">Inertial Proprioceptive Devices: Self-Motion-Sensing Toys and Tools</span>. <em>IBM Systems Journal</em>, 35(3 &amp; 4):639&ndash;650, 1996.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Verplaetse1996Devices.bib)
-
-R.&nbsp;Vertegaal, T.&nbsp;Ungvary, and M.&nbsp;Kieslinger. <span class="bibtex-protected">Towards a Musicianʼs Cockpit: Transducers, Feedback and Musical Function</span>. In <em>Proceedings of the International Computer Music Conference</em>, 308&ndash;311. 1996.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1996/Vertegaal1996Towards.bib)
 
 Roel Vertegaal, Tamas Ungary, and Michael Kieslinger. Towards a musician’s cockpit: transducers, feedback and musical function. In <em>Proceedings of the International Computer Music Conference</em>, 308&ndash;311. Hong Kong University of Science and Technology, Hong Kong, China, 1996. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1996.093/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1996.093/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1996.093/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1996.bib)
@@ -1359,12 +1359,6 @@ S.&nbsp;Zhai, P.&nbsp;Milgram, and W.&nbsp;Buxton. <span class="bibtex-protected
 
 J.&nbsp;Accot and S.&nbsp;Zhai. <span class="bibtex-protected">Beyond Fitts' Law: Models for Trajectory-Based HCI Tasks</span>. In <em>Proceedings of the 1997 ACM Conference on Human Factors in Computing Systems</em>, 295&ndash;302. New York, NY, 1997. ACM Press.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Accot1997Beyond.bib)
-
-F.&nbsp;Biocca. <span class="bibtex-protected">Cyborg's dilemma: Progressive embodiment in virtual environments</span>. <em>Journal of Computer Mediated-Communication</em>, 1997.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Biocca1997cyborg.bib)
-
-A.&nbsp;Bobick. <span class="bibtex-protected">Movement, Motion</span>. Technical Report 413, MIT Media Laboratory Perceptual Computing Section, 1997.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Bobick1997Movement.bib)
 
 R.&nbsp;Boulanger and M.&nbsp;V. Mathews. <span class="bibtex-protected">The 1997 Mathews' Radio Baton and Improvisation Modes</span>. In <em>Proceedings of the 1997 International Computer Music Conference</em>, 395&ndash;398. International Computer Music Association, 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Boulanger1997Mathews.bib)
@@ -1378,23 +1372,29 @@ J.O. Borchers. <span class="bibtex-protected">WorldBeat: Designing a Baton-Based
 M.&nbsp;A. Bromwich. <span class="bibtex-protected">The Metabone: An Interactive Sensory Control Mechanism for Virtuoso Trombone</span>. In <em>Proceedings of the 1997 International Computer Music Conference</em>, 473&ndash;475. International Computer Music Association, 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Bromwich1997Metabone.bib)
 
+F.&nbsp;Biocca. <span class="bibtex-protected">Cyborg's dilemma: Progressive embodiment in virtual environments</span>. <em>Journal of Computer Mediated-Communication</em>, 1997.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Biocca1997cyborg.bib)
+
+A.&nbsp;Bobick. <span class="bibtex-protected">Movement, Motion</span>. Technical Report 413, MIT Media Laboratory Perceptual Computing Section, 1997.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Bobick1997Movement.bib)
+
 Richard Boulanger and Max Mathews. The 1997 mathews radio-baton and improvisation modes. In <em>Proceedings of the International Computer Music Conference</em>, 395&ndash;398. Aristote University of Thessaloniki, Thessaloniki, Greece, 1997. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1997.105/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1997.105/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1997.105/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1997.bib)
 
 Marc&nbsp;Alexander Bromwich. The metabone : an interactive sensory control mechanism for virtuoso trombone. In <em>Proceedings of the International Computer Music Conference</em>, 473&ndash;475. Aristote University of Thessaloniki, Thessaloniki, Greece, 1997. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1997.127/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1997.127/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1997.127/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1997.bib)
 
-A.&nbsp;Camurri. <span class="bibtex-protected">Network Models for Music and Motor Control</span>. In <em>Self-Organization, Computational Maps and Motor Control</em>. Elsevier, 1997.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Camurri1997Network.bib)
-
 J.L. Chadabe. <em><span class="bibtex-protected">Electric sound - the past and promise of electronic music</span></em>. Prentice Hall, Upper Saddle River, N.J., 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Chadabe1997Electric.bib)
 
-I.&nbsp;Choi and C.&nbsp;Ricii. <span class="bibtex-protected">Foot-Mounted Gesture Detection and its Application in Virtual Environments</span>. In <em>Proceedings of the IEEE International Conference on Systems, Man and Cybernetics</em>. 1997.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Choi1997Foot.bib)
+A.&nbsp;Camurri. <span class="bibtex-protected">Network Models for Music and Motor Control</span>. In <em>Self-Organization, Computational Maps and Motor Control</em>. Elsevier, 1997.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Camurri1997Network.bib)
 
 J.&nbsp;J. Carr. <em><span class="bibtex-protected">Electronic Circuit Guidebook. Volume 1: Sensors</span></em>. Prompt Publications – Howard W. Sams &amp; Company, Indianapolis, USA, 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Carr1997Electronic.bib)
+
+I.&nbsp;Choi and C.&nbsp;Ricii. <span class="bibtex-protected">Foot-Mounted Gesture Detection and its Application in Virtual Environments</span>. In <em>Proceedings of the IEEE International Conference on Systems, Man and Cybernetics</em>. 1997.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Choi1997Foot.bib)
 
 D.&nbsp;Domingues. <em><span class="bibtex-protected">Arte no Séc. XXI: A Humanização das Tecnologias</span></em>. Ed. da Unesp, São Paulo, 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Domingues1997Arte.bib)
@@ -1405,32 +1405,32 @@ S.&nbsp;Dinkla. <em><span class="bibtex-protected">Pioniere interaktiver Kunst</
 S.&nbsp;Favilla. <span class="bibtex-protected">Real-time Control of Synthesis Parameters for LightHarp MIDI Controller</span>. In <em>Proceedings of the 1997 ACMA Conference</em>. Auckland, New Zealand, 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Favilla1997Real.bib)
 
-E.&nbsp;Fléty. <span class="bibtex-protected">Sonars à ultrasons</span>. Technical report, Ircam Centre Pompidou, 1997.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Flety1997Sonars.bib)
-
 G.&nbsp;W. Fitzmaurice and W.&nbsp;Buxton. <span class="bibtex-protected">An Empirical Evaluation of Graspable User Interfaces: towards specialized, space-multiplexed input</span>. In <em>Proceedings of the CHI'97 Conference on Human factors in Computing Systems</em>, 43&ndash;50. Association of Computer Machinery, 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Fitzmaurice1997Empirical.bib)
+
+E.&nbsp;Fléty. <span class="bibtex-protected">Sonars à ultrasons</span>. Technical report, Ircam Centre Pompidou, 1997.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Flety1997Sonars.bib)
 
 G.&nbsp;Gershenfeld and J.&nbsp;Paradiso. <span class="bibtex-protected">Musical Applications of Electric Field Sensing</span>. <em>Computer Music Journal</em>, 21(2):69&ndash;89, 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Gershenfeld1997Musical.bib)
 
-L.&nbsp;Haken, K.&nbsp;Fritz, E.&nbsp;Tellmann, P.&nbsp;Wolfe, and P.&nbsp;Christensen. <span class="bibtex-protected">A Continuous Music Keyboard Controlling Polyphonic Morphing using Bandwidth Enhanced Oscillators</span>. In <em>Proceedings of the 1997 International Computer Music Conference</em>, 375&ndash;378. San Francisco, 1997. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Haken1997Morphing.bib)
+A.&nbsp;Hünnekens. <em><span class="bibtex-protected">Der bewegte Betrachter. Theorien der Interaktiven Medienkunst</span></em>. Wienand, Köln, 1997.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Hünnekens1997Betrachter.bib)
 
 K.&nbsp;Hinckley, R.&nbsp;Pausch, D.&nbsp;Proffitt, J.&nbsp;Patten, and N.&nbsp;Kassell. <span class="bibtex-protected">Cooperative Bimanual Action</span>. In <em>Proceedings of the CHI'97 Conference on Human Factors in Computing Systems</em>, 27&ndash;34. Association for Computer Machinery, 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Hinckley1997Bimanual.bib)
 
-A.&nbsp;Hünnekens. <em><span class="bibtex-protected">Der bewegte Betrachter. Theorien der Interaktiven Medienkunst</span></em>. Wienand, Köln, 1997.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Hünnekens1997Betrachter.bib)
+L.&nbsp;Haken, K.&nbsp;Fritz, E.&nbsp;Tellmann, P.&nbsp;Wolfe, and P.&nbsp;Christensen. <span class="bibtex-protected">A Continuous Music Keyboard Controlling Polyphonic Morphing using Bandwidth Enhanced Oscillators</span>. In <em>Proceedings of the 1997 International Computer Music Conference</em>, 375&ndash;378. San Francisco, 1997. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Haken1997Morphing.bib)
 
 Lippold Haken, Kelly Fitz, Ed&nbsp;Tellman, Patrick Wolfe, and Paul Christensen. A continuous music keyboard controlling polyphonic morphing using bandwidth-enhanced oscillators. In <em>Proceedings of the International Computer Music Conference</em>, 375&ndash;378. Aristote University of Thessaloniki, Thessaloniki, Greece, 1997. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1997.100/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1997.100/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1997.100/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1997.bib)
 
-H.&nbsp;Katayose, H.&nbsp;Shirakabe, T.&nbsp;Kanamori, and S.&nbsp;Inokuchi. <span class="bibtex-protected">A Toolkit for Interactive Digital Art</span>. In <em>Proceedings of the 1997 International Computer Music Conference</em>, 476–478. San Francisco, 1997. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Katayose1997Toolkit.bib)
-
 M.&nbsp;Kieslinger and T.&nbsp;Ungvary. <span class="bibtex-protected">Aspects of Visualizing Information for a Realtime Hypermedia Musical Environment</span>. In Chow, editor, <em>Multimedia Technology and Applications</em>. Springer-Publications, Singapore, 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Kieslinger1997Aspects.bib)
+
+H.&nbsp;Katayose, H.&nbsp;Shirakabe, T.&nbsp;Kanamori, and S.&nbsp;Inokuchi. <span class="bibtex-protected">A Toolkit for Interactive Digital Art</span>. In <em>Proceedings of the 1997 International Computer Music Conference</em>, 476–478. San Francisco, 1997. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Katayose1997Toolkit.bib)
 
 Francisco Kroepfl. Electronic music: from analog control to computers. <em>Computer Music Journal</em>, 21(1):26–28, 1997. URL: <a href="https://www.jstor.org/stable/3681212">https://www.jstor.org/stable/3681212</a>.
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3681212) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1997.bib)
@@ -1441,11 +1441,14 @@ Haruhiro Katayose, Hirotsugu Shirakabe, Tsutomu Kanamori, and Seiji Inokuchi. A 
 P.&nbsp;Levy. <em><span class="bibtex-protected">Cyberculture: Rapport au Conseil de l'Europe dans le cadre du projet Nouvelles technologies: cooperation culturelle et communication</span></em>. University of Minnesota Press, Paris, 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Levy1997Cyberculture.bib)
 
-A.&nbsp;Mulder, S.&nbsp;Fels, and K.&nbsp;Mase. <span class="bibtex-protected">Empty-Handed Gesture Analysis in Max/FTS</span>. In A.&nbsp;Camurri, editor, <em>Kansei, The Technology of Emotion. Proceedings of the AIMI International Workshop</em>, 87&ndash;91. Genoa, 1997. Associazione di Informatica Musicale Italiana.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Mulder1997Empty.bib)
-
 M.&nbsp;Morse, editor. <em><span class="bibtex-protected">Hardware, Software, Artware: Confluence of Art and Technology – Art Practice at the ZKM Institute for Visual Media</span></em>. ZKM, Karlsruhe, 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Morse1997Hardware.bib)
+
+P.&nbsp;Modler and I.&nbsp;Emotion. <span class="bibtex-protected">Emotional Aspects of Gesture Recognition by a Neural Network, using Dedicated Input Devices</span>. In A.&nbsp;Camurri, editor, <em>Kansei, The Technology of Emotion. Proceedings of the AIMI International Workshop</em>, 79&ndash;86. Genoa, 1997. Associazione di Informatica Musicale Italiana.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Modler1997Emotional.bib)
+
+T.&nbsp;A. Marrin. <span class="bibtex-protected">Possibilities for the Digital Baton as a General-Purpose Gestural Interface</span>. In <em>Proceedings of the CHI'97 Conference on Human factors in Computing Systems</em>, 311&ndash;312. Association of Computer Machinery, 1997.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Marrin1997Possibilities.bib)
 
 A.&nbsp;Mulder, S.&nbsp;Fels, and K.&nbsp;Mase. <span class="bibtex-protected">Mapping Virtual Object Manipulation to Sound Variation</span>. In T.&nbsp;Rai and R.&nbsp;Basset, editors, <em>IPSJ SIG notes</em>, volume&nbsp;97, 63&ndash;68. 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Mulder1997Mapping.bib)
@@ -1453,11 +1456,8 @@ A.&nbsp;Mulder, S.&nbsp;Fels, and K.&nbsp;Mase. <span class="bibtex-protected">M
 T.&nbsp;A. Marrin and J.&nbsp;Paradiso. <span class="bibtex-protected">The Digital Baton: A Versatile Performance Instrument</span>. In <em>Proceedings of the 1997 International Computer Music Conference</em>, 313&ndash;316. San Francisco, 1997. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Marrin1997Digital.bib)
 
-P.&nbsp;Modler and I.&nbsp;Emotion. <span class="bibtex-protected">Emotional Aspects of Gesture Recognition by a Neural Network, using Dedicated Input Devices</span>. In A.&nbsp;Camurri, editor, <em>Kansei, The Technology of Emotion. Proceedings of the AIMI International Workshop</em>, 79&ndash;86. Genoa, 1997. Associazione di Informatica Musicale Italiana.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Modler1997Emotional.bib)
-
-T.&nbsp;A. Marrin. <span class="bibtex-protected">Possibilities for the Digital Baton as a General-Purpose Gestural Interface</span>. In <em>Proceedings of the CHI'97 Conference on Human factors in Computing Systems</em>, 311&ndash;312. Association of Computer Machinery, 1997.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Marrin1997Possibilities.bib)
+A.&nbsp;Mulder, S.&nbsp;Fels, and K.&nbsp;Mase. <span class="bibtex-protected">Empty-Handed Gesture Analysis in Max/FTS</span>. In A.&nbsp;Camurri, editor, <em>Kansei, The Technology of Emotion. Proceedings of the AIMI International Workshop</em>, 87&ndash;91. Genoa, 1997. Associazione di Informatica Musicale Italiana.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Mulder1997Empty.bib)
 
 L.&nbsp;Naugle and G.&nbsp;Iris. <span class="bibtex-protected">A University Dance Course in Cyberspace: The Telelearning Experience</span>. <em>Journal of Distance Education</em>, 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Naugle1997University.bib)
@@ -1474,26 +1474,26 @@ Nicola Orio. A gesture interface controlled by the oral cavity. In <em>Proceedin
 Maura&nbsp;Sile O'Modhrain. Feel the music: narration in touch and sound. In <em>Proceedings of the International Computer Music Conference</em>, 321&ndash;324. Aristote University of Thessaloniki, Thessaloniki, Greece, 1997. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1997.085/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1997.085/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1997.085/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1997.bib)
 
+J.&nbsp;Paradiso, C.&nbsp;Abler, K.&nbsp;Hsiao, and M.&nbsp;Reynolds. <span class="bibtex-protected">The Magic Carpet: Physical Sensing for Immersive Environments</span>. In <em>Conference on Human Factors in Computing Systems</em>. ACM Press, 1997.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Paradiso1997Magic.bib)
+
+J.&nbsp;A. Paradiso and N.&nbsp;Gershelfeld. <span class="bibtex-protected">Musical Applications of Electric Field Sensing</span>. <em>Computer Music Journal</em>, 21(2):69–89, 1997.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Paradiso1997Electric.bib)
+
+J.&nbsp;Paradiso and E.&nbsp;Hu. <span class="bibtex-protected">Expressive Footwear for Computer-Augmented Dance Performance</span>. In <em>Proc. of the Int. Symp. on Wearable Computers</em>, 165&ndash;166. IEEE Comp. Soc. Pr, 1997.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Paradiso1997Expressive.bib)
+
 J.&nbsp;Paradiso and N.&nbsp;Gershenfeld. <span class="bibtex-protected">Musical Applications of Electric Field Sensing</span>. <em>Computer Music Journal</em>, 21(2):69&ndash;89, 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Paradiso1997Musical.bib)
 
 G.&nbsp;Prado. <span class="bibtex-protected">Cronologias de experiências artísticas nas redes de telecomunicações</span>. In <em>Trilhas</em>, pages 77&ndash;103. Unicamp, Campinas, SP, 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Prado1997Cronologiasde.bib)
 
-J.&nbsp;A. Paradiso and N.&nbsp;Gershelfeld. <span class="bibtex-protected">Musical Applications of Electric Field Sensing</span>. <em>Computer Music Journal</em>, 21(2):69–89, 1997.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Paradiso1997Electric.bib)
-
-J.&nbsp;Paradiso, C.&nbsp;Abler, K.&nbsp;Hsiao, and M.&nbsp;Reynolds. <span class="bibtex-protected">The Magic Carpet: Physical Sensing for Immersive Environments</span>. In <em>Conference on Human Factors in Computing Systems</em>. ACM Press, 1997.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Paradiso1997Magic.bib)
-
-J.&nbsp;Paradiso, C.&nbsp;Abler, K.&nbsp;Hsiao, and M.&nbsp;Reynolds. <span class="bibtex-protected">The Magic Carpet: Physical Sensing for Immersive Environments</span>. In <em>CHI97 Electronic Publications: Late-Breaking/Short Demonstrations</em>. 1997.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Paradiso1997Carpet.bib)
-
 J.&nbsp;Paradiso. <span class="bibtex-protected">Electronic Music: New Ways to play</span>. <em>IEEE Spectrum</em>, 34(12):18&ndash;30, 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Paradiso1997Electronic.bib)
 
-J.&nbsp;Paradiso and E.&nbsp;Hu. <span class="bibtex-protected">Expressive Footwear for Computer-Augmented Dance Performance</span>. In <em>Proc. of the Int. Symp. on Wearable Computers</em>, 165&ndash;166. IEEE Comp. Soc. Pr, 1997.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Paradiso1997Expressive.bib)
+J.&nbsp;Paradiso, C.&nbsp;Abler, K.&nbsp;Hsiao, and M.&nbsp;Reynolds. <span class="bibtex-protected">The Magic Carpet: Physical Sensing for Immersive Environments</span>. In <em>CHI97 Electronic Publications: Late-Breaking/Short Demonstrations</em>. 1997.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Paradiso1997Carpet.bib)
 
 Joseph&nbsp;A. Paradiso and Neil Gershenfeld. Musical applications of electric field sensing. <em>Computer Music Journal</em>, 21(2):69–89, 1997. URL: <a href="https://www.jstor.org/stable/3681109">https://www.jstor.org/stable/3681109</a>.
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3681109) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1997.bib)
@@ -1525,20 +1525,20 @@ L.&nbsp;Tarabella and G.&nbsp;Bertini. <span class="bibtex-protected">Original G
 Teresa Marrin and Joseph Paradiso. The digital baton: a versatile performance instrument. In <em>Proceedings of the International Computer Music Conference</em>, 313&ndash;316. Aristote University of Thessaloniki, Thessaloniki, Greece, 1997. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1997.083/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1997.083/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1997.083/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1997.bib)
 
-R.&nbsp;Wechsler. <span class="bibtex-protected">Computer im Tanz: Medium oder Werkzeug?</span> <em>Ballett International</em>, 1997.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Wechsler1997Werkzeug.bib)
-
-R.&nbsp;Wechsler. <span class="bibtex-protected">O Body Swayed to Music… (and vise versa)</span>. <em>Leonardo Magazine</em>, 1997.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Wechsler1997Body.bib)
+T.&nbsp;Winkler. <span class="bibtex-protected">Creating Interactive Dance with the Very Nervous System</span>. In <em>Proceedings of the 1997 Connecticut College Symposium on Art and Technology</em>. 1997.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Winkler1997Dance.bib)
 
 M.&nbsp;Wright, D.&nbsp;Wessel, and A.&nbsp;Freed. <span class="bibtex-protected">New Musical Control Structures from Standard Gestural Controllers</span>. In <em>Proceedings of the 1997 International Computer Music Conference</em>, 387&ndash;390. San Francisco, CA, 1997. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Wright1997New.bib)
 
-T.&nbsp;Winkler. <span class="bibtex-protected">Creating Interactive Dance with the Very Nervous System</span>. In <em>Proceedings of the 1997 Connecticut College Symposium on Art and Technology</em>. 1997.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Winkler1997Dance.bib)
+R.&nbsp;Wechsler. <span class="bibtex-protected">Computer im Tanz: Medium oder Werkzeug?</span> <em>Ballett International</em>, 1997.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Wechsler1997Werkzeug.bib)
 
 R.&nbsp;Wechsler. <span class="bibtex-protected">Computers and Art: a Dancer's Perspective</span>. <em>IEEE Technology and Society Magazine</em>, 1997.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Wechsler1997Perspective.bib)
+
+R.&nbsp;Wechsler. <span class="bibtex-protected">O Body Swayed to Music… (and vise versa)</span>. <em>Leonardo Magazine</em>, 1997.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1997/Wechsler1997Body.bib)
 
 Matthew Wright, David Wessel, and Audrain Freed. New musical control structures from standard gestural controllers. In <em>Proceedings of the International Computer Music Conference</em>, 387&ndash;390. Aristote University of Thessaloniki, Thessaloniki, Greece, 1997. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1997.103/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1997.103/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1997.103/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1997.bib)
@@ -1554,23 +1554,23 @@ R.&nbsp;Ascott. <em><span class="bibtex-protected">Art &amp; Telematics: Toward 
 A.&nbsp;Artaud. <span class="bibtex-protected">Review, “Big Briar Wavefront. Ethervox and Travel case theremins provide gestural MIDI control</span>. <em>Electronic Musician</em>, 14(5):120&ndash;128, 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Artaud_1998_Wavefront.bib)
 
-B.&nbsp;Bongers. <span class="bibtex-protected">Tactual Display of Sound Properties in Electronic Musical Instruments</span>. <em>Displays</em>, 18(3):129&ndash;133, 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Bongers1998Tactual.bib)
-
-B.&nbsp;Bongers. <span class="bibtex-protected">An Interview with Sensorband</span>. <em>Computer Music Journal</em>, 22(1):13&ndash;24, 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Bongers1998Interview.bib)
+J.&nbsp;Birringer. <em><span class="bibtex-protected">Media and Performance: along the border</span></em>. Johns Hopkins, Baltimore, 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Birringer1998Media.bib)
 
 M.&nbsp;J. Buescher, J.&nbsp;O'Brien, and J.&nbsp;Hughes. <em><span class="bibtex-protected">Interaction and Presence in Shared Electronic Environments (Fieldwork at ZKM)</span></em>. Lancaster University, 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Buescher1998Shared.bib)
 
-M.&nbsp;A. Bromwich and J.&nbsp;Wilson. <span class="bibtex-protected">Bodycoder: A Sensor Suit and Vocal Performance Mechanism for Real-Time Performance</span>. In <em>Proceedings of the 1998 International Computer Music Conference</em>, 292&ndash;295. International Computer Music Association, 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Bromwich1998Bodycoder.bib)
-
-J.&nbsp;Birringer. <em><span class="bibtex-protected">Media and Performance: along the border</span></em>. Johns Hopkins, Baltimore, 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Birringer1998Media.bib)
-
 J.O. Borchers and M.&nbsp;Muhlheuser. <span class="bibtex-protected">Design Patterns for Interactive Musical Systems</span>. <em>IEEE Multimedia</em>, 5(3):36&ndash;46, 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Borchers1998Design.bib)
+
+B.&nbsp;Bongers. <span class="bibtex-protected">An Interview with Sensorband</span>. <em>Computer Music Journal</em>, 22(1):13&ndash;24, 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Bongers1998Interview.bib)
+
+B.&nbsp;Bongers. <span class="bibtex-protected">Tactual Display of Sound Properties in Electronic Musical Instruments</span>. <em>Displays</em>, 18(3):129&ndash;133, 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Bongers1998Tactual.bib)
+
+M.&nbsp;A. Bromwich and J.&nbsp;Wilson. <span class="bibtex-protected">Bodycoder: A Sensor Suit and Vocal Performance Mechanism for Real-Time Performance</span>. In <em>Proceedings of the 1998 International Computer Music Conference</em>, 292&ndash;295. International Computer Music Association, 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Bromwich1998Bodycoder.bib)
 
 Bert Bongers. An interview with sensorband. <em>Computer Music Journal</em>, 22(1):13–24, 1998. URL: <a href="https://www.jstor.org/stable/3681041">https://www.jstor.org/stable/3681041</a>.
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3681041) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1998.bib)
@@ -1578,8 +1578,8 @@ Bert Bongers. An interview with sensorband. <em>Computer Music Journal</em>, 22(
 Mark Bromwich and Julie Wilson-Bokowiec. 'bodycoder': a sensor suit and vocal performance mechanism for real-time performance. In <em>Proceedings of the International Computer Music Conference</em>, 292&ndash;295. University of Michigan, Ann Arbor, USA, 1998. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1998.253/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1998.253/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1998.253/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1998.bib)
 
-A.&nbsp;Camurri, M.&nbsp;Ricchetti, M.&nbsp;Di&nbsp;Stefano, and A.&nbsp;Stroscio. <span class="bibtex-protected">EyesWeb - Toward Gesture and Affect Recognition in Dance/Music Interactive Systems</span>. In <em>Proceedings of the Colloquio di Informatica Musicale CIM'98</em>. AIMI, 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Camurri1998EyesWeb.bib)
+I.&nbsp;Choi. <span class="bibtex-protected">From Motion to Emotion: Synthesis of Interactivity with Gestural Primitives</span>. In <em>Emotional and Intelligent: The Tangled Knot of Cognition, AAAI Fall Symposium</em>, pages 22&ndash;25. Orlando, FL, October 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Choi1998From.bib)
 
 P.&nbsp;R. Cook and D.&nbsp;Trueman. <span class="bibtex-protected">NBody: Interactive Multidirectional Musical Instrument Body Radiation Simulations, and a Database of Measured Impulse Responses</span>. In <em>Proceedings of the 1998 International Computer Music Conference</em>, 353&ndash;356. San Francisco, 1998. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Cook1998NBody.bib)
@@ -1587,8 +1587,8 @@ P.&nbsp;R. Cook and D.&nbsp;Trueman. <span class="bibtex-protected">NBody: Inter
 H.&nbsp;Cunningham. <span class="bibtex-protected">Digital Culture – the View from the Dance Floor</span>. In J.&nbsp;Sefton-Green, editor, <em>Digital Diversions: Youth Culture in the Age of Multimedia</em>. UCL Press Ltd, London, 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Cunningham1998Digital.bib)
 
-I.&nbsp;Choi. <span class="bibtex-protected">From Motion to Emotion: Synthesis of Interactivity with Gestural Primitives</span>. In <em>Emotional and Intelligent: The Tangled Knot of Cognition, AAAI Fall Symposium</em>, pages 22&ndash;25. Orlando, FL, October 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Choi1998From.bib)
+A.&nbsp;Camurri, M.&nbsp;Ricchetti, M.&nbsp;Di&nbsp;Stefano, and A.&nbsp;Stroscio. <span class="bibtex-protected">EyesWeb - Toward Gesture and Affect Recognition in Dance/Music Interactive Systems</span>. In <em>Proceedings of the Colloquio di Informatica Musicale CIM'98</em>. AIMI, 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Camurri1998EyesWeb.bib)
 
 Perry Cook and Daniel Trueman. Nbody: interactive multidirectional musical instrument body radiation simulators, and a database of measured impulse responses. In <em>Proceedings of the International Computer Music Conference</em>, 353&ndash;356. University of Michigan, Ann Arbor, USA, 1998. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1998.303/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1998.303/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1998.303/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1998.bib)
@@ -1596,14 +1596,14 @@ Perry Cook and Daniel Trueman. Nbody: interactive multidirectional musical instr
 Serge de&nbsp;Laubier. The meta-instrument. <em>Computer Music Journal</em>, 22(1):25–29, 1998. URL: <a href="https://www.jstor.org/stable/3681042">https://www.jstor.org/stable/3681042</a>.
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3681042) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/1998.bib)
 
+E.&nbsp;Fléty and M.-H. Serra. <span class="bibtex-protected">Utilisations récentes de capteurs gestuels encréation musicale à l'Ircam</span>. In <em>Proceedings of the Journées d'Informatique Musicale</em>, D3&ndash;1&ndash;D3&ndash;4. 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Flety1998Utilisations.bib)
+
 S.&nbsp;Fels, K.&nbsp;Nishimoto, and K.&nbsp;Mase. <span class="bibtex-protected">MusiKalscope: A Graphical Musical Instrument</span>. <em>IEEE Multimedia</em>, 5(3):26&ndash;35, 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Fels1998MusiKalscope.bib)
 
 J.-L. Florens, C.&nbsp;Cadoz, and A.&nbsp;Luciani. <span class="bibtex-protected">A Real-Time Workstation for Physical Model of Multi-Sensorial and Gesturally Controlled Instrument</span>. In <em>Proceedings of the 1998 International Computer Music Conference</em>, 518&ndash;525. San Francisco, 1998. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Florens1998Real.bib)
-
-E.&nbsp;Fléty and M.-H. Serra. <span class="bibtex-protected">Utilisations récentes de capteurs gestuels encréation musicale à l'Ircam</span>. In <em>Proceedings of the Journées d'Informatique Musicale</em>, D3&ndash;1&ndash;D3&ndash;4. 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Flety1998Utilisations.bib)
 
 Adrian Freed and David Wessel. Communication of musical gesture using the aes/ebu digital audio standard. In <em>Proceedings of the International Computer Music Conference</em>, 220&ndash;223. University of Michigan, Ann Arbor, USA, 1998. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1998.257/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1998.257/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1998.257/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1998.bib)
@@ -1623,23 +1623,23 @@ David Gamper and Pauline Oliveros. The expanded instrument system: recent develo
 Niall Griffith and Mikael Fernstrom. Litefoot - a floor space for recording dance and controlling media. In <em>Proceedings of the International Computer Music Conference</em>, 475&ndash;481. University of Michigan, Ann Arbor, USA, 1998. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1998.291/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1998.291/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1998.291/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1998.bib)
 
-S.&nbsp;Hashimoto and H.&nbsp;Sawada. <span class="bibtex-protected">Musical Performance Control Using Gesture: Toward Kansei Technology for Art</span>. In Kopiez and Auhagen, editors, <em>Controlling Creative Processes in Music</em>, volume&nbsp;12 of Schriften Musikpsychologie und Musikäesthetik, pages 93&ndash;106. Peter Lang Verlag, Frankfurt am Main, 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Hashimoto1998Kansei.bib)
-
-K.&nbsp;Hinckley, R.&nbsp;Pausch, D.&nbsp;Proffitt, and N.&nbsp;Kassell. <span class="bibtex-protected">Two-Handed Virtual Manipulation</span>. <em>ACM Transactions on Computer-Human Interaction</em>, 5(3):260&ndash;302, 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Hinckley1998Manipulation.bib)
-
 S.&nbsp;Hirai, H.&nbsp;Katayose, T.&nbsp;Kanamori, and S.&nbsp;Inokuchi. <span class="bibtex-protected">Software Sensors for Interactive Digital Art</span>. In <em>Proceedings of the 1998 International Computer Music Conference</em>, 514&ndash;517. San Francisco, 1998. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Hirai1998Sensors.bib)
-
-C.&nbsp;Hummels, G.&nbsp;Smets, and K.&nbsp;Overbeeke. <span class="bibtex-protected">An Intuitive Two-Handed Gestural Interface for Computer Supported Product Design</span>. In I.&nbsp;Wachsmuth and M.&nbsp;Fröhlich, editors, <em>Gesture and Sign Language in Human-Computer Interaction, Proceedings of the II Gesture Workshop</em>, 197&ndash;208. Heidelberg, 1998. Springer-Verlag.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Hummels1998Gestural.bib)
 
 K.&nbsp;Hinckley, M.&nbsp;Czerwinski, and M.&nbsp;Sinclair. <span class="bibtex-protected">Interaction and Modeling Techniques for Desktop Two-Handed Input</span>. In <em>Proceedings of the UIST'98</em>, 49&ndash;58. Association for Computer Machinery, 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Hinckley1998Modeling.bib)
 
 L.&nbsp;Haken, E.&nbsp;Tellman, and P.&nbsp;Wolfe. <span class="bibtex-protected">An Indiscrete Music Keyboard</span>. <em>Computer Music Journal</em>, 22(1):31&ndash;48, 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Haken1998Indiscrete.bib)
+
+K.&nbsp;Hinckley, R.&nbsp;Pausch, D.&nbsp;Proffitt, and N.&nbsp;Kassell. <span class="bibtex-protected">Two-Handed Virtual Manipulation</span>. <em>ACM Transactions on Computer-Human Interaction</em>, 5(3):260&ndash;302, 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Hinckley1998Manipulation.bib)
+
+S.&nbsp;Hashimoto and H.&nbsp;Sawada. <span class="bibtex-protected">Musical Performance Control Using Gesture: Toward Kansei Technology for Art</span>. In Kopiez and Auhagen, editors, <em>Controlling Creative Processes in Music</em>, volume&nbsp;12 of Schriften Musikpsychologie und Musikäesthetik, pages 93&ndash;106. Peter Lang Verlag, Frankfurt am Main, 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Hashimoto1998Kansei.bib)
+
+C.&nbsp;Hummels, G.&nbsp;Smets, and K.&nbsp;Overbeeke. <span class="bibtex-protected">An Intuitive Two-Handed Gestural Interface for Computer Supported Product Design</span>. In I.&nbsp;Wachsmuth and M.&nbsp;Fröhlich, editors, <em>Gesture and Sign Language in Human-Computer Interaction, Proceedings of the II Gesture Workshop</em>, 197&ndash;208. Heidelberg, 1998. Springer-Verlag.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Hummels1998Gestural.bib)
 
 B.L. Harrison, K.P. Fishkin, A.&nbsp;Gujar, C.&nbsp;Mochon, and R.&nbsp;Want. <span class="bibtex-protected">Squeeze Me, Hold Me, Tilt Me! An Exploration of Manipulative User Interfaces</span>. In <em>Proceedings of the CHI’98 Conference on Human Factors in Computing Systems</em>, 17&ndash;24. Association for Computer Machinery, 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Harrison1998Squeeze.bib)
@@ -1662,8 +1662,8 @@ S.&nbsp;de. Laubier. <span class="bibtex-protected">The Meta-Instrument</span>. 
 D.&nbsp;Menzies and D.&nbsp;Howard. <span class="bibtex-protected">The CyberWhistle: An Instrument for Live Performance</span>. In <em>Proceedings of the XII Colloquium for Musical Informatics</em>. Gorizia, Italy, 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Menzies1998CyberWhistle.bib)
 
-T.&nbsp;A. Marrin and R.&nbsp;Picard. <span class="bibtex-protected">The Conductor's Jacket: A Testbed for Research on Gestural and Affective Expression</span>. In <em>Proceedings of the XII Colloquium for Musical Informatics</em>. Gorizia, Italy, 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Marrin1998Conductor.bib)
+T.&nbsp;A. Marrin and R.&nbsp;Picard. <span class="bibtex-protected">The “Conductor’s Jacquet”: A device for recording expressive musical gestures</span>. In <em>Proceedings of the 1998 International Computer Music Conference</em>, 215&ndash;219. San Francisco, 1998. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Marrin1998Jacquet.bib)
 
 P.&nbsp;Modler. <span class="bibtex-protected">Interactive Control of Musical Structures by Hand Gestures</span>. In <em>Proceedings of the Fifth Brazilian Symposium on Computer Music</em>, 143&ndash;150. 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Modler1998Interactive.bib)
@@ -1671,17 +1671,17 @@ P.&nbsp;Modler. <span class="bibtex-protected">Interactive Control of Musical St
 A.&nbsp;Mulder. <em><span class="bibtex-protected">Design of Virtual Three-Dimensional Instruments for Sound Control</span></em>. PhD thesis, Simon Fraser University, Burnaby, BC, Canada, 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Mulder1998Design.bib)
 
-T.&nbsp;A. Marrin and R.&nbsp;Picard. <span class="bibtex-protected">The “Conductor’s Jacquet”: A device for recording expressive musical gestures</span>. In <em>Proceedings of the 1998 International Computer Music Conference</em>, 215&ndash;219. San Francisco, 1998. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Marrin1998Jacquet.bib)
-
-T.&nbsp;Murray. <span class="bibtex-protected">Digital Incompossibility: The Aesthetics of Interactivity</span>. 1998. Distributed on disk in the form of an electronic catalogue to participants of “La Sensibilitat multimedia: il journades sobre ar I multimedia.” Fundacio “la Caixa, ” Barcelona.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Murray1998Digital.bib)
-
 A.&nbsp;Mihalic. <span class="bibtex-protected">Pédalophone</span>. In <em>Proceedings of the Journées d'Informatique Musicale</em>, D4&ndash;1&ndash;D4&ndash;13. 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Mihalic_1998_pedalophone.bib)
 
+T.&nbsp;A. Marrin and R.&nbsp;Picard. <span class="bibtex-protected">The Conductor's Jacket: A Testbed for Research on Gestural and Affective Expression</span>. In <em>Proceedings of the XII Colloquium for Musical Informatics</em>. Gorizia, Italy, 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Marrin1998Conductor.bib)
+
 A.&nbsp;Mulder and S.&nbsp;Fels. <span class="bibtex-protected">Sound Sculpting: Performing with Virtual Musical Instruments</span>. In <em>Proceedings of the Fifth Brazilian Symposium on Computer Music</em>, 151&ndash;164. 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Mulder1998Sound2.bib)
+
+T.&nbsp;Murray. <span class="bibtex-protected">Digital Incompossibility: The Aesthetics of Interactivity</span>. 1998. Distributed on disk in the form of an electronic catalogue to participants of “La Sensibilitat multimedia: il journades sobre ar I multimedia.” Fundacio “la Caixa, ” Barcelona.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Murray1998Digital.bib)
 
 A.&nbsp;Mulder and S.&nbsp;Fels. <span class="bibtex-protected">Sound Sculpting: Manipulating Sound through Virtual Sculpting</span>. In <em>Proceedings of the 1998 Western Computer Graphics Symposium</em>, 15&ndash;23. 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Mulder1998Sound1.bib)
@@ -1689,23 +1689,23 @@ A.&nbsp;Mulder and S.&nbsp;Fels. <span class="bibtex-protected">Sound Sculpting:
 Teresa Marrin and Rosalind Picard. The "conductor's jacket": a device for recording expressive musical gestures. In <em>Proceedings of the International Computer Music Conference</em>, 215&ndash;219. University of Michigan, Ann Arbor, USA, 1998. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1998.261/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1998.261/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1998.261/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1998.bib)
 
-L.&nbsp;Naugle. <span class="bibtex-protected">Internet Performance: Reflections on Dancing in Cyberspace</span>. In <em>Proceedings of the Multimedia Technology and Applications Conference</em>, 14&ndash;18. 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Naugle1998Internet.bib)
-
-G.&nbsp;Nottoli, M.&nbsp;Salerno, and G.&nbsp;Constantini. <span class="bibtex-protected">A New Interactive Performance System for Real-Time Sound Synthesis</span>. In <em>Proceedings of the 1998 International Computer Music Conference</em>, 33&ndash;36. San Francisco, 1998. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Nottoli1998Synthesis.bib)
-
-Y.&nbsp;Nagashima. <span class="bibtex-protected">Biosensor fusion: New Interfaces for Interactive Multimedia Art</span>. In <em>Proceedings of the 1998 International Computer Music Conference</em>, 129&ndash;132. San Francisco, 1998. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Nagashima1998Biosensor.bib)
-
-L.&nbsp;Naugle. <span class="bibtex-protected">Digital Dancing</span>. <em>IEEE Multimedia</em>, 5(4):8&ndash;12, 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Naugle1998Digital.bib)
+Y.&nbsp;Nagashima. <span class="bibtex-protected">Biosensorfusion: New Interfaces For Interactive Multimedia Art</span>. In <em>Proceedings of the International Computer Music Conference</em>, 129&ndash;132. San Francisco, 1998. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Nagashima1998Biosensorfusion.bib)
 
 L.&nbsp;Naugle. <span class="bibtex-protected">The Cassandra Project: In the Mediascape of the Internet</span>. In <em>Proceedings of the 31st Annual Conference Congress on Research in Dance</em>, 101&ndash;108. 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Naugle1998Cassandra.bib)
 
-Y.&nbsp;Nagashima. <span class="bibtex-protected">Biosensorfusion: New Interfaces For Interactive Multimedia Art</span>. In <em>Proceedings of the International Computer Music Conference</em>, 129&ndash;132. San Francisco, 1998. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Nagashima1998Biosensorfusion.bib)
+L.&nbsp;Naugle. <span class="bibtex-protected">Internet Performance: Reflections on Dancing in Cyberspace</span>. In <em>Proceedings of the Multimedia Technology and Applications Conference</em>, 14&ndash;18. 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Naugle1998Internet.bib)
+
+L.&nbsp;Naugle. <span class="bibtex-protected">Digital Dancing</span>. <em>IEEE Multimedia</em>, 5(4):8&ndash;12, 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Naugle1998Digital.bib)
+
+Y.&nbsp;Nagashima. <span class="bibtex-protected">Biosensor fusion: New Interfaces for Interactive Multimedia Art</span>. In <em>Proceedings of the 1998 International Computer Music Conference</em>, 129&ndash;132. San Francisco, 1998. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Nagashima1998Biosensor.bib)
+
+G.&nbsp;Nottoli, M.&nbsp;Salerno, and G.&nbsp;Constantini. <span class="bibtex-protected">A New Interactive Performance System for Real-Time Sound Synthesis</span>. In <em>Proceedings of the 1998 International Computer Music Conference</em>, 33&ndash;36. San Francisco, 1998. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Nottoli1998Synthesis.bib)
 
 Giovanni Costantini and Nottoli Giorgio. A new interactive performance system for real-time sound synthesis. In <em>Proceedings of the International Computer Music Conference</em>, 33&ndash;36. University of Michigan, Ann Arbor, USA, 1998. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1998.305/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1998.305/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1998.305/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1998.bib)
@@ -1722,11 +1722,11 @@ J.&nbsp;Paradiso, E.&nbsp;Hu, and K.&nbsp;Hsiao. <span class="bibtex-protected">
 N.&nbsp;Porcaro, D.&nbsp;Jaffe, P.&nbsp;Scandalis, J.&nbsp;Smith, T.&nbsp;Stilson, and S.&nbsp;V. Duyne. <span class="bibtex-protected">SynthBuilder: A Graphical Rapid-Prototyping Tool for the Development of Music Synthesis and Effects Patches on Multiple Platforms</span>. <em>Computer Music Journal</em>, 22(2):35–43, 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Porcaro_1998_SynthBuilder.bib)
 
-J.&nbsp;Rovan and M.&nbsp;Wanderley. <span class="bibtex-protected">Gestural Controllers: Strategies for Expressive Application</span>. In <em>Abstract presented at the SEAMUS Conference</em>. Hanover, N. H., 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Rovan1998_Strategies.bib)
-
 Clara Rockmore. <span class="bibtex-protected">Asheville</span>. VHS video tape, 58 minutes, 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Rockmore1998Asheville.bib)
+
+J.&nbsp;Rovan and M.&nbsp;Wanderley. <span class="bibtex-protected">Gestural Controllers: Strategies for Expressive Application</span>. In <em>Abstract presented at the SEAMUS Conference</em>. Hanover, N. H., 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Rovan1998_Strategies.bib)
 
 W.&nbsp;Siegel and J.&nbsp;Jacobsen. <span class="bibtex-protected">The Challenges of Interactive Dance: An Overview and Case Study</span>. <em>Computer Music Journal</em>, 22(4):29&ndash;43, 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Siegel1998Challenges.bib)
@@ -1743,14 +1743,14 @@ Leonello Tarabella and Massimo Magrini. A system for recognizing shape, position
 Atsuo Takanishi and Manabu Maeda. Development of an anthropomorphic flutist robot wf-3riv. In <em>Proceedings of the International Computer Music Conference</em>, 328&ndash;331. University of Michigan, Ann Arbor, USA, 1998. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1998.267/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1998.267/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1998.267/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1998.bib)
 
+T.&nbsp;Ungvary and M.&nbsp;Kieslinger. <span class="bibtex-protected">Creative and Interpretative Process milieu for Live-Computer music with the Sentograph</span>. In R.&nbsp;Kopiez and W.&nbsp;Auhagen, editors, <em>Controlling Creative Processes in Music</em>, volume&nbsp;12 of Schriften Musikpsychologie und Musikästhetik, pages 173&ndash;227. Peter Lang Verlag, 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Ungvary1998Creative.bib)
+
 S.&nbsp;Usa and Y.&nbsp;Mochida. <span class="bibtex-protected">A Multi-Modal Conducting Simulator</span>. In <em>Proceedings of the 1998 International Computer Music Conference</em>, 25&ndash;32. San Francisco, 1998. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Usa1998Multi.bib)
 
 R.&nbsp;Ulyate. <span class="bibtex-protected">Interactive Dance Club</span>. In <em>SIGGRAPH98 Conference Abstracts and Applications</em>, 230&ndash;235. New York, 1998. ACM Press.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Ulyate1998Club.bib)
-
-T.&nbsp;Ungvary and M.&nbsp;Kieslinger. <span class="bibtex-protected">Creative and Interpretative Process milieu for Live-Computer music with the Sentograph</span>. In R.&nbsp;Kopiez and W.&nbsp;Auhagen, editors, <em>Controlling Creative Processes in Music</em>, volume&nbsp;12 of Schriften Musikpsychologie und Musikästhetik, pages 173&ndash;227. Peter Lang Verlag, 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Ungvary1998Creative.bib)
 
 T.&nbsp;Ungvary and R.&nbsp;Vertegaal. <span class="bibtex-protected">The SensOrg: A Musical Cyberinstrument with a Cognitive Ergonomical Touch</span>. In <em>Proceedings of the 1998 IEEE International Conference on Systems, Man and Cybernetics (SMC'98)</em>, 1066&ndash;1071. 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Ungvary1998SensOrg.bib)
@@ -1761,20 +1761,20 @@ Satoshi Usa and Yasunori Mochida. A multi-modal conducting simulator. In <em>Pro
 R.&nbsp;Wechsler and H.&nbsp;Zwiauer. <span class="bibtex-protected">Computers and Dance: Back to the Future?</span> <em>Dance Research Journal</em>, 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Wechsler1998Future.bib)
 
+R.&nbsp;Wechsler and H.&nbsp;Zwiauer. <span class="bibtex-protected">Computer und Tanz</span>. <em>Der Tanz der Dinge</em>, pages 41, 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Wechsler1998Dinge.bib)
+
+J.&nbsp;Wood, editor. <em><span class="bibtex-protected">The Virtual Embodied: Presence, Practice, Technology</span></em>. Routledge, London, 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Wood1998Embodied.bib)
+
+R.&nbsp;Wechsler. <span class="bibtex-protected">Symmetrie und Tanz</span>. <em>Tanz Aktuell</em>, 1998.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Wechsler1998Symmetrie.bib)
+
 T.&nbsp;Winkler. <em><span class="bibtex-protected">Composing Interactive Music. Techniques and Ideas Using MAX</span></em>. MIT Press, Cambridge, Mass, 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Winkler_1998_Composing.bib)
 
 M.&nbsp;Wanderley, N.&nbsp;Schnell, and J.&nbsp;B. Rovan. <span class="bibtex-protected">Escher- Modeling and Performing Composed Instruments in Real-Time</span>. In <em>Proceedings of the 1998 IEEE International Conference on Systems, Man and Cybernetics (SMC'98)</em>, 1080&ndash;1084. 1998.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Wanderley1998Modeling.bib)
-
-J.&nbsp;Wood, editor. <em><span class="bibtex-protected">The Virtual Embodied: Presence, Practice, Technology</span></em>. Routledge, London, 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Wood1998Embodied.bib)
-
-R.&nbsp;Wechsler and H.&nbsp;Zwiauer. <span class="bibtex-protected">Computer und Tanz</span>. <em>Der Tanz der Dinge</em>, pages 41, 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Wechsler1998Dinge.bib)
-
-R.&nbsp;Wechsler. <span class="bibtex-protected">Symmetrie und Tanz</span>. <em>Tanz Aktuell</em>, 1998.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1998/Wechsler1998Symmetrie.bib)
 
 Matthew Wright. Implementation and performance issues with opensound control. In <em>Proceedings of the International Computer Music Conference</em>, 224&ndash;227. University of Michigan, Ann Arbor, USA, 1998. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1998.281/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1998.281/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1998.281/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1998.bib)
@@ -1799,17 +1799,14 @@ T.&nbsp;Anderson. <span class="bibtex-protected">Using Music Performance Softwar
 J.&nbsp;Accot and S.&nbsp;Zhai. <span class="bibtex-protected">Performance Evaluation of Input Devices in Trajectory-based Tasks: An Application of The Steering Law</span>. In <em>Proceedings of the 1999 ACM Conference on Human Factors in Computing Systems</em>, 466&ndash;472. New York, NY, 1999. ACM Press.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Accot1999Performance.bib)
 
-R.&nbsp;Albertini. <em><span class="bibtex-protected">Technological Rituals. Stories from the Annenberg Dialogues</span></em>. Annenberg Center for Communications, Los Angeles, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Albertini1999Technological.bib)
-
 R.&nbsp;Ascott. <em><span class="bibtex-protected">Reframing Consciousness: Art, Mind and Technology</span></em>. Intellect Books, Portland, 1999.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Ascott1999Reframing.bib)
 
-M.&nbsp;Battier, editor. <em><span class="bibtex-protected">Aesthetics of Live Electronic Music</span></em>. Volume&nbsp;18. Contemporary Music Review, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Battier1999Aesthetics.bib)
+R.&nbsp;Albertini. <em><span class="bibtex-protected">Technological Rituals. Stories from the Annenberg Dialogues</span></em>. Annenberg Center for Communications, Los Angeles, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Albertini1999Technological.bib)
 
-C.&nbsp;Brickwood and others. <em><span class="bibtex-protected">New Media Culture in Europe</span></em>. DeBalle and the Virtual Platform, Amsterdam, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Brickwood1999Culture.bib)
+J.&nbsp;D. Bolter and R.&nbsp;Grusin. <em><span class="bibtex-protected">Remediation: Understanding New Media</span></em>. MIT Press, Cambridge, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Bolter1999Remediation.bib)
 
 B.&nbsp;Bongers. <span class="bibtex-protected">Exploring Novel Ways of Interaction in Musical Performance</span>. In <em>Proceedings of the Creativity &amp; Cognition Conference</em>, 76&ndash;81. 1999.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Bongers1999Exploring.bib)
@@ -1817,8 +1814,20 @@ B.&nbsp;Bongers. <span class="bibtex-protected">Exploring Novel Ways of Interact
 J.&nbsp;Birringer. <span class="bibtex-protected">Contemporary Performance/Technology</span>. <em>Theatre Journal</em>, 61(4):361&ndash;81, 1999.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Birringer1999contemporary.bib)
 
-J.&nbsp;D. Bolter and R.&nbsp;Grusin. <em><span class="bibtex-protected">Remediation: Understanding New Media</span></em>. MIT Press, Cambridge, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Bolter1999Remediation.bib)
+C.&nbsp;Brickwood and others. <em><span class="bibtex-protected">New Media Culture in Europe</span></em>. DeBalle and the Virtual Platform, Amsterdam, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Brickwood1999Culture.bib)
+
+M.&nbsp;Battier, editor. <em><span class="bibtex-protected">Aesthetics of Live Electronic Music</span></em>. Volume&nbsp;18. Contemporary Music Review, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Battier1999Aesthetics.bib)
+
+C.&nbsp;Chafe. <span class="bibtex-protected">Interplay(er) machines</span>. <em>Contemporary Music Review</em>, 18(3):89&ndash;97, 1999. with audio excerpts on the accompanying CD.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Chafe1999Interplayer.bib)
+
+I.&nbsp;Chusid. <span class="bibtex-protected">Beethoven-in-a-Box: Raymond Scott's Electronium</span>. <em>Contemporary Music Review</em>, 18(3):9&ndash;14, 1999. with audio excerpts on the accompanying CD.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Chusid1999Beethoven.bib)
+
+A.&nbsp;Camurri. <span class="bibtex-protected">Music content processing and multimedia: Case studies and emerging applications of intelligent interactive systems</span>. <em>Journal of New Music Research</em>, 28:351&ndash;363, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Camurri1999Music.bib)
 
 L.&nbsp;Chu. <span class="bibtex-protected">MusiCloth: A Design Methodology for the Development of a Performance Interface</span>. In <em>Proceedings of the 1999 International Computer Music Conference</em>, 449&ndash;452. San Francisco, 1999. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Chu1999MusiCloth.bib)
@@ -1826,17 +1835,8 @@ L.&nbsp;Chu. <span class="bibtex-protected">MusiCloth: A Design Methodology for 
 J.&nbsp;Chadabe. <span class="bibtex-protected">The performer is us</span>. <em>Contemporary Music Review</em>, 18(3):25&ndash;30, 1999.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Chadabe1999Performer.bib)
 
-A.&nbsp;Camurri. <span class="bibtex-protected">Music content processing and multimedia: Case studies and emerging applications of intelligent interactive systems</span>. <em>Journal of New Music Research</em>, 28:351&ndash;363, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Camurri1999Music.bib)
-
 A.&nbsp;Camurri, S.&nbsp;Hashimoto, K.&nbsp;Suzuki, and R.&nbsp;Trocca. <span class="bibtex-protected">KANSEI analysis of dance performance</span>. In <em>Proceedings of the 1999 IEEE Intl Conf on Systems Man and Cybernetics SMC'99</em>. Tokyo, 1999. IEEE Computer Society Press.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Camurri1999KANSEI.bib)
-
-C.&nbsp;Chafe. <span class="bibtex-protected">Interplay(er) machines</span>. <em>Contemporary Music Review</em>, 18(3):89&ndash;97, 1999. with audio excerpts on the accompanying CD.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Chafe1999Interplayer.bib)
-
-I.&nbsp;Chusid. <span class="bibtex-protected">Beethoven-in-a-Box: Raymond Scott's Electronium</span>. <em>Contemporary Music Review</em>, 18(3):9&ndash;14, 1999. with audio excerpts on the accompanying CD.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Chusid1999Beethoven.bib)
 
 Lonny Chu. Musicloth: a design methodology for the development of a performance initiative. In <em>Proceedings of the International Computer Music Conference</em>, 449&ndash;452. nan, Beijing, China, 1999. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1999.442/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1999.442/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1999.442/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1999.bib)
@@ -1850,11 +1850,8 @@ Anthony&nbsp;De Ritis. Cathedral: an interactive work for the web. In <em>Procee
 J.&nbsp;Eaton. <span class="bibtex-protected">This is an instrument!</span> <em>Contemporary Music Review</em>, 18(3):21&ndash;24, 1999. with audio excerpts on the accompanying CD.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Eaton1999Instrument.bib)
 
-Oliver Grau. <span class="bibtex-protected">The History of Telepresence: Automata, Illusion, and the Rejection of the Body</span>. In Ken Goldberg, editor, <em>The Robot in the Garden: Telerobotics and Telepistemology in the Age of the Internet</em>, pages 94&ndash;99. MIT Press, Cambridge, MA, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Grau1999History.bib)
-
-C.&nbsp;Guedes. <em><span class="bibtex-protected">Mapping Dance to Musical Rhythm: The Creation of a Computational Algorithm for Musical Gesture</span></em>. PhD Proposal, School of Education, New York University, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Guedes1999Computational.bib)
+G.&nbsp;Garnett, F.&nbsp;Malvar-Ruiz, and F.&nbsp;Stoltzfus. <span class="bibtex-protected">Virtual Conducting Practice Environment</span>. In <em>Proceedings of the 1999 International Computer Music Conference</em>, 371&ndash;374. San Francisco, 1999. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Garnett1999Virtual.bib)
 
 H.&nbsp;Genevois and R.&nbsp;de&nbsp;Vivo. <em><span class="bibtex-protected">Les nouveaux gestes de la musique</span></em>. Editions Parenthèses, Marseille, 1999.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Genevois1999Nouveaux.bib)
@@ -1868,8 +1865,11 @@ Y.&nbsp;Guiard, M.&nbsp;Beaudouin-Lafon, and D.&nbsp;Mottet. <span class="bibtex
 H.&nbsp;Genevois. <span class="bibtex-protected">Geste et pensée musicale: de l'outil à l'instrument.</span> In H.&nbsp;Genevois and R.&nbsp;de&nbsp;Vivo, editors, <em>Les nouveaux gestes de la musique</em>, pages 35&ndash;45. Editions Parenthèses, 1999.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Genevois1999Geste.bib)
 
-G.&nbsp;Garnett, F.&nbsp;Malvar-Ruiz, and F.&nbsp;Stoltzfus. <span class="bibtex-protected">Virtual Conducting Practice Environment</span>. In <em>Proceedings of the 1999 International Computer Music Conference</em>, 371&ndash;374. San Francisco, 1999. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Garnett1999Virtual.bib)
+Oliver Grau. <span class="bibtex-protected">The History of Telepresence: Automata, Illusion, and the Rejection of the Body</span>. In Ken Goldberg, editor, <em>The Robot in the Garden: Telerobotics and Telepistemology in the Age of the Internet</em>, pages 94&ndash;99. MIT Press, Cambridge, MA, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Grau1999History.bib)
+
+C.&nbsp;Guedes. <em><span class="bibtex-protected">Mapping Dance to Musical Rhythm: The Creation of a Computational Algorithm for Musical Gesture</span></em>. PhD Proposal, School of Education, New York University, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Guedes1999Computational.bib)
 
 Guy Garnett and Camille Goudeseume. Performance factors in control of high-dimensional space. In <em>Proceedings of the International Computer Music Conference</em>, 268&ndash;271. nan, Beijing, China, 1999. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1999.393/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1999.393/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1999.393/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1999.bib)
@@ -1877,23 +1877,23 @@ Guy Garnett and Camille Goudeseume. Performance factors in control of high-dimen
 Guy Garnett, Fernando Malvar-Ruiz, and Fred Stoltzfus. Virtual conducting practice environment. In <em>Proceedings of the International Computer Music Conference</em>, 371&ndash;374. nan, Beijing, China, 1999. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1999.422/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1999.422/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1999.422/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1999.bib)
 
-A.&nbsp;Hunt. <em><span class="bibtex-protected">Radical User Interfaces for Real-time Musical Control</span></em>. PhD thesis, University of York UK, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Hunt1999phd.bib)
-
 A.&nbsp;Hunt and R.&nbsp;Kirk. <span class="bibtex-protected">Radical User Interfaces for Real-time Control</span>. In <em>Proceedings of the Euromicro Conference</em>. Milan, 1999.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Hunt1999Radical.bib)
-
-A.&nbsp;Hunt. <em><span class="bibtex-protected">Radical User Interfaces for Real-time Musical Control</span></em>. DPhil thesis, University of York UK, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Hunt1999Interfaces.bib)
 
 K.Y. Hsiao and J.&nbsp;Paradiso. <span class="bibtex-protected">A New Multimodal Musical Controller Using Wireless Magnetic Tags</span>. In <em>Proceedings of the 1999 International Computer Music Conference</em>, 24&ndash;27. San Francisco, 1999. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Hsiao1999Controller.bib)
 
+D.&nbsp;Herbison-Evans. <span class="bibtex-protected">Publications</span>. 1999. Several articles relating to computers and dance/ dance notation and computer animation.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Herbison-Evans1999Publications.bib)
+
+A.&nbsp;Hunt. <em><span class="bibtex-protected">Radical User Interfaces for Real-time Musical Control</span></em>. DPhil thesis, University of York UK, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Hunt1999Interfaces.bib)
+
 J.&nbsp;Harvey. <span class="bibtex-protected">The metaphysics of live electronics</span>. <em>Contemporary Music Review</em>, 18(3):79&ndash;82, 1999. with audio excerpts on the accompanying CD.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Harvey1999metaphysics.bib)
 
-D.&nbsp;Herbison-Evans. <span class="bibtex-protected">Publications</span>. 1999. Several articles relating to computers and dance/ dance notation and computer animation.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Herbison-Evans1999Publications.bib)
+A.&nbsp;Hunt. <em><span class="bibtex-protected">Radical User Interfaces for Real-time Musical Control</span></em>. PhD thesis, University of York UK, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Hunt1999phd.bib)
 
 Kai-yuh Hsiao and Joseph Paradiso. A new continuous multimodal musical controller using wireless magnetic tags. In <em>Proceedings of the International Computer Music Conference</em>, 24&ndash;27. nan, Beijing, China, 1999. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1999.329/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1999.329/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1999.329/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1999.bib)
@@ -1904,6 +1904,9 @@ T.&nbsp;Ilmonene and T.&nbsp;Takala. <span class="bibtex-protected">Conductor Fo
 Tommi Ilmonen and Tapio Takala. Conductor following with artificial neural networks. In <em>Proceedings of the International Computer Music Conference</em>, 367&ndash;370. nan, Beijing, China, 1999. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1999.421/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1999.421/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1999.421/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1999.bib)
 
+S.&nbsp;de. Laubier. <span class="bibtex-protected">Le Méta-Instrument a-t-il un son? Emergence de lois ou de constantes dans le développement d'instruments virtuels</span>. In H.&nbsp;Genevois and R.&nbsp;de&nbsp;Vivo, editors, <em>Les nouveaux gestes de la musique</em>, pages 151&ndash;156. Editions Parenthèses, Marseille, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Laubier1999Son.bib)
+
 Richard Loveless and Lizbeth Goodman. <span class="bibtex-protected">Live and Media Performance: The Next Frontier</span>. <em>Performance Research</em>, 4(2):74&ndash;79, 1999.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/LovelessLive.bib)
 
@@ -1912,9 +1915,6 @@ G.&nbsp;Lewis. <span class="bibtex-protected">Interacting with latter-day musica
 
 P.&nbsp;(ed) Lunenfeld. <em><span class="bibtex-protected">The Digital Dialectic: New Essays on New Media</span></em>. MIT Press, Cambridge, Mass, 1999.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Lunenfeld1999Essays.bib)
-
-S.&nbsp;de. Laubier. <span class="bibtex-protected">Le Méta-Instrument a-t-il un son? Emergence de lois ou de constantes dans le développement d'instruments virtuels</span>. In H.&nbsp;Genevois and R.&nbsp;de&nbsp;Vivo, editors, <em>Les nouveaux gestes de la musique</em>, pages 151&ndash;156. Editions Parenthèses, Marseille, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Laubier1999Son.bib)
 
 P.&nbsp;D. Manning. <span class="bibtex-protected">The evolution of interactive graphical control interfaces for music applications</span>. <em>Organised Sound</em>, 4(1):45–59, 1999.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Manning1999Interactive.bib)
@@ -1925,11 +1925,11 @@ D.&nbsp;Menzies. <em><span class="bibtex-protected">New Performance Instruments 
 Paul Modler and Ross Kirk. Evaluation of architectures for sound generation systems with respect to interactive gestural control and realtime performance. In <em>Proceedings of the International Computer Music Conference</em>, 28&ndash;31. nan, Beijing, China, 1999. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1999.330/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1999.330/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1999.330/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1999.bib)
 
-L.&nbsp;Naugle and G.&nbsp;Claudia. <span class="bibtex-protected">Reconstructing a Late Work of Hanya Holm: Stage Success and Electronic Heartache</span>. In <em>Proceedings of the Society of Dance History Scholars</em>, 63&ndash;67. 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Naugle1999Reconstructing.bib)
-
 Y.&nbsp;Nagashima and T.-I. Tanami. <span class="bibtex-protected">It’s SHO time - An Interactive Environment for SHO (Sheng) Performance</span>. In <em>Proceedings of the 1999 International Computer Music Conference</em>, 32&ndash;35. San Francisco, 1999. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Nagashima1999time.bib)
+
+L.&nbsp;Naugle and G.&nbsp;Claudia. <span class="bibtex-protected">Reconstructing a Late Work of Hanya Holm: Stage Success and Electronic Heartache</span>. In <em>Proceedings of the Society of Dance History Scholars</em>, 63&ndash;67. 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Naugle1999Reconstructing.bib)
 
 Nagashima Yoichi and Tono-Ito Tamami. "it's sho time" - an interactive environment for sho(sheng) performance. In <em>Proceedings of the International Computer Music Conference</em>, 32&ndash;35. nan, Beijing, China, 1999. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1999.331/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1999.331/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1999.331/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1999.bib)
@@ -1949,11 +1949,11 @@ J.&nbsp;A. Paradiso, E.&nbsp;Chu, and K.-Y. Hsiao. <span class="bibtex-protected
 J.&nbsp;Paradiso, K.&nbsp;Hu, and K.&nbsp;Hsiao. <span class="bibtex-protected">The CyberShoe: A Wireless Multisensor Interface for a Dancer’s Feet</span>. In <em>Proc. Intl. Dance and Technology 99</em>. 1999.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Paradiso1999CyberShoe.bib)
 
-J.&nbsp;Paradiso and K.&nbsp;Hsiao. <span class="bibtex-protected">Interactive Music for Instrumented Dancing Shoes</span>. In <em>Proc. Of 1999 International Computer Music Conference</em>, 453&ndash;456. 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Paradiso1999Interactive.bib)
-
 J.&nbsp;Paradiso. <span class="bibtex-protected">The Brain Opera Technology: New Instruments and Gestural Sensors for Musical Interaction and Performance</span>. <em>Journal of New Music Research</em>, 28(2):130, 1999.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Paradiso1999Brain.bib)
+
+J.&nbsp;Paradiso and K.&nbsp;Hsiao. <span class="bibtex-protected">Interactive Music for Instrumented Dancing Shoes</span>. In <em>Proc. Of 1999 International Computer Music Conference</em>, 453&ndash;456. 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Paradiso1999Interactive.bib)
 
 Joseph Paradiso, Eric Hu, and Kai-Yuh Hsiao. Interactive music for instrumented dancing shoes. In <em>Proceedings of the International Computer Music Conference</em>, 453&ndash;456. nan, Beijing, China, 1999. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1999.443/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1999.443/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1999.443/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1999.bib)
@@ -1961,32 +1961,32 @@ Joseph Paradiso, Eric Hu, and Kai-Yuh Hsiao. Interactive music for instrumented 
 J.-C. Risset. <span class="bibtex-protected">Nouveaux gestes musicaux: quelques points de repére historiques</span>. In Hugues Genevoix and Rapha‘l de&nbsp;Vivo, editors, <em>Les nouveaux gestes de la musique</em>, pages 19&ndash;33. Editions Parenthéses and GMEM, Marseille, 1999.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Risset_1999_nouveaux.bib)
 
-R.&nbsp;Rowe. <span class="bibtex-protected">The aesthetics of interactive music systems</span>. <em>Contemporary Music Review</em>, 18(3):83&ndash;87, 1999. with audio excerpts on the accompanying CD.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Rowe_1999_interactive.bib)
-
 J.&nbsp;C. Risset. <span class="bibtex-protected">Composing in real-time?</span> <em>Contemporary Music Review</em>, 18(3):31&ndash;39, 1999. with audio excerpts on the accompanying CD.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Risset_1999_composing.bib)
 
-S.&nbsp;Serafin, R.&nbsp;Dudas, M.&nbsp;Wanderley, and X.&nbsp;Rodet. <span class="bibtex-protected">Gestural Control of a Real-Time Physical Model of a Bowed String Instrument</span>. In <em>Proceedings of the 1999 International Computer Music Conference</em>, 375&ndash;378. San Francisco, CA, 1999. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Serafin1999BowedString.bib)
-
-W.&nbsp;Siegel. <span class="bibtex-protected">The Digital Dance Interface</span>. In <em>Proceedings of the International Music Conference</em>. Beijing, China, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Siegel1999Digital.bib)
+R.&nbsp;Rowe. <span class="bibtex-protected">The aesthetics of interactive music systems</span>. <em>Contemporary Music Review</em>, 18(3):83&ndash;87, 1999. with audio excerpts on the accompanying CD.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Rowe_1999_interactive.bib)
 
 M.&nbsp;Stroppa. <span class="bibtex-protected">Live electronics or… live music? Towards a critique of interaction</span>. <em>Contemporary Music Review</em>, 18(3):41&ndash;77, 1999. with audio excerpts on the accompanying CD.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Stroppa_1999_live.bib)
 
+A.&nbsp;Smith, editor. <em><span class="bibtex-protected">Dance and Technology IV: Proceedings of the Fourth Annual Conference</span></em>, Arizona State University, Tempe, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Smith1999Dance.bib)
+
+S.&nbsp;Serafin, R.&nbsp;Dudas, M.&nbsp;Wanderley, and X.&nbsp;Rodet. <span class="bibtex-protected">Gestural Control of a Real-Time Physical Model of a Bowed String Instrument</span>. In <em>Proceedings of the 1999 International Computer Music Conference</em>, 375&ndash;378. San Francisco, CA, 1999. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Serafin1999BowedString.bib)
+
 M.&nbsp;Subotnick. <span class="bibtex-protected">The use of computer technology in an interactive or 'real-time' performance environment</span>. <em>Contemporary Music Review</em>, 18(3):113&ndash;117, 1999. with audio excerpts on the accompanying CD.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Subotnick_1999_use.bib)
 
-A.&nbsp;Smith, editor. <em><span class="bibtex-protected">Dance and Technology IV: Proceedings of the Fourth Annual Conference</span></em>, Arizona State University, Tempe, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Smith1999Dance.bib)
+W.&nbsp;Siegel. <span class="bibtex-protected">Two Compositions for Interactive Dance</span>. The Danish Institute of Electroacoustic Music DIEM, Musikhuset, Aarhus, Denmark, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Siegel1999Compositions.bib)
 
 W.&nbsp;Siegel and J.&nbsp;Jacobsen. <span class="bibtex-protected">Composing for the Digital Dance Interface</span>. In <em>Proceedings of the 1999 International Computer Music Conference</em>, 276&ndash;277. San Francisco, 1999. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Siegel1999Composing.bib)
 
-W.&nbsp;Siegel. <span class="bibtex-protected">Two Compositions for Interactive Dance</span>. The Danish Institute of Electroacoustic Music DIEM, Musikhuset, Aarhus, Denmark, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Siegel1999Compositions.bib)
+W.&nbsp;Siegel. <span class="bibtex-protected">The Digital Dance Interface</span>. In <em>Proceedings of the International Music Conference</em>. Beijing, China, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Siegel1999Digital.bib)
 
 Wayne Siegel and Jens Jacobsen. Composing for the digital dance interface. In <em>Proceedings of the International Computer Music Conference</em>, 276&ndash;277. nan, Beijing, China, 1999. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1999.395/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1999.395/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1999.395/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1999.bib)
@@ -2000,11 +2000,11 @@ Kenji Suzuki, Takeshi Ohashi, and Shuji Hashimoto. Interactive multimodal mobile
 D.&nbsp;Trueman and P.&nbsp;Cook. <span class="bibtex-protected">BoSSA: The Deconstructed Violin Reconstructed</span>. In <em>Proceedings of the 1999 International Computer Music Conference</em>, 232&ndash;239. San Francisco, 1999. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Trueman1999BoSSA.bib)
 
-L.&nbsp;Theremin. <span class="bibtex-protected">Recollections</span>. <em>Contemporary Music Review</em>, 18(3):15&ndash;19, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Theremin_1999_recollections.bib)
-
 O.&nbsp;Toulemonde, P.&nbsp;Möenne-Loccoz, and B.&nbsp;Donzel-Gargand. <span class="bibtex-protected">Des nouvelles lutheries informatiques</span>. In H.&nbsp;Genevois and R.&nbsp;de&nbsp;Vivo, editors, <em>Les nouveaux gestes de la musique</em>, pages 169&ndash;174. Editions Parenthèses, Marseille, 1999.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Toulemonde1999Nouvelles.bib)
+
+L.&nbsp;Theremin. <span class="bibtex-protected">Recollections</span>. <em>Contemporary Music Review</em>, 18(3):15&ndash;19, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Theremin_1999_recollections.bib)
 
 Den Trueman and Perry Cook. Bossa: the deconstructed violin reconstructed. In <em>Proceedings of the International Computer Music Conference</em>, 232&ndash;239. nan, Beijing, China, 1999. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1999.384/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1999.384/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1999.384/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1999.bib)
@@ -2015,26 +2015,26 @@ Atau Tanaka. Network audio performance and installation. In <em>Proceedings of t
 T.&nbsp;Ungvary and R.&nbsp;Vertegaal. <span class="bibtex-protected">The SensOrg: Time-complexity and the Design of a Musical Cyberinstrument</span>. In <em>Proceedings of the 1999 International Computer Music Conference</em>, 363&ndash;366. San Francisco, 1999. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Ungvary1999Time.bib)
 
-H.&nbsp;Vinet and F.&nbsp;Delalande. <em><span class="bibtex-protected">Interfaces homme-machine et création musicale</span></em>. Hermes Science Publications, Paris, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Vinet_1999_interfaces.bib)
+F.&nbsp;Vigier. <span class="bibtex-protected">Etude et réalisation de dispositifs de captation du jeu instrumental</span>. 1999. Rapport de Stage. Ircam - Centre Pompidou/ENSEA.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Vigier1999Dispositifs.bib)
 
 H.&nbsp;Vinet and F.&nbsp;Delalande. <em><span class="bibtex-protected">Interfaces homme-machine et création musicale</span></em>. Hermès Science Publications, Paris, 1999.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Vinet1999Interfaces.bib)
 
-F.&nbsp;Vigier. <span class="bibtex-protected">Etude et réalisation de dispositifs de captation du jeu instrumental</span>. 1999. Rapport de Stage. Ircam - Centre Pompidou/ENSEA.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Vigier1999Dispositifs.bib)
+H.&nbsp;Vinet and F.&nbsp;Delalande. <em><span class="bibtex-protected">Interfaces homme-machine et création musicale</span></em>. Hermes Science Publications, Paris, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Vinet_1999_interfaces.bib)
 
 J.P. Viollet. <span class="bibtex-protected">Etude de Dispositifs de Contrôle Gestuel de la Synthèse Sonore</span>. 1999. Rapport de Stage-Ingénieur. Ecole Nationale Supérieure des Télécommunications de Paris.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Viollet1999Controle.bib)
 
-R.&nbsp;Wechsler and H.&nbsp;Zwiauer. <span class="bibtex-protected">Les ordinateurs et la danse: retour vers l'avenier?</span> <em>Nouvelles de Danse</em>, pages 40&ndash;41, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Wechsler1999Ordinateurs.bib)
+M.&nbsp;M. Wanderley and P.&nbsp;Depalle. <span class="bibtex-protected">Contrôle Gestuel de la Synthèse Sonore</span>. In H.&nbsp;Vinet and F.&nbsp;Delalande, editors, <em>Interfaces Homme-Machine et Création Musicale</em>, pages 145&ndash;163. Hermès Science Publishing, Paris, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Wanderley1999Contrôle.bib)
 
 M.&nbsp;Waisvisz. <span class="bibtex-protected">Riding the Sphinx - lines about 'live'</span>. <em>Contemporary Music Review</em>, 18(3):119&ndash;126, 1999. with audio excerpts on the accompanying CD.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Waisvisz_1999_riding.bib)
 
-M.&nbsp;M. Wanderley and P.&nbsp;Depalle. <span class="bibtex-protected">Contrôle Gestuel de la Synthèse Sonore</span>. In H.&nbsp;Vinet and F.&nbsp;Delalande, editors, <em>Interfaces Homme-Machine et Création Musicale</em>, pages 145&ndash;163. Hermès Science Publishing, Paris, 1999.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Wanderley1999Contrôle.bib)
+R.&nbsp;Wechsler and H.&nbsp;Zwiauer. <span class="bibtex-protected">Les ordinateurs et la danse: retour vers l'avenier?</span> <em>Nouvelles de Danse</em>, pages 40&ndash;41, 1999.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/1999/Wechsler1999Ordinateurs.bib)
 
 Marcelo Wanderley, Philippe Depalle, and Olivier Warufel. Improving instrumental sound synthesis by modeling the effects of performer gesture. In <em>Proceedings of the International Computer Music Conference</em>, 418&ndash;421. nan, Beijing, China, 1999. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.1999.434/1">https://quod.lib.umich.edu/i/icmc/bbp2372.1999.434/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.1999.434/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/1999.bib)
@@ -2050,17 +2050,11 @@ Solvi Ystad and Thierry Voinier. Design of a flute interface to control synthesi
 D.&nbsp;Arfib and L.&nbsp;Kessous. <span class="bibtex-protected">From 'Music V' to 'creative gestures in computer music'</span>. \url <span class="bibtex-protected">http://gsd.ime.usp.br/sbcm/2000/papers/arfib.pdf</span>, 2000.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Arfib_2000_MusicV.bib)
 
-J.&nbsp;Bouwer, editor. <em><span class="bibtex-protected">Machine Times</span></em>. V2_ and NAI Publishers, Rotterdam, 2000. V2 Organisation (ed.).
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Bouwer2000Machine.bib)
+T.&nbsp;Blaine and T.&nbsp;Perkis. <span class="bibtex-protected">The Jam-O-Drum interactive music system: a study in interaction design</span>. In <em>Proceedings</em>, 165&ndash;173. 2000.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Blaine2000Jam.bib)
 
 G.&nbsp;Brandstetter and H.&nbsp;Voelkers. <em><span class="bibtex-protected">ReMembering the Body</span></em>. Cantz (USA: D.A.P. New York), Ostfildern, 2000.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Brandstetter2000Remembering.bib)
-
-R.&nbsp;Boulanger, Y.&nbsp;J. Choi, and L.&nbsp;Castelli. <span class="bibtex-protected">Developing a Windows and Macintosh Graphical User Interface for the Mathews Radio-Baton System</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 547&ndash;550. International Computer Music Association, 2000.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Boulanger2000Developing.bib)
-
-T.&nbsp;Blaine and T.&nbsp;Perkis. <span class="bibtex-protected">The Jam-O-Drum Interactive Music System: A Study in Interaction Design</span>. In <em>Proceedings of the ACM Symposium on Designing Interactive Systems</em>, 165&ndash;173. New York, NY, 2000. ACM Press.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Blaine2000Jam-O-Drum.bib)
 
 B.&nbsp;Bongers. <span class="bibtex-protected">Physical Interfaces in the Electronic Arts. Interaction Theory and Interfacing Techniques for Real-time Performance</span>. In M.&nbsp;Wanderley and M.&nbsp;Battier, editors, <em>Trends in Gestural Control of Music</em>. Ircam - Centre Pompidou, 2000.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Bongers2000Physical.bib)
@@ -2068,32 +2062,38 @@ B.&nbsp;Bongers. <span class="bibtex-protected">Physical Interfaces in the Elect
 D.&nbsp;Buchla, W.&nbsp;Buxton, C.&nbsp;Chafe, T.&nbsp;Machover, M.&nbsp;V. Matthews, R.&nbsp;Moog, J.-C. Risset, L.&nbsp;Sonami, and M.&nbsp;Waisvisz. <span class="bibtex-protected">Round Table</span>. In M.&nbsp;M. Wanderley and M.&nbsp;Battier, editors, <em>Trends in Gestural Control of Music</em>. Ircam - Centre Pompidou, 2000.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Buchla2000Round.bib)
 
-T.&nbsp;Blaine and T.&nbsp;Perkis. <span class="bibtex-protected">The Jam-O-Drum interactive music system: a study in interaction design</span>. In <em>Proceedings</em>, 165&ndash;173. 2000.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Blaine2000Jam.bib)
+R.&nbsp;Boulanger, Y.&nbsp;J. Choi, and L.&nbsp;Castelli. <span class="bibtex-protected">Developing a Windows and Macintosh Graphical User Interface for the Mathews Radio-Baton System</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 547&ndash;550. International Computer Music Association, 2000.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Boulanger2000Developing.bib)
 
-I.&nbsp;Choi. <span class="bibtex-protected">A Manifold Interface for Kinesthetic Notation for High-Dimensional Systems</span>. In M.&nbsp;Wanderley and M.&nbsp;Battier, editors, <em>Trends in Gestural Control of Music</em>. Ircam - Centre Pompidou, 2000.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Choi2000Manifold.bib)
+T.&nbsp;Blaine and T.&nbsp;Perkis. <span class="bibtex-protected">The Jam-O-Drum Interactive Music System: A Study in Interaction Design</span>. In <em>Proceedings of the ACM Symposium on Designing Interactive Systems</em>, 165&ndash;173. New York, NY, 2000. ACM Press.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Blaine2000Jam-O-Drum.bib)
 
-I.&nbsp;Choi, G.&nbsp;Zheng, and K.&nbsp;Chen. <span class="bibtex-protected">Embedding a Sensory Data Retrieval System in a Movement-Sensitive Space and a Surround Sound System</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 141&ndash;144. International Computer Music Association, 2000.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Choi2000Embedding.bib)
-
-A.&nbsp;Camurri, P.&nbsp;Coletta, M.&nbsp;Peri, M.&nbsp;Ricchetti, A.&nbsp;Ricci, R.&nbsp;Trocca, and G.&nbsp;Volpe. <span class="bibtex-protected">A Real-time Platform for Interactive Dance and Music Systems</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 262&ndash;265. San Francisco, 2000. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Camurri2000Real.bib)
-
-P.&nbsp;Cook and C.&nbsp;N. Leider. <span class="bibtex-protected">SqueezeVox: A New Controller for Vocal Synthesis Models</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 519&ndash;522. San Francisco, 2000. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Cook2000SqueezeVox.bib)
+J.&nbsp;Bouwer, editor. <em><span class="bibtex-protected">Machine Times</span></em>. V2_ and NAI Publishers, Rotterdam, 2000. V2 Organisation (ed.).
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Bouwer2000Machine.bib)
 
 D.&nbsp;Cronkite. <span class="bibtex-protected">Mediating Gesture: An Interactive Approach to Computer-Assisted Music</span>. <em>Musicworks: Explorations in Sound</em>, 78:20, 2000.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Cronkite2000Mediating.bib)
 
+I.&nbsp;Choi, G.&nbsp;Zheng, and K.&nbsp;Chen. <span class="bibtex-protected">Embedding a Sensory Data Retrieval System in a Movement-Sensitive Space and a Surround Sound System</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 141&ndash;144. International Computer Music Association, 2000.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Choi2000Embedding.bib)
+
 A.&nbsp;Camurri, P.&nbsp;Coletta, M.&nbsp;Peri, M.&nbsp;Ricchetti, A.&nbsp;Ricci, R.&nbsp;Trocca, and G.&nbsp;Volpe. <span class="bibtex-protected">A real-time platform for interactive dance and music systems</span>. In <em>Proc. Intl. Conf. ICMC2000</em>. Berlin, 2000.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Camurri2000Realtime.bib)
+
+I.&nbsp;Choi. <span class="bibtex-protected">A Manifold Interface for Kinesthetic Notation for High-Dimensional Systems</span>. In M.&nbsp;Wanderley and M.&nbsp;Battier, editors, <em>Trends in Gestural Control of Music</em>. Ircam - Centre Pompidou, 2000.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Choi2000Manifold.bib)
 
 A.&nbsp;Camurri, S.&nbsp;Hashimoto, M.&nbsp;Ricchetti, A.&nbsp;Ricci, K.&nbsp;Suzuki, R.&nbsp;Trocca, and G.&nbsp;Volpe. <span class="bibtex-protected">EyesWeb: Toward Gesture and Affect Recognition in Interactive Dance and Music Systems</span>. <em>Computer Music Journal</em>, 24(1):57, 2000.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Camurri2000EyesWeb.bib)
 
+A.&nbsp;Camurri, P.&nbsp;Coletta, M.&nbsp;Peri, M.&nbsp;Ricchetti, A.&nbsp;Ricci, R.&nbsp;Trocca, and G.&nbsp;Volpe. <span class="bibtex-protected">A Real-time Platform for Interactive Dance and Music Systems</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 262&ndash;265. San Francisco, 2000. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Camurri2000Real.bib)
+
 C.&nbsp;Cerana. <span class="bibtex-protected">Gesture Control of Musical processes: A MAX Environment for Buchla's Lightning</span>. <em>Organised Sound</em>, 5:3&ndash;7, 2000.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Cerana2000Gesture.bib)
+
+P.&nbsp;Cook and C.&nbsp;N. Leider. <span class="bibtex-protected">SqueezeVox: A New Controller for Vocal Synthesis Models</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 519&ndash;522. San Francisco, 2000. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Cook2000SqueezeVox.bib)
 
 Antonio Camurri, Shuji Hashimoto, Matteo Ricchetti, Andrea Ricci, Kenji Suzuki, Riccardo Trocca, and Gualtiero Volpe. Eyesweb: toward gesture and affect recognition in interactive dance and music systems. <em>Computer Music Journal</em>, 24(1):57–69, 2000. URL: <a href="https://www.jstor.org/stable/3681851">https://www.jstor.org/stable/3681851</a>.
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3681851) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/2000.bib)
@@ -2107,11 +2107,11 @@ Antonio Camurri, Paolo Coletta, Massimiliano Peri, Matteo Ricchetti, Andrea Ricc
 Perry&nbsp;R. Cook and Colby&nbsp;N. Leider. Squeezevox: a new controller for vocal synthesis models. In <em>Proceedings of the International Computer Music Conference</em>, 519&ndash;522. nan, Berlin, Germany, 2000. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.2000.148/1">https://quod.lib.umich.edu/i/icmc/bbp2372.2000.148/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.2000.148/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/2000.bib)
 
-A.&nbsp;Freed and O.&nbsp;Isvan. <span class="bibtex-protected">Musical Applications of New, Multi-axis Guitar String Sensors</span>. In <em>Proceedings of the 2000 International Computer Music Conference (ICMC-2000)</em>. 2000.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Freed2000Guitar.bib)
-
 A.&nbsp;Freed and O.&nbsp;Isvan. <span class="bibtex-protected">Musical Applications of New, Multi-Axis Guitar String Sensors</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 543&ndash;546. San Francisco, 2000. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Freed2000Musical.bib)
+
+A.&nbsp;Freed and O.&nbsp;Isvan. <span class="bibtex-protected">Musical Applications of New, Multi-axis Guitar String Sensors</span>. In <em>Proceedings of the 2000 International Computer Music Conference (ICMC-2000)</em>. 2000.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Freed2000Guitar.bib)
 
 A.&nbsp;Freed and R.&nbsp;Avizienis. <span class="bibtex-protected">A New Music Keyboard with Continuous Key-Position Sensing and High-Speed Communication</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 515&ndash;518. San Francisco, 2000. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Freed2000New.bib)
@@ -2128,20 +2128,17 @@ Adrian Freed and Osman Isvan. Musical applications of new, multi-axis guitar str
 Ken Goldberg, editor. <em><span class="bibtex-protected">The Robot in the Garden: Telerobotics and Telepistemology in the Age of the Internet</span></em>. MIT Press, Cambridge, MA, 2000.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Goldberg2000Robot.bib)
 
-A.&nbsp;Hunt and R.&nbsp;Kirk. <span class="bibtex-protected">Mapping Strategies for Musical Performance</span>. In M.&nbsp;Wanderley and M.&nbsp;Battier, editors, <em>Trends in Gestural Control of Music</em>. IRCAM - Centre Pompidou, Paris, France, 2000.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Hunt2000Mapping.bib)
-
 A.&nbsp;Hunt, M.&nbsp;M. Wanderley, and R.&nbsp;Kirk. <span class="bibtex-protected">Towards a Model for Instrumental Mapping for Expert Musical Performance</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 209&ndash;212. San Francisco, CA, 2000. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Hunt2000Towards.bib)
+
+A.&nbsp;Hunt and R.&nbsp;Kirk. <span class="bibtex-protected">Mapping Strategies for Musical Performance</span>. In M.&nbsp;Wanderley and M.&nbsp;Battier, editors, <em>Trends in Gestural Control of Music</em>. IRCAM - Centre Pompidou, Paris, France, 2000.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Hunt2000Mapping.bib)
 
 R.&nbsp;Kuivila. <span class="bibtex-protected">Forests and Trees: Distinguishing Many from Few with a Video Camera</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 281&ndash;283. San Francisco, 2000. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Kuivila2000Forests.bib)
 
-A.&nbsp;Mulder. <span class="bibtex-protected">Toward a choice of gestural constraints for instrumental performers</span>. In <em>Trends in Gestural Control of Music</em>, pages 315&ndash;335. 2000.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Mulder2000Choice.bib)
-
-T.&nbsp;Marrin-Nakra. <em><span class="bibtex-protected">Inside the Conductor's Jacket: Analysis, Interpretation and Musical Synthesis of Expressive Gestures</span></em>. PhD Thesis, MIT Media Lab, 2000.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Marrin-Nakra2000Inside.bib)
+A.&nbsp;Menache. <em><span class="bibtex-protected">Understanding Motion Capture for Computer Animation and Video Games</span></em>. Academic Press, San Diego, 2000.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Menache2000Understanding.bib)
 
 P.&nbsp;Modler. <span class="bibtex-protected">Neural Networks for Mapping Gestures to Sound Synthesis</span>. In M.&nbsp;Wanderley and M.&nbsp;Battier, editors, <em>Trends in Gestural Control of Music</em>. Ircam - Centre Pompidou, 2000.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Modler2000Neural.bib)
@@ -2149,14 +2146,17 @@ P.&nbsp;Modler. <span class="bibtex-protected">Neural Networks for Mapping Gestu
 T.&nbsp;A.&nbsp;(Nakra) Marrin. <em><span class="bibtex-protected">Inside the Conductor's Jacket: Analysis, Interpretation and Musical Synthesis of Expressive Gesture</span></em>. PhD thesis, Massachusetts Institute of Technology, 2000.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Marrin2000Inside.bib)
 
-A.&nbsp;Menache. <em><span class="bibtex-protected">Understanding Motion Capture for Computer Animation and Video Games</span></em>. Academic Press, San Diego, 2000.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Menache2000Understanding.bib)
+T.&nbsp;Marrin-Nakra. <em><span class="bibtex-protected">Inside the Conductor's Jacket: Analysis, Interpretation and Musical Synthesis of Expressive Gestures</span></em>. PhD Thesis, MIT Media Lab, 2000.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Marrin-Nakra2000Inside.bib)
 
-C.&nbsp;Nichols. <span class="bibtex-protected">The vBow: A Haptic Musical Controller Human-Computer Interface</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 274&ndash;276. San Francisco, 2000. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Nichols2000Human.bib)
+A.&nbsp;Mulder. <span class="bibtex-protected">Toward a choice of gestural constraints for instrumental performers</span>. In <em>Trends in Gestural Control of Music</em>, pages 315&ndash;335. 2000.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Mulder2000Choice.bib)
 
 K.&nbsp;Ng, S.&nbsp;Popat, B.&nbsp;Ong, E.&nbsp;Stefani, K.&nbsp;Popat, and D.&nbsp;Cooper. <span class="bibtex-protected">Trans-Domain Mapping: A Real-Time Interactive System for Motion Acquisition and Musical Mapping</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 485&ndash;488. San Francisco, 2000. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Ng2000System.bib)
+
+C.&nbsp;Nichols. <span class="bibtex-protected">The vBow: A Haptic Musical Controller Human-Computer Interface</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 274&ndash;276. San Francisco, 2000. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Nichols2000Human.bib)
 
 Charles Nichols. The vbow: a haptic musical controller human-computer interface. In <em>Proceedings of the International Computer Music Conference</em>, 274&ndash;276. nan, Berlin, Germany, 2000. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.2000.198/1">https://quod.lib.umich.edu/i/icmc/bbp2372.2000.198/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.2000.198/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/2000.bib)
@@ -2164,11 +2164,11 @@ Charles Nichols. The vbow: a haptic musical controller human-computer interface.
 Kia Ng, Sita Popat, Bee Ong, Ewan Stefani, Kris Ppat, and David Cooper. Trans-domain mapping: a real-time interactive system for motion acquisition and musical mapping. In <em>Proceedings of the International Computer Music Conference</em>, 485&ndash;488. nan, Berlin, Germany, 2000. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.2000.197/1">https://quod.lib.umich.edu/i/icmc/bbp2372.2000.197/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.2000.197/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/2000.bib)
 
-M.-S. O'Modhrain and C.&nbsp;Chafe. <span class="bibtex-protected">The Performer-Instrument Interaction: A Sensory Motor Perspective</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 145&ndash;148. San Francisco, 2000. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/OModhrain2000Perspective.bib)
-
 M.-S. O'Modhrain, S.&nbsp;Serafin, C.&nbsp;Chafe, and J.&nbsp;O. Smith. <span class="bibtex-protected">Qualitative and Quantitative Assessment of a Virtual Bowed String Instrument</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 66&ndash;69. San Francisco, 2000. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/OModhrain2000Bowed.bib)
+
+M.-S. O'Modhrain and C.&nbsp;Chafe. <span class="bibtex-protected">The Performer-Instrument Interaction: A Sensory Motor Perspective</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 145&ndash;148. San Francisco, 2000. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/OModhrain2000Perspective.bib)
 
 M.&nbsp;Sile O'Modhrain, Stefania Srafin, Chris Chafe, and Julius&nbsp;O. Smith. Qualitative and quantitive assessment of a virtual bowed string instrument. In <em>Proceedings of the International Computer Music Conference</em>, 66&ndash;69. nan, Berlin, Germany, 2000. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.2000.199/1">https://quod.lib.umich.edu/i/icmc/bbp2372.2000.199/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.2000.199/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/2000.bib)
@@ -2176,11 +2176,11 @@ M.&nbsp;Sile O'Modhrain, Stefania Srafin, Chris Chafe, and Julius&nbsp;O. Smith.
 M.&nbsp;Sile O'Modhrain and Chris Chafe. The performer-instrument interaction: a sensory motor perspective. In <em>Proceedings of the International Computer Music Conference</em>, 145&ndash;148. nan, Berlin, Germany, 2000. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.2000.200/1">https://quod.lib.umich.edu/i/icmc/bbp2372.2000.200/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.2000.200/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/2000.bib)
 
-J.&nbsp;Paradiso and others. <span class="bibtex-protected">Design and Implementation of Expressive Footwear</span>. <em>IBM Systems Journal</em>, 39(3,4):511&ndash;529, 2000.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Paradiso2000Expressive.bib)
-
 J.&nbsp;Paradiso, K.-Y. Hsiao, J.&nbsp;Strickon, and P.&nbsp;Rice. <span class="bibtex-protected">New Sensor and Music Systems for Large Interactive Surfaces</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 277&ndash;280. San Francisco, 2000. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Paradiso2000Sensor.bib)
+
+J.&nbsp;Paradiso and others. <span class="bibtex-protected">Design and Implementation of Expressive Footwear</span>. <em>IBM Systems Journal</em>, 39(3,4):511&ndash;529, 2000.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Paradiso2000Expressive.bib)
 
 Joseph&nbsp;A. Paradiso, Kai-Yuh Hsio, Joshua Strickon, and Peter Rice. New sensor and music systems for large interactive surfaces. In <em>Proceedings of the International Computer Music Conference</em>, 277&ndash;280. nan, Berlin, Germany, 2000. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.2000.204/1">https://quod.lib.umich.edu/i/icmc/bbp2372.2000.204/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.2000.204/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/2000.bib)
@@ -2203,11 +2203,11 @@ Andrei Smirnov. Music and gesture: sensor technologies in interactive music and 
 Kenji Suzuki, Keishiro Tabe, and Shuji Hashimoto. A mobile robot platform for music and dance performance. In <em>Proceedings of the International Computer Music Conference</em>, 539&ndash;542. nan, Berlin, Germany, 2000. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.2000.223/1">https://quod.lib.umich.edu/i/icmc/bbp2372.2000.223/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.2000.223/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/2000.bib)
 
-D.&nbsp;Trueman, C.&nbsp;Bahn, and P.&nbsp;Cook. <span class="bibtex-protected">Alternative Voices for Electronic Sound: Spherical Speakers and Sensor-Speaker Arrays (SenSAs)</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 248&ndash;251. San Francisco, 2000. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Trueman2000Alternative.bib)
-
 A.&nbsp;Tanaka. <span class="bibtex-protected">Musical Performance Practice on Sensor-Based Instruments</span>. In <em>Trends in Gestural Control of Music</em>, pages 389&ndash;406. 2000.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Tanaka2000Musical.bib)
+
+D.&nbsp;Trueman, C.&nbsp;Bahn, and P.&nbsp;Cook. <span class="bibtex-protected">Alternative Voices for Electronic Sound: Spherical Speakers and Sensor-Speaker Arrays (SenSAs)</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 248&ndash;251. San Francisco, 2000. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Trueman2000Alternative.bib)
 
 Dan Trueman, Curtis Bahn, and Perry&nbsp;R. Cook. Alternative voices for electronic sound: spherical speakers and sensor-speaker arrays (sensas). In <em>Proceedings of the International Computer Music Conference</em>, 248&ndash;251. nan, Berlin, Germany, 2000. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.2000.229/1">https://quod.lib.umich.edu/i/icmc/bbp2372.2000.229/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.2000.229/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/2000.bib)
@@ -2221,11 +2221,8 @@ F.&nbsp;Vecchi, C.&nbsp;Freschi, S.&nbsp;Micera, A.&nbsp;M. Sabatini, P.&nbsp;Da
 C.&nbsp;Vergez. <em><span class="bibtex-protected">Trompette et trompettiste: un systeme dynamique non lineaire analyse, modelise et simule dans un contexte musical</span></em>. PhD thesis, Université de Paris VI, 2000.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Vergez2000Trompette.bib)
 
-M.&nbsp;M. Wanderley and M.&nbsp;Battier, editors. <em><span class="bibtex-protected">Trends in Gestural Control of Music</span></em>. Thesis. Paris Ircam - Centre Pompidou, Paris, 2000.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Wanderley2000Trends.bib)
-
-M.&nbsp;M. Wanderley, J.-P. Viollet, F.&nbsp;Isart, and X.&nbsp;Rodet. <span class="bibtex-protected">On the choice of transducer technologies for specific musical functions</span>. In <em>Proceedings of the 2000 International Computer Music Conference (ICMC-00)</em>, 244–247. Berlin, Germany, 2000.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Wanderley2000transducer.bib)
+K.&nbsp;C. Wasserman, M.&nbsp;Blanchard, U.&nbsp;Bernardet, J.&nbsp;Manzolli, and P.&nbsp;Verschure. <span class="bibtex-protected">Roboser- An Autonomous Interactive Musical Composition System</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 535&ndash;538. San Francisco, 2000. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Wasserman2000Roboser.bib)
 
 M.&nbsp;M. Wanderley, J.-P. Viollet, F.&nbsp;Isart, and X.&nbsp;Rodet. <span class="bibtex-protected">On the Choice of Transducer Technologies for Specific Musical Functions</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 244&ndash;247. San Francisco, CA, 2000. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Wanderley2000Choice.bib)
@@ -2233,8 +2230,11 @@ M.&nbsp;M. Wanderley, J.-P. Viollet, F.&nbsp;Isart, and X.&nbsp;Rodet. <span cla
 R.&nbsp;Wechsler. <span class="bibtex-protected">The Meaning of Interaction in Dance</span>. publication pending, 2000.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Wechsler2000Meaning.bib)
 
-K.&nbsp;C. Wasserman, M.&nbsp;Blanchard, U.&nbsp;Bernardet, J.&nbsp;Manzolli, and P.&nbsp;Verschure. <span class="bibtex-protected">Roboser- An Autonomous Interactive Musical Composition System</span>. In <em>Proceedings of the 2000 International Computer Music Conference</em>, 535&ndash;538. San Francisco, 2000. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Wasserman2000Roboser.bib)
+M.&nbsp;M. Wanderley, J.-P. Viollet, F.&nbsp;Isart, and X.&nbsp;Rodet. <span class="bibtex-protected">On the choice of transducer technologies for specific musical functions</span>. In <em>Proceedings of the 2000 International Computer Music Conference (ICMC-00)</em>, 244–247. Berlin, Germany, 2000.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Wanderley2000transducer.bib)
+
+M.&nbsp;M. Wanderley and M.&nbsp;Battier, editors. <em><span class="bibtex-protected">Trends in Gestural Control of Music</span></em>. Thesis. Paris Ircam - Centre Pompidou, Paris, 2000.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2000/Wanderley2000Trends.bib)
 
 Todd Winkler. Participation and response in movement-sensing installations. In <em>Proceedings of the International Computer Music Conference</em>, 137&ndash;140. nan, Berlin, Germany, 2000. MI: Michigan Publishing, University of Michigan Library. URL: <a href="https://quod.lib.umich.edu/i/icmc/bbp2372.2000.242/1">https://quod.lib.umich.edu/i/icmc/bbp2372.2000.242/1</a>.
 [<kbd><br>Download PDF<br></kbd>](https://quod.lib.umich.edu/i/icmc/bbp2372.2000.242/1) <nbsp> [<kbd><br>BibTex<br></kbd>](ICMC/2000.bib)
@@ -2253,20 +2253,20 @@ Tomoko Yonezawa and Kenji Mase. Tangible sound: musical instrument using fluid m
 J.&nbsp;Accot and S.&nbsp;Zhai. <span class="bibtex-protected">Scale Effects in Steering Law Tasks</span>. In <em>Proceedings of the 2001 ACM Conference on Human Factors in Computing Systems</em>, 1&ndash;8. New York, NY, 2001. ACM Press.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Accot2001Scale.bib)
 
-J.&nbsp;Birringer. <span class="bibtex-protected">The intelligent stage</span>. <em>Performance Research</em>, 6(2):116&ndash;22, 2001.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Birringer2001Intelligent.bib)
-
 T.&nbsp;Baumgärtel. <em><span class="bibtex-protected">net.art 2.0. new materials towards net art</span></em>. Verlag für moderne Kunst, Nürnberg, 2001.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Baumgartel2001Net.bib)
 
-J.&nbsp;Birringer. <span class="bibtex-protected">Dance and New Environments</span>. <em>Newsletter, Congress of Research in Dance</em>, 2001.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Birringer2001Dance.bib)
+F.&nbsp;Bevilacqua, L.&nbsp;Naugle, and I.&nbsp;Valverde. <span class="bibtex-protected">Virtual dance and music environment using motion capture</span>. In <em>IEEE Multimedia Technology and Applications Conference Proceedings</em>. Irvine, CA, 2001.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Bevilacqua2001Virtual.bib)
 
 C.&nbsp;Bahn, T.&nbsp;Hahn, and D.&nbsp;Trueman. <span class="bibtex-protected">Physicality and Feedback: A Focus on the Body in the Performance of Electronic Music</span>. In <em>Proceedings of the 2001 International Computer Music Conference</em>. San Francisco, 2001. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Bahn_2001_Physicality.bib)
 
-F.&nbsp;Bevilacqua, L.&nbsp;Naugle, and I.&nbsp;Valverde. <span class="bibtex-protected">Virtual dance and music environment using motion capture</span>. In <em>IEEE Multimedia Technology and Applications Conference Proceedings</em>. Irvine, CA, 2001.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Bevilacqua2001Virtual.bib)
+J.&nbsp;Birringer. <span class="bibtex-protected">The intelligent stage</span>. <em>Performance Research</em>, 6(2):116&ndash;22, 2001.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Birringer2001Intelligent.bib)
+
+J.&nbsp;Birringer. <span class="bibtex-protected">Dance and New Environments</span>. <em>Newsletter, Congress of Research in Dance</em>, 2001.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Birringer2001Dance.bib)
 
 H.&nbsp;Dreyfus. <em><span class="bibtex-protected">On the Internet</span></em>. Routledge, London/New York, 2001.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Dreyfus2001On.bib)
@@ -2274,26 +2274,23 @@ H.&nbsp;Dreyfus. <em><span class="bibtex-protected">On the Internet</span></em>.
 J.-L. Florens and C.&nbsp;Henry. <span class="bibtex-protected">Bowed String Synthesis with Force Feedback Gesture Interaction</span>. In <em>Proceedings of the 2001 International Computer Music Conference</em>. San Francisco, 2001. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Florens2001Bowed.bib)
 
-M.&nbsp;Gurevich and S.&nbsp;von Muehlen. <span class="bibtex-protected">The Accordiatron: A Gestural Interface for Interactive Music</span>. In <em>Proceedings of the 2001 International Computer Music Conference</em>. San Francisco, 2001. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Gurevich2001Accordiatron.bib)
-
 G.&nbsp;E. Garnett. <span class="bibtex-protected">The Aesthetics of Interactive Computer Music</span>. <em>Computer Music Journal</em>, 25(1):21&ndash;33, 2001.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Garnett_2001_Aesthetics.bib)
 
 C.&nbsp;Goudeseune. <em><span class="bibtex-protected">Composing with Parameters for Synthetic Instruments</span></em>. PhD thesis, University of Illinois at Urbana-Champaign, 2001.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Goudeseune2001Composing.bib)
 
-Y.&nbsp;Guiard. <span class="bibtex-protected">Disentangling Relative from Absolute Amplitude in Fitts’ Law Experiments</span>. In <em>Proceedings of the 2001 ACM Conference on Human Factors in Computing Systems</em>, 315&ndash;316. New York, NY, 2001. ACM Press.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Guiard2001Disentangling.bib)
+M.&nbsp;Gurevich and S.&nbsp;von Muehlen. <span class="bibtex-protected">The Accordiatron: A Gestural Interface for Interactive Music</span>. In <em>Proceedings of the 2001 International Computer Music Conference</em>. San Francisco, 2001. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Gurevich2001Accordiatron.bib)
 
 Peter&nbsp;N. Gendolla, I&nbsp;Schmitz, Peter Schneider, and Spangenberg, editors. <em><span class="bibtex-protected">Formen interaktiver Medienkunst</span></em>. Suhrkamp, Frankfurt, 2001.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Gendolla2001Formen.bib)
 
+Y.&nbsp;Guiard. <span class="bibtex-protected">Disentangling Relative from Absolute Amplitude in Fitts’ Law Experiments</span>. In <em>Proceedings of the 2001 ACM Conference on Human Factors in Computing Systems</em>, 315&ndash;316. New York, NY, 2001. ACM Press.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Guiard2001Disentangling.bib)
+
 S.&nbsp;Jorda. <span class="bibtex-protected">Improvising with Computers: A Personal Survey (1989-2001)</span>. In <em>Proceedings of the 2001 International Computer Music Conference</em>. San Francisco, 2001. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Jorda2001Improvising.bib)
-
-M.&nbsp;J. Lyons and N.&nbsp;Tetsutani. <span class="bibtex-protected">Facing the Music. A Facial Action Controlled Musical Interface</span>. In <em>Proceedings of the 2001 ACM Conference on Human Factors in Computing Systems</em>, 309&ndash;310. New York, NY, 2001. ACM Press.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Lyons2001Facing.bib)
 
 B.&nbsp;LaBelle and C.&nbsp;Migone, editors. <em><span class="bibtex-protected">Writing Aloud: The Sonics of Language</span></em>. Errant Bodies Press, Los Angeles, 2001.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/LaBelle2001Sonics.bib)
@@ -2301,14 +2298,17 @@ B.&nbsp;LaBelle and C.&nbsp;Migone, editors. <em><span class="bibtex-protected">
 M.&nbsp;Leeker, editor. <em><span class="bibtex-protected">Medien, Maschinen, Performances. Theater an der Schnittstelle zu digitalen Welten</span></em>. Alexander Verlag, Berlin, 2001. with CD-ROM by Irina Kaldrack and Martina Leeker.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Leeker2001Medien.bib)
 
+M.&nbsp;J. Lyons and N.&nbsp;Tetsutani. <span class="bibtex-protected">Facing the Music. A Facial Action Controlled Musical Interface</span>. In <em>Proceedings of the 2001 ACM Conference on Human Factors in Computing Systems</em>, 309&ndash;310. New York, NY, 2001. ACM Press.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Lyons2001Facing.bib)
+
+A.&nbsp;Menicacci and E.&nbsp;Quinz, editors. <em><span class="bibtex-protected">La scena digital: Nuovi media per la danza</span></em>. Marsilio, Bolzano, 2001.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Menicacci2001Scena.bib)
+
 N.&nbsp;Misdariis, F.&nbsp;Nicolas, O.&nbsp;Warusfel, and R.&nbsp;Causse. <span class="bibtex-protected">Radiation Control on Multi-Loudspeaker Device: La Timee</span>. In <em>Proceedings of the 2001 International Computer Music Conference</em>. San Francisco, 2001. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Misdariis_2001_radiation.bib)
 
 L.&nbsp;Manovich. <em><span class="bibtex-protected">The Language of New Media</span></em>. MIT Press, Cambridge, MA., 2001.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Manovich2001Language.bib)
-
-A.&nbsp;Menicacci and E.&nbsp;Quinz, editors. <em><span class="bibtex-protected">La scena digital: Nuovi media per la danza</span></em>. Marsilio, Bolzano, 2001.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Menicacci2001Scena.bib)
 
 Roberto Morales-Manzanares, Eduardo&nbsp;F. Morales, Roger Dannenberg, and Jonathan Berger. Sicib: an interactive music composition system using body movements. <em>Computer Music Journal</em>, 25(2):25–36, 2001. URL: <a href="https://www.jstor.org/stable/3681529">https://www.jstor.org/stable/3681529</a>.
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3681529) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/2001.bib)
@@ -2319,17 +2319,20 @@ D.&nbsp;Overholt. <span class="bibtex-protected">The MATRIX: A New Musical Instr
 H.&nbsp;Oosterling. <span class="bibtex-protected">Hypo-critical Theatre: Holandia's Intermedial Multiverse</span>. <em>Performance Research</em>, 6(3):61&ndash;67, 2001.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Oosterling2001Hypo.bib)
 
-J.&nbsp;Piringer. <span class="bibtex-protected">Elektronische Musik un Interaktivität. Prinzipien, Konzepte, Anwendungen</span>. Master's thesis, Technischen Universität Wien, Wien, Austria, 2001.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Piringer2001Musik.bib)
+D.&nbsp;Paraguai and L.&nbsp;Gilberto Prado. <span class="bibtex-protected">Artistic Environments of Telepresence on the World Wide Web</span>. <em>Leonardo</em>, 34(5):437&ndash;442, 2001.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Paraguai2001Artistic.bib)
 
 R.&nbsp;Pallàs-Areny and J.&nbsp;G. Webster. <em><span class="bibtex-protected">Sensors and Signal Conditioning</span></em>. Wiley Interscience, New York, USA, 2nd edition edition, 2001.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Pallas-Areny2001Sensors.bib)
 
-D.&nbsp;Paraguai and L.&nbsp;Gilberto Prado. <span class="bibtex-protected">Artistic Environments of Telepresence on the World Wide Web</span>. <em>Leonardo</em>, 34(5):437&ndash;442, 2001.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Paraguai2001Artistic.bib)
+J.&nbsp;Piringer. <span class="bibtex-protected">Elektronische Musik un Interaktivität. Prinzipien, Konzepte, Anwendungen</span>. Master's thesis, Technischen Universität Wien, Wien, Austria, 2001.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Piringer2001Musik.bib)
 
 R.&nbsp;Rowe. <em><span class="bibtex-protected">Machine Musicianship</span></em>. MIT Press, Cambridge, Mass, 2001.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Rowe_2001_Machine.bib)
+
+A.&nbsp;Scholder and J.&nbsp;Crandall, editors. <em><span class="bibtex-protected">Interaction: Artistic Practice in the Network</span></em>. D.A.P., New York, 2001.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Scholder2001Interaction.bib)
 
 W.&nbsp;A. Schloss and P.&nbsp;Driessen. <span class="bibtex-protected">Towards a Virtual Membrane: New Algorithms and Technology for Analyzing Gestural Data</span>. In <em>Proceedings of the 2001 International Computer Music Conference</em>. San Francisco, 2001. International Computer Music Association.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Schloss2001VirtualMembrane.bib)
@@ -2337,26 +2340,23 @@ W.&nbsp;A. Schloss and P.&nbsp;Driessen. <span class="bibtex-protected">Towards 
 D.&nbsp;Saltz. <span class="bibtex-protected">The Collaborative Subject: Telerobotic Performance and Identity</span>. <em>Performance Research</em>, 6(3):70&ndash;83, 2001.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Saltz2001Collaborative.bib)
 
-A.&nbsp;Scholder and J.&nbsp;Crandall, editors. <em><span class="bibtex-protected">Interaction: Artistic Practice in the Network</span></em>. D.A.P., New York, 2001.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Scholder2001Interaction.bib)
-
 G.&nbsp;Tholen. <span class="bibtex-protected">In Between: Time, Space and Image in Cross-Media Performance</span>. <em>Performance Research</em>, 6(3):52&ndash;60, 2001.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Tholen2001Image.bib)
-
-C.&nbsp;Vergez and X.&nbsp;Rodet. <span class="bibtex-protected">Trumpet and Trumpet Player: Model and Simulation in a Musical Context</span>. In <em>Proceedings of the 2001 International Computer Music Conference</em>. San Francisco, 2001. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Vergez2001Trumpet.bib)
 
 I.&nbsp;Valverde, L.&nbsp;Naugle, and F.&nbsp;Bevilacqua. <span class="bibtex-protected">Embodied Shifts: Towards an experiential approach to dance-technology interfaces</span>. In <em>MTAC Proceeding</em>. 2001.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Valverde2001Embodied.bib)
 
+C.&nbsp;Vergez and X.&nbsp;Rodet. <span class="bibtex-protected">Trumpet and Trumpet Player: Model and Simulation in a Musical Context</span>. In <em>Proceedings of the 2001 International Computer Music Conference</em>. San Francisco, 2001. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Vergez2001Trumpet.bib)
+
 M.&nbsp;Wanderley. <em><span class="bibtex-protected">Performer-Instrument Interaction: Applications to Gestural Control of Music</span></em>. PhD thesis, University Pierre et Marie Curie - Paris VI, Paris, France, 2001.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Wanderley2001Performer-Instrument.bib)
 
-M.&nbsp;Wright, A.&nbsp;Freed, A.&nbsp;Lee, T.&nbsp;Madden, and A.&nbsp;Momeni. <span class="bibtex-protected">Managing Complexity with Explicit Mapping of Gestures to Sound Control in OSC</span>. In <em>Proceedings of the 2001 International Computer Music Conference</em>. San Francisco, 2001. International Computer Music Association.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Wright2001Managing.bib)
-
 M.&nbsp;M. Wanderley. <em><span class="bibtex-protected">Performer-instrument interaction: Applications to gestural control of sound synthesis</span></em>. Ph.D. dissertation, Université Pierre et Marie Curie—Paris VI, Paris, France, 2001.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Wanderley2001Performer.bib)
+
+M.&nbsp;Wright, A.&nbsp;Freed, A.&nbsp;Lee, T.&nbsp;Madden, and A.&nbsp;Momeni. <span class="bibtex-protected">Managing Complexity with Explicit Mapping of Gestures to Sound Control in OSC</span>. In <em>Proceedings of the 2001 International Computer Music Conference</em>. San Francisco, 2001. International Computer Music Association.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2001/Wright2001Managing.bib)
 
 Gil Weinberg and Seum-Lim Gan. The squeezables: toward an expressive and interdependent multi-player musical instrument. <em>Computer Music Journal</em>, 25(2):37–45, 2001. URL: <a href="https://www.jstor.org/stable/3681530">https://www.jstor.org/stable/3681530</a>.
 [<kbd><br>Download PDF<br></kbd>](https://www.jstor.org/stable/3681530) <nbsp> [<kbd><br>BibTex<br></kbd>](CMJ/2001.bib)
@@ -2369,32 +2369,32 @@ Sølvi Ystad and Thierry Voinier. A virtually real flute. <em>Computer Music Jou
 D.&nbsp;Arfib, J.&nbsp;M. Couturier, L.&nbsp;Kessous, and V.&nbsp;Verfaille. <span class="bibtex-protected">Strategies of Mapping between Gesture data and Synthesis Model Parameters using Perceptual Spaces</span>. <em>Organised Sound</em>, 7(2):127&ndash;144, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Arfib2002Strategies.bib)
 
-J.&nbsp;Birringer. <span class="bibtex-protected">Dance and Digital Media</span>. <em>Performing Arts Journal</em>, pages 84&ndash;93, 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Birringer2002dance.bib)
-
-M.&nbsp;Burtner. <span class="bibtex-protected">The Metasaxophone: concept, implementation, and mapping strategies for a new computer music instrument</span>. <em>Organised Sound</em>, 7(2):201&ndash;213, 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Burtner2002Metasaxophone.bib)
-
-A.&nbsp;Barabási. <em><span class="bibtex-protected">Linked: The New Science of Networks</span></em>. Perseus Publ., Cambridge, MA., 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Barabasi2002Linked.bib)
-
-E.&nbsp;Bromberg and J.&nbsp;Birringer. <span class="bibtex-protected">ADAPT: Telepresent Artistic Collaborations</span>. <em>Center for High Performance Computing Newsletter</em>, 2002. University of Utah.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Bromberg2002ADAPT.bib)
-
 J.&nbsp;Birringer. <span class="bibtex-protected">Experimentelle Tanzmedien, Interaktive Systeme</span>. In Gabriele&nbsp;Klein Christa&nbsp;Zipprich, editor, <em>Tanz, Theorie, Text. Jahrbuch der Gesellschaft für Tanzforschung 2002</em>, pages 477&ndash;98. LIT Verlag, Hamburg, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Birringer2002Experimentelle.bib)
 
 A.&nbsp;Barbosa and M.&nbsp;Kaltenbrunner. <span class="bibtex-protected">Public Sound Objects: A Shared Musical Space on the Web</span>. In <em>Second International Conference on Web Delivering of Music, Proceedings</em>. 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Barbosa_2002_Public.bib)
 
+E.&nbsp;Bromberg and J.&nbsp;Birringer. <span class="bibtex-protected">ADAPT: Telepresent Artistic Collaborations</span>. <em>Center for High Performance Computing Newsletter</em>, 2002. University of Utah.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Bromberg2002ADAPT.bib)
+
+A.&nbsp;Barabási. <em><span class="bibtex-protected">Linked: The New Science of Networks</span></em>. Perseus Publ., Cambridge, MA., 2002.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Barabasi2002Linked.bib)
+
+J.&nbsp;Birringer. <span class="bibtex-protected">Dance and Digital Media</span>. <em>Performing Arts Journal</em>, pages 84&ndash;93, 2002.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Birringer2002dance.bib)
+
+M.&nbsp;Burtner. <span class="bibtex-protected">The Metasaxophone: concept, implementation, and mapping strategies for a new computer music instrument</span>. <em>Organised Sound</em>, 7(2):201&ndash;213, 2002.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Burtner2002Metasaxophone.bib)
+
 P.&nbsp;R. Cook. <em><span class="bibtex-protected">Real Sound Synthesis for Interactive Applications</span></em>. A K Peters, Natick, Mass, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Cook2002real.bib)
 
-P.&nbsp;Doornbusch. <span class="bibtex-protected">Composers' Views on Mapping in Algorithmic Composition</span>. <em>Organised Sound</em>, 7(2):145&ndash;156, 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Doornbusch2002Composers.bib)
-
 M.&nbsp;De and M.&nbsp;Beatriz, editors. <em><span class="bibtex-protected">Arte e tecnologia na cultura contemporânea</span></em>. Universidad de Brasilia, Brasilia, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/De2002Arte.bib)
+
+P.&nbsp;Doornbusch. <span class="bibtex-protected">Composers' Views on Mapping in Algorithmic Composition</span>. <em>Organised Sound</em>, 7(2):145&ndash;156, 2002.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Doornbusch2002Composers.bib)
 
 F.&nbsp;Evers, L.&nbsp;der Velden, and J.P. van&nbsp;der Wenden. <em><span class="bibtex-protected">The Art of Programming (Sonic Acts 2001 conference on digital art)</span></em>. Sonic Arts, Amsterdam, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Evers2002Programming.bib)
@@ -2402,62 +2402,65 @@ F.&nbsp;Evers, L.&nbsp;der Velden, and J.P. van&nbsp;der Wenden. <em><span class
 S.&nbsp;Fels, A.&nbsp;Gadd, and A.&nbsp;Mulder. <span class="bibtex-protected">Mapping Transparency through Metaphor: towards more expressive musical instruments</span>. <em>Organised Sound</em>, 7(2):109&ndash;126, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Fels2002Mapping.bib)
 
-Marina Grzinic, editor. <em><span class="bibtex-protected">Stelarc: Political Prosthesis and Knowledge of the Body</span></em>. Maska/MKC, Ljubljana, 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Grzinic2002Stelarc.bib)
-
 C.&nbsp;Goudeseune. <span class="bibtex-protected">Interpolated Mappings for Musical Instruments</span>. <em>Organized Sound</em>, 7(2):85&ndash;96, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Goudeseune2002Interpolated.bib)
-
-Joachim Glesner. <span class="bibtex-protected">Web Dance: Konvergenzen zwischen Tanz und Internet?</span> In Christa Zipprich and Gabriele Klein, editors, <em>Tanz, Theorie, Text. Jahrbuch der Gesellschaft für Tanzforschung</em>, pages 509&ndash;2. LIT Verlag, Hamburg, 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Glesner2002Web.bib)
 
 C.&nbsp;Goudeseune. <span class="bibtex-protected">Interpolated Mappings for Musical Instruments</span>. <em>Organised Sound</em>, 7(2):85&ndash;96, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Goudeseune_2002_Interpolated.bib)
 
-D.&nbsp;Huron. <span class="bibtex-protected">Music Information Processing Using the Humdrum Toolkit: Concepts, Examples, and Lessons</span>. <em>Computer Music Journal</em>, 26(2):11–26, 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Huron2002Humdrum.bib)
+Joachim Glesner. <span class="bibtex-protected">Web Dance: Konvergenzen zwischen Tanz und Internet?</span> In Christa Zipprich and Gabriele Klein, editors, <em>Tanz, Theorie, Text. Jahrbuch der Gesellschaft für Tanzforschung</em>, pages 509&ndash;2. LIT Verlag, Hamburg, 2002.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Glesner2002Web.bib)
+
+Marina Grzinic, editor. <em><span class="bibtex-protected">Stelarc: Political Prosthesis and Knowledge of the Body</span></em>. Maska/MKC, Ljubljana, 2002.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Grzinic2002Stelarc.bib)
 
 A.&nbsp;Hunt and M.&nbsp;Wanderley. <span class="bibtex-protected">Mapping performer parameters to synthesis engines</span>. <em>Organised Sound</em>, 7(2):97&ndash;108, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Hunt2002Mapping.bib)
 
-G.&nbsp;Lovink. <em><span class="bibtex-protected">Dark Fibre: Tracking Critical Internet Culture</span></em>. MIT Press, Cambridge, MA, 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Lovink2002Tracking.bib)
-
-D.&nbsp;Levitin, S.&nbsp;McAdams, and R.&nbsp;Adams. <span class="bibtex-protected">Control Parameters for Musical Instruments: a foundation for new mappings of gesture to sound</span>. <em>Organised Sound</em>, 7(2):171&ndash;189, 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Levitin2002Control.bib)
+D.&nbsp;Huron. <span class="bibtex-protected">Music Information Processing Using the Humdrum Toolkit: Concepts, Examples, and Lessons</span>. <em>Computer Music Journal</em>, 26(2):11–26, 2002.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Huron2002Humdrum.bib)
 
 G.&nbsp;Lovink. <em><span class="bibtex-protected">Uncanny Networks: Dialogues with the Virtual Intelligentsia</span></em>. MIT Press, Cambridge, MA, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Lovink2002Dialogues.bib)
 
-T.&nbsp;Myatt. <span class="bibtex-protected">Strategies for Interaction in Construction 3</span>. <em>Organised Sound</em>, 7(2):157–169, 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Myatt2002Strategies.bib)
+D.&nbsp;Levitin, S.&nbsp;McAdams, and R.&nbsp;Adams. <span class="bibtex-protected">Control Parameters for Musical Instruments: a foundation for new mappings of gesture to sound</span>. <em>Organised Sound</em>, 7(2):171&ndash;189, 2002.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Levitin2002Control.bib)
+
+G.&nbsp;Lovink. <em><span class="bibtex-protected">Dark Fibre: Tracking Critical Internet Culture</span></em>. MIT Press, Cambridge, MA, 2002.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Lovink2002Tracking.bib)
 
 A.&nbsp;Mackenzie. <em><span class="bibtex-protected">Transductions: Bodies and Machines at Speed</span></em>. Continuum, London, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Mackenzie2002Speed.bib)
 
-C.&nbsp;Nichols. <span class="bibtex-protected">The vBow: a virtual violin bow controller for mapping gesture to synthesis with haptic feedback</span>. <em>Organised Sound</em>, 7(2):215–220, 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Nichols2002vBow.bib)
-
-L.&nbsp;Naugle. <span class="bibtex-protected">Distributed Choreography in a Video-Conference Environment</span>. <em>Performance Art Journal</em>, 71:56&ndash;61, 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Naugle2002Distributed.bib)
+T.&nbsp;Myatt. <span class="bibtex-protected">Strategies for Interaction in Construction 3</span>. <em>Organised Sound</em>, 7(2):157–169, 2002.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Myatt2002Strategies.bib)
 
 K.&nbsp;Ng. <span class="bibtex-protected">Sensing and Mapping for Interactive Performance</span>. <em>Organised Sound</em>, 7(2):191–200, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Ng2002Sensing.bib)
 
+C.&nbsp;Nichols. <span class="bibtex-protected">The vBow: a virtual violin bow controller for mapping gesture to synthesis with haptic feedback</span>. <em>Organised Sound</em>, 7(2):215–220, 2002.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Nichols2002vBow.bib)
+
 L.&nbsp;Naugle. <em><span class="bibtex-protected">A Study of On-line Collaborative Choreography Using Life Forms and Internet Communication</span></em>. PhD thesis, New York University, Department of Music and Performing Arts Professions, Dance Education Program, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Naugle2002Study.bib)
 
-J.&nbsp;Paradiso, C.&nbsp;K. Leo, N.&nbsp;Checka, and K.&nbsp;Hsiao. <span class="bibtex-protected">Passive Acoustic Knock Tracking for Interactive Windows</span>. In <em>Proceedings of the CHI'02 Conference on Human Factors in Computing Systems</em>, 732&ndash;733. Minneapolis, USA, 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Paradiso2002Acoustic.bib)
-
-J.&nbsp;Preece, Y.&nbsp;Rogers, and H.&nbsp;Sharp. <em><span class="bibtex-protected">Interaction Design: Beyond Human-Computer Interaction</span></em>. John Wiley &amp; Sons, Inc., Hoboken, NJ., 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Preece2002Interaction.bib)
+L.&nbsp;Naugle. <span class="bibtex-protected">Distributed Choreography in a Video-Conference Environment</span>. <em>Performance Art Journal</em>, 71:56&ndash;61, 2002.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Naugle2002Distributed.bib)
 
 S.&nbsp;Popat and J.&nbsp;Smith-Autard. <span class="bibtex-protected">Dance-Making on the Internet: Can Online Choreographic Projects Foster Creativity in the User-Participant?</span> <em>Leonardo</em>, 35(1):31&ndash;36, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Popat2002Dance.bib)
 
+J.&nbsp;Preece, Y.&nbsp;Rogers, and H.&nbsp;Sharp. <em><span class="bibtex-protected">Interaction Design: Beyond Human-Computer Interaction</span></em>. John Wiley &amp; Sons, Inc., Hoboken, NJ., 2002.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Preece2002Interaction.bib)
+
+J.&nbsp;Paradiso, C.&nbsp;K. Leo, N.&nbsp;Checka, and K.&nbsp;Hsiao. <span class="bibtex-protected">Passive Acoustic Knock Tracking for Interactive Windows</span>. In <em>Proceedings of the CHI'02 Conference on Human Factors in Computing Systems</em>, 732&ndash;733. Minneapolis, USA, 2002.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Paradiso2002Acoustic.bib)
+
 M.&nbsp;Rieser and Z.&nbsp;Andrea, editors. <em><span class="bibtex-protected">New Screen Media/Cinema/Art/Narrative</span></em>. BFI, London, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Rieser2002New.bib)
+
+B.&nbsp;Seaman. <span class="bibtex-protected">Recombinant Poetics: Emergent Explorations of Digital Video in Virtual Space</span>. In Martin Rieser and Andrea Zapp, editors, <em>New Screen Media/Cinema/Art/Narrative</em>, pages 237&ndash;255. BFI, London, 2002.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Seaman2002Recombinant.bib)
 
 I.&nbsp;Santana. <em><span class="bibtex-protected">Corpo Aberto: Cunningham, dança e novas tecnologias</span></em>. EDUC/FAPESC, São Paulo, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Santana2002Corpo.bib)
@@ -2465,17 +2468,14 @@ I.&nbsp;Santana. <em><span class="bibtex-protected">Corpo Aberto: Cunningham, da
 S.&nbsp;Sapir. <span class="bibtex-protected">Gestural Control of Digital Audio Environments</span>. <em>Journal of New Music Research</em>, 31(2):119, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Sapir2002Gestural.bib)
 
-B.&nbsp;Seaman. <span class="bibtex-protected">Recombinant Poetics: Emergent Explorations of Digital Video in Virtual Space</span>. In Martin Rieser and Andrea Zapp, editors, <em>New Screen Media/Cinema/Art/Narrative</em>, pages 237&ndash;255. BFI, London, 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Seaman2002Recombinant.bib)
+S.&nbsp;Wilson. <em><span class="bibtex-protected">Information Arts: A Survey of Art and Research at the Intersection of Art, Science, and Technology</span></em>. MIT Press, Cambridge, MA, 2002.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Wilson2002Information.bib)
 
 M.&nbsp;Wanderley and N.&nbsp;Orio. <span class="bibtex-protected">Evaluation of Input Devices for Musical Expression: Borrowing Tools from HCI</span>. <em>Computer Music Journal</em>, 26(3):62&ndash;76, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Wanderley2002Evaluation.bib)
 
 M.&nbsp;Wanderley. <span class="bibtex-protected">Mapping Strategies in Interactive Computer Music</span>. <em>Organised Sound</em>, 7(2):83&ndash;84, 2002.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Wanderley2002Mapping.bib)
-
-S.&nbsp;Wilson. <em><span class="bibtex-protected">Information Arts: A Survey of Art and Research at the Intersection of Art, Science, and Technology</span></em>. MIT Press, Cambridge, MA, 2002.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2002/Wilson2002Information.bib)
 
 ## 2003
 
@@ -2485,11 +2485,14 @@ R.&nbsp;Ascott. <em><span class="bibtex-protected">Telematic Embrace: Visionary 
 A.&nbsp;Arnold. <em><span class="bibtex-protected">Deanimated</span></em>. Springer, Wien/New York, 2003.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2003/Arnold2003Deanimated.bib)
 
-B.&nbsp;Belet. <span class="bibtex-protected">Live Performance Interaction for Humans and Machines in the Early Twenty-First Century: One Composer's Aesthetics for Composition and Performance Practice</span>. <em>Organised Sound: An International Journal of Music Technology</em>, 8:305, 2003.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2003/Belet_2003_Live.bib)
-
 J.&nbsp;Birringer. <span class="bibtex-protected">Dance and Interactivity</span>. <em>Dance Research Journal</em>, 35(2):88&ndash;111, 2003.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2003/Birringer2003dance.bib)
+
+J.&nbsp;Birringer. <span class="bibtex-protected">Performance Systems</span>. <em>South African Theatre Journal</em>, 17:79&ndash;113, 2003.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2003/Birringer2003Performance.bib)
+
+B.&nbsp;Belet. <span class="bibtex-protected">Live Performance Interaction for Humans and Machines in the Early Twenty-First Century: One Composer's Aesthetics for Composition and Performance Practice</span>. <em>Organised Sound: An International Journal of Music Technology</em>, 8:305, 2003.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2003/Belet_2003_Live.bib)
 
 G.&nbsp;Burdea and P.&nbsp;Coiffet. <em><span class="bibtex-protected">Virtual Reality Technology</span></em>. John Wiley and Sons, 2nd edition, 2003.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2003/Burdea2003Virtual.bib)
@@ -2497,20 +2500,17 @@ G.&nbsp;Burdea and P.&nbsp;Coiffet. <em><span class="bibtex-protected">Virtual R
 J.&nbsp;Brouwer, A.&nbsp;Mulder, and S.&nbsp;Charlton. <em><span class="bibtex-protected">Information is Alive - Art and Theory on Archiving and Retrieving Data</span></em>. V2_Publishing/NAI Publishers, Rotterdam, 2003.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2003/Brouwer2003Information.bib)
 
-J.&nbsp;Birringer. <span class="bibtex-protected">Performance Systems</span>. <em>South African Theatre Journal</em>, 17:79&ndash;113, 2003.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2003/Birringer2003Performance.bib)
+M.&nbsp;Copier and J.&nbsp;Raessens. <em><span class="bibtex-protected">Level Up: Digital Games Research Conference</span></em>. Diagra/University of Utrecht, Utrecht, 2003.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2003/Copier2003Level.bib)
 
 S.&nbsp;Canazza and others. <span class="bibtex-protected">An abstract control space for communication of sensory expressive intentions in music performance</span>. <em>Journal of New Music Research</em>, 32:281&ndash;294, Sep 2003.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2003/Canazza2003Abstract.bib)
 
-M.&nbsp;Copier and J.&nbsp;Raessens. <em><span class="bibtex-protected">Level Up: Digital Games Research Conference</span></em>. Diagra/University of Utrecht, Utrecht, 2003.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2003/Copier2003Level.bib)
+S.&nbsp;Dinkla and M.&nbsp;Leeker. <em><span class="bibtex-protected">Dance and Technology/ Tanz und Technologie: Moving towards Media Productions - Auf dem Weg zu medialen Inszenierungen</span></em>. Alexander Verlag, Berlin, 2003.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2003/Dinkla2003Dance.bib)
 
 D.&nbsp;Davcev, V.&nbsp;Trajkovic, S.&nbsp;Kalajdziski, and S.&nbsp;Celakoski. Augmented reality environment for dance learning. In <em>International Conference on Information Technology: Research and Education, 2003. Proceedings. ITRE2003.</em>, 189&ndash;193. 2003. <a href="https://doi.org/10.1109/ITRE.2003.1270600">doi:10.1109/ITRE.2003.1270600</a>.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2003/Davcev2003Augmented.bib)
-
-S.&nbsp;Dinkla and M.&nbsp;Leeker. <em><span class="bibtex-protected">Dance and Technology/ Tanz und Technologie: Moving towards Media Productions - Auf dem Weg zu medialen Inszenierungen</span></em>. Alexander Verlag, Berlin, 2003.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2003/Dinkla2003Dance.bib)
 
 Oliver Grau. <em><span class="bibtex-protected">Virtual Art: From Illusion to Immersion</span></em>. MIT Press, Cambridge, 2003.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2003/Grau2003Virtual.bib)
@@ -2547,26 +2547,26 @@ N.&nbsp;Wardrip-Fruin and N.&nbsp;Montfort, editors. <em><span class="bibtex-pro
 E.&nbsp;Bromberg and J.&nbsp;Birringer. <span class="bibtex-protected">ADaPT: Telepresent Artistic Collaborations</span>. <em>Interdisciplinary Humanities</em>, 21(1):87&ndash;93, 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Bromberg2004ADaPT.bib)
 
-J.&nbsp;Birringer. <em><span class="bibtex-protected">Wechselwirkung: Internationales Interaktionslabor</span></em>. SDV, Saarbrücken, 2004.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Birringer2004Wechselwirkung.bib)
-
 J.&nbsp;Birringer. <span class="bibtex-protected">Dance and Interactivity</span>. <em>Dance Research Journal</em>, 336(1):88&ndash;111, 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Birringer2004dance.bib)
 
 J.&nbsp;Birringer. <span class="bibtex-protected">Transspacial Light and Virtual Choreography</span>. <em>ballettanz</em>, 6:30&ndash;32, 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Birringer2004Transspacial.bib)
 
-B.&nbsp;Buck, G.&nbsp;Miller, AJ. Niehaus, and A.&nbsp;Seech. <span class="bibtex-protected">ADAPT (The Association for Dance and PerformanceTelematics): Multiple definitions of distributed performance</span>. In <em>Hawaii International Conference on Arts and Humanities</em>. 2004.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Buck2004ADAPT.bib)
-
 R.&nbsp;Boulanger. <em><span class="bibtex-protected">The Csound Book: Perspectives in Software Synthesis, Sound Design, Signal Processing, and Programming</span></em>. MIT Press, Cambridge, MA, USA, 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Boulanger2004csound.bib)
 
-A.&nbsp;Camurri, B.&nbsp;Mazzarino, and G.&nbsp;Volpe. <span class="bibtex-protected">Analysis of Expressive Gesture: The Eyesweb Expressive Gesture Processing Library</span>. In <em>Gesture-based Communication in Human- Computer Interaction, LNAI 2915</em>, pages 460&ndash;467. Springer Verlag, 2004.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Camurri2004analysis.bib)
+B.&nbsp;Buck, G.&nbsp;Miller, AJ. Niehaus, and A.&nbsp;Seech. <span class="bibtex-protected">ADAPT (The Association for Dance and PerformanceTelematics): Multiple definitions of distributed performance</span>. In <em>Hawaii International Conference on Arts and Humanities</em>. 2004.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Buck2004ADAPT.bib)
+
+J.&nbsp;Birringer. <em><span class="bibtex-protected">Wechselwirkung: Internationales Interaktionslabor</span></em>. SDV, Saarbrücken, 2004.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Birringer2004Wechselwirkung.bib)
 
 A.&nbsp;Camurri, B.&nbsp;Mazzarino, M.&nbsp;Ricchetti, R.&nbsp;Timmers, and G.&nbsp;Volpe. <span class="bibtex-protected">Multimodal analysis of expressive gesture in music and dance performances</span>. In A.&nbsp;Camurri and G.&nbsp;Volpe, editors, <em>Gesture-based Communication in Human-Computer Interaction</em>, LNAI 2915. Springer Verlag, 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Camurri2004Multimodal.bib)
+
+A.&nbsp;Camurri, B.&nbsp;Mazzarino, and G.&nbsp;Volpe. <span class="bibtex-protected">Analysis of Expressive Gesture: The Eyesweb Expressive Gesture Processing Library</span>. In <em>Gesture-based Communication in Human- Computer Interaction, LNAI 2915</em>, pages 460&ndash;467. Springer Verlag, 2004.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Camurri2004analysis.bib)
 
 J.&nbsp;Fraden. <em><span class="bibtex-protected">Handbook of Modern Sensors. Physics, Design and Applications</span></em>. Springer-Verlag, London, 3rd edition, 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Fraden2004Sensors.bib)
@@ -2574,23 +2574,23 @@ J.&nbsp;Fraden. <em><span class="bibtex-protected">Handbook of Modern Sensors. P
 M.&nbsp;Feldmeier and J.&nbsp;Paradiso. <span class="bibtex-protected">Giveaway wireless sensors for large-group interaction</span>. In <em>Proceedings of CHI 2004, CHI Extended Abstracts</em>, 1291&ndash;1292. 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Feldmeier2004Giveaway.bib)
 
-P.&nbsp;Hurbain. <span class="bibtex-protected">Demystifying the Sharp IR Ranger</span>. Acroname Articles Online, 2004.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Hurbain2004IR.bib)
+K.&nbsp;Hachimura, H.&nbsp;Kato, and H.&nbsp;Tamura. <span class="bibtex-protected">A Prototype Dance Training Support System with Motion Capture and Mixed Reality Technologies</span>. In <em>Proc. IEEE Int’l Workshop Robot and Human Interactive Comm.</em>, 217–222. 2004.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Hachimura2004Prototype.bib)
 
 M.&nbsp;Hansen. <em><span class="bibtex-protected">New Philosophy for New Media</span></em>. MIT Press, Cambridge, 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Hansen2004Philosophy.bib)
 
-K.&nbsp;Hachimura, H.&nbsp;Kato, and H.&nbsp;Tamura. <span class="bibtex-protected">A Prototype Dance Training Support System with Motion Capture and Mixed Reality Technologies</span>. In <em>Proc. IEEE Int’l Workshop Robot and Human Interactive Comm.</em>, 217–222. 2004.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Hachimura2004Prototype.bib)
+P.&nbsp;Hurbain. <span class="bibtex-protected">Demystifying the Sharp IR Ranger</span>. Acroname Articles Online, 2004.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Hurbain2004IR.bib)
 
 H.&nbsp;Janocha. <em><span class="bibtex-protected">Actuators: basics and applications</span></em>. Springer, 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Janocha2004Actuators.bib)
 
-H.&nbsp;Katayose and K.&nbsp;Okudaira. <span class="bibtex-protected">iFP: A Music Interface Using an Expressive Performance Template</span>. In <em>Entertainment Computing - Icec 2004</em>, volume 3166 of Lecture Notes in Computer Science, pages 529&ndash;540. Springer, 2004.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Katayose2004iFP.bib)
-
 A.&nbsp;Kirlik and S.&nbsp;Maruyama. <span class="bibtex-protected">Human-technology Interaction and Music Perception and Performance: Toward the Robust Design of Sociotechnical Systems</span>. <em>Proceedings of the IEEE</em>, 92(4):616&ndash;631, 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Kirlik2004Human-technology.bib)
+
+H.&nbsp;Katayose and K.&nbsp;Okudaira. <span class="bibtex-protected">iFP: A Music Interface Using an Expressive Performance Template</span>. In <em>Entertainment Computing - Icec 2004</em>, volume 3166 of Lecture Notes in Computer Science, pages 529&ndash;540. Springer, 2004.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Katayose2004iFP.bib)
 
 R.&nbsp;Mitchell and T.&nbsp;Phillip. <em><span class="bibtex-protected">Data made Flesh: Embodying Information</span></em>. Routledge, New York, 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Mitchell2004Data.bib)
@@ -2601,11 +2601,11 @@ D.&nbsp;S. Nyce. <em><span class="bibtex-protected">Linear Position Sensors: The
 K.&nbsp;C. Ng. <span class="bibtex-protected">Music via Motion: Transdomain Mapping of Motion and Sound for Interactive Performances</span>. <em>Proceedings of the IEEE</em>, 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Ng2004Music.bib)
 
-K.&nbsp;C. Ng. <span class="bibtex-protected">Music via Motion: Transdomain Mapping of Motion and Sound for Interactive Performances</span>. <em>Proceedings of the IEEE.</em>, 92(4):645&ndash;655, 2004.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Ng2004Motion.bib)
-
 J.&nbsp;Newman. <em><span class="bibtex-protected">Videogames</span></em>. Routledge, London, 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Newman2004Videogames.bib)
+
+K.&nbsp;C. Ng. <span class="bibtex-protected">Music via Motion: Transdomain Mapping of Motion and Sound for Interactive Performances</span>. <em>Proceedings of the IEEE.</em>, 92(4):645&ndash;655, 2004.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Ng2004Motion.bib)
 
 D.&nbsp;O'Sullivan and T.&nbsp;Igoe. <em><span class="bibtex-protected">Physical computing: sensing and controlling the physical world with computers</span></em>. Thomson Course Technology, Boston, 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/OSullivan2004Physical.bib)
@@ -2613,26 +2613,26 @@ D.&nbsp;O'Sullivan and T.&nbsp;Igoe. <em><span class="bibtex-protected">Physical
 G.&nbsp;Qian, F.&nbsp;Guo, T.&nbsp;Ingalls, L.&nbsp;Olson, J.&nbsp;James, and T.&nbsp;Rikakis. <span class="bibtex-protected">A Gesture-Driven Multimodal Interactive Dance System</span>. In <em>Proceedings of IEEE International Conference on Multimedia and Expo (ICME '04)</em>, 1579&ndash;1582. 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Qian2004Gesture.bib)
 
-A.&nbsp;Schmeder. <span class="bibtex-protected">Mapping Spectral Frames to Pitch with Support Vector Machine</span>. In <em>Proceedings from the 2004 International Computer Music Conference - ICMC04</em>. 2004.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Schmeder2004Mapping.bib)
+J.&nbsp;Smith. <span class="bibtex-protected">I Can See Tomorrow In Your Dance: A Study of Dance Dance Revolution and Music Video Games</span>. <em>Journal of Popular Music Studies</em>, 16(1):58–84, 2004.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Smith2004Tomorrow.bib)
 
 K.&nbsp;Suzuki and S.&nbsp;Hashimoto. <span class="bibtex-protected">Robotic Interface for Embodied Interaction Via Dance and Musical Performance</span>. <em>Proceedings of the IEEE</em>, 92(4):656&ndash;671, 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Suzuki2004Robotic.bib)
 
-J.&nbsp;Smith. <span class="bibtex-protected">I Can See Tomorrow In Your Dance: A Study of Dance Dance Revolution and Music Video Games</span>. <em>Journal of Popular Music Studies</em>, 16(1):58–84, 2004.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Smith2004Tomorrow.bib)
-
-M.&nbsp;Wanderley and P.&nbsp;Depalle. <span class="bibtex-protected">Gestural Control of Sound Synthesis</span>. In <em>Proceedings of the IEEE Conference</em>, volume&nbsp;92. 2004.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Wanderley2004Gestural.bib)
+A.&nbsp;Schmeder. <span class="bibtex-protected">Mapping Spectral Frames to Pitch with Support Vector Machine</span>. In <em>Proceedings from the 2004 International Computer Music Conference - ICMC04</em>. 2004.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Schmeder2004Mapping.bib)
 
 R.&nbsp;Wechsler, F.&nbsp;Weiß, and P.&nbsp;Dowling. <span class="bibtex-protected">EyeCon – A motion sensing tool for creating interactive dance, music and video projections</span>. In <em>Proceedings of the Society for the Study of Artificial Intelligence and the Simulation of Behavior (SSAISB)'s convention: Motion, Emotion and Cognition</em>. University of Leeds, England, 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Wechsler2004EyeCon.bib)
 
+R.&nbsp;Wechsler and F.&nbsp;Weiss. <span class="bibtex-protected">Motion Sensing for Interactive Dance</span>. <em>IEEE-Pervasive Computing, Mobile and Ubiquitous Systems</em>, 2004.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Wechsler2004Interactive.bib)
+
 M.&nbsp;Whitelaw. <em><span class="bibtex-protected">Metacreation: Art and Artificial Life</span></em>. MIT Press, Cambridge, 2004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Whitelaw2004Metacreation.bib)
 
-R.&nbsp;Wechsler and F.&nbsp;Weiss. <span class="bibtex-protected">Motion Sensing for Interactive Dance</span>. <em>IEEE-Pervasive Computing, Mobile and Ubiquitous Systems</em>, 2004.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Wechsler2004Interactive.bib)
+M.&nbsp;Wanderley and P.&nbsp;Depalle. <span class="bibtex-protected">Gestural Control of Sound Synthesis</span>. In <em>Proceedings of the IEEE Conference</em>, volume&nbsp;92. 2004.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2004/Wanderley2004Gestural.bib)
 
 ## 2005
 
@@ -2648,20 +2648,20 @@ N.&nbsp;Ebeweuter. <span class="bibtex-protected">Dance movement: a focus on the
 R.&nbsp;J. Gluck. <span class="bibtex-protected">Sounds of a community: Cultural identity and interactive art</span>. <em>Leonardo Music Journal</em>, 15:37&ndash;43, 2005.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Gluck_2005_Sounds.bib)
 
-S.&nbsp;Hashimoto and H.&nbsp;Sawada. <span class="bibtex-protected">A Grasping Device to Sense Hand Gesture for Expressive Sound Generation</span>. <em>Journal of New Music Research</em>, 34(1):115, 2005.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Hashimoto2005Grasping.bib)
-
 K.&nbsp;Hachimura, K.&nbsp;Takashina, and M.&nbsp;Yoshimura. <span class="bibtex-protected">Analysis and Evaluation of Dancing Movement Based on LMA</span>. In <em>Proc. IEEE Int’l Workshop Robots and Human Interactive Comm.</em>, 294–299. 2005.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Hachimura2005LMA.bib)
+
+S.&nbsp;Hashimoto and H.&nbsp;Sawada. <span class="bibtex-protected">A Grasping Device to Sense Hand Gesture for Expressive Sound Generation</span>. <em>Journal of New Music Research</em>, 34(1):115, 2005.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Hashimoto2005Grasping.bib)
 
 S.&nbsp;Jorda and M.&nbsp;Kaltenbrunner. <em><span class="bibtex-protected">The Reactable</span></em>. Music Technology Group, IUA, Universitat Pompeu Fabra, 2005.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Jorda2005Reactable.bib)
 
-A.&nbsp;Kapur and others. <span class="bibtex-protected">Wearable sensors for real-time musical signal processing</span>. In <em>2005 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing</em>. 2005.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Kapur2005Wearable.bib)
-
 D.Y. Kwon and M.&nbsp;Cross. <span class="bibtex-protected">Combining Body Sensors and Visual Sensors for Motion Training</span>. In <em>Proc. ACM SIGCHI</em>, 94&ndash;101. 2005.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Kwon2005Sensors.bib)
+
+A.&nbsp;Kapur and others. <span class="bibtex-protected">Wearable sensors for real-time musical signal processing</span>. In <em>2005 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing</em>. 2005.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Kapur2005Wearable.bib)
 
 M.&nbsp;Leman and A.&nbsp;Camurri. <span class="bibtex-protected">Understanding Musical Expressiveness using Interactive Multimedia Platforms</span>. <em>Journal of Musicae Scientiae</em>, pages 209&ndash;233, 2005.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Leman2005Understanding.bib)
@@ -2675,20 +2675,20 @@ A.&nbsp;Nakamura, S.&nbsp;Tabata, T.&nbsp;Ueda, S.&nbsp;Kiyofuji, and Y.&nbsp;Ku
 Z.&nbsp;Obrenovic. <span class="bibtex-protected">A flexible system for creating music while interacting with the computer</span>. In <em>13th Annual ACM International Conference on Multimedia</em>, 996&ndash;1004. New York, NY, USA, 2005.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Obrenovic2005Flexible.bib)
 
-P.&nbsp;Srinivasan, D.&nbsp;Birchfield, G.&nbsp;Qian, and A.&nbsp;Kidane. <span class="bibtex-protected">A pressure sensing floor for interactive media applications</span>. In <em>ACE ’05: Proceedings of the 2005 ACM SIGCHI International Conference on Advances in computer entertainment technology</em>, 265. ACM, 2005.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Srinivasan2005Pressure.bib)
-
 A.&nbsp;Sorensen. <span class="bibtex-protected">Impromptu: An Interactive Programming Environment for Composition and Performance</span>. In <em>Proceedings of the Australasian Computer Music Conference</em>, 149–153. Queensland University of Technology, Brisbane, Australia, 2005.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Sorensen_2005_Impromptu.bib)
+
+P.&nbsp;Srinivasan, D.&nbsp;Birchfield, G.&nbsp;Qian, and A.&nbsp;Kidane. <span class="bibtex-protected">A pressure sensing floor for interactive media applications</span>. In <em>ACE ’05: Proceedings of the 2005 ACM SIGCHI International Conference on Advances in computer entertainment technology</em>, 265. ACM, 2005.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Srinivasan2005Pressure.bib)
 
 A.&nbsp;R. Tindale, A.&nbsp;Kapur, G.&nbsp;Tzanetakis, and W.&nbsp;A. Schloss. <span class="bibtex-protected">Indirect Acquisition of Percussion Gestures Using Timbre Recognition</span>. In <em>Proceedings of the Conference on Interdisciplinary Musicology</em>. Montreal, Canada, 2005.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Tindale2005Indirect.bib)
 
-G.&nbsp;Weinberg. <span class="bibtex-protected">Voice Networks: The Human Voice as a Creative Medium for Musical Collaboration</span>. <em>Leonardo Music Journal</em>, 15:23&ndash;26, 2005.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Weinberg2005Voice.bib)
-
 J.&nbsp;S. Wilson. <em><span class="bibtex-protected">Sensor Technology Handbook</span></em>. Newnes (Elsevier), 2005.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Wilson2005Sensor.bib)
+
+G.&nbsp;Weinberg. <span class="bibtex-protected">Voice Networks: The Human Voice as a Creative Medium for Musical Collaboration</span>. <em>Leonardo Music Journal</em>, 15:23&ndash;26, 2005.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2005/Weinberg2005Voice.bib)
 
 ## 2006
 
@@ -2701,14 +2701,14 @@ C.&nbsp;Guedes. <span class="bibtex-protected">Extracting Musically-Relevant Rhy
 M.&nbsp;Karjalainen, T.&nbsp;Maki-patola, A.&nbsp;Kanerva, and A.&nbsp;Huovilainen. <span class="bibtex-protected">Virtual Air Guitar</span>. <em>Journal of Audio Engineering Society</em>, 54(10):964&ndash;980, 2006.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2006/Karjalainen2006Virtual.bib)
 
+E.&nbsp;R. Miranda and M.&nbsp;M. Wanderley. <em><span class="bibtex-protected">New digital musical instruments: control and interaction beyond the keyboard</span></em>. A-R Editions Inc, 2006.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2006/Miranda2006New.bib)
+
 J.&nbsp;Malloch, D.&nbsp;Birnbaum, E.&nbsp;Sinyor, and M.M. Wanerley. <span class="bibtex-protected">Towards a New Conceptual Framework for Digital Musical Instruments</span>. In <em>Proceedings of the 9th International Conference on Digital Audio Effects</em>, 49&ndash;52. Montreal, Canada, 2006.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2006/Malloch2006Towards.bib)
 
 M.&nbsp;T. Marshall and M.&nbsp;M. Wanderley. <span class="bibtex-protected">Evaluation of Sensors as Input Devices for Computer Music Interfaces</span>. In Richard Kronland-Martinet, Thierry Voinier, and Sølvi Ystad, editors, <em>Computer Music Modeling and Retrieval</em>, volume 3902, pages 130&ndash;139. Springer Berlin / Heidelberg, 2006.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2006/Marshall2006Evaluation.bib)
-
-E.&nbsp;R. Miranda and M.&nbsp;M. Wanderley. <em><span class="bibtex-protected">New digital musical instruments: control and interaction beyond the keyboard</span></em>. A-R Editions Inc, 2006.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2006/Miranda2006New.bib)
 
 D.&nbsp;Overholt. <span class="bibtex-protected">Musical Interaction Design with the CREATE USB Interface: Teaching HCI with CUIs instead of GUIs</span>. In <em>Proceedings of the International Computer Music Conference (ICMC-2006)</em>, 6&ndash;11. New Orleans, USA, 2006.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2006/Overholt2006Interaction.bib)
@@ -2725,11 +2725,11 @@ G.&nbsp;Weinberg and T.&nbsp;Thatcher. <span class="bibtex-protected">Interactiv
 Z.&nbsp;Yang, B.&nbsp;Yu, R.&nbsp;Diankov, W.&nbsp;Wu, and R.&nbsp;Bajscy. <span class="bibtex-protected">Collaborative Dancing in Tele-Immersive Environment</span>. In <em>Proc. Ann. ACM Int’l Conf. Multimedia</em>, 723&ndash;726. 2006.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2006/Yang2006Collaborative.bib)
 
-M.&nbsp;Zadel and G.&nbsp;Scavone. <span class="bibtex-protected">Laptop Performance: Techniques, Tools, and a New Interface Design</span>. In <em>Proceedings of the International Computer Music Conference (ICMC-2006)</em>, 643–648. New Orleans, USA, 2006.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2006/Zadel2006Laptop.bib)
-
 M.&nbsp;Zadel. <span class="bibtex-protected">A Software System for Laptop Performance and Improvisation</span>. Master's thesis, McGill University, 2006.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2006/Zadel2006Software.bib)
+
+M.&nbsp;Zadel and G.&nbsp;Scavone. <span class="bibtex-protected">Laptop Performance: Techniques, Tools, and a New Interface Design</span>. In <em>Proceedings of the International Computer Music Conference (ICMC-2006)</em>, 643–648. New Orleans, USA, 2006.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2006/Zadel2006Laptop.bib)
 
 ## 2007
 
@@ -2739,14 +2739,14 @@ X.&nbsp;Amatriain. <span class="bibtex-protected">CLAM: A Framework for Audio an
 R.&nbsp;Aylward and J.&nbsp;Paradiso. <span class="bibtex-protected">A compact, high-speed, wearable sensor network for biomotion capture and interactive media</span>. In <em>Proceedings of the 6th international conference on Information processing in sensor networks</em>. 2007.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2007/Aylward2007Compact.bib)
 
-R.&nbsp;Bayreuther. <span class="bibtex-protected">Contemporary Composition as Musical Disciplina - The Example of Sound Installations of Robin Minard</span>. <em>Musiktheorie</em>, 22:357&ndash;364, 2007.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2007/Bayreuther_2007_Contemporary.bib)
+D.&nbsp;Birnbaum. <span class="bibtex-protected">Musical Vibrotactile Feedback</span>. Master's thesis, McGill University, 2007.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2007/Birnbaum2007Musical.bib)
 
 J.&nbsp;S. Bakogianni, E.&nbsp;Kavakli, V.&nbsp;Karkou, and M.&nbsp;Tsakogianni. <span class="bibtex-protected">Teaching Traditional Dance Using E-Learning Tools: Experience from the WebDANCE Project</span>. In <em>Proc. 21st World Congress on Dance Research: Dancers without Frontiers</em>. 2007.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2007/Bakogianni2007Teaching.bib)
 
-D.&nbsp;Birnbaum. <span class="bibtex-protected">Musical Vibrotactile Feedback</span>. Master's thesis, McGill University, 2007.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2007/Birnbaum2007Musical.bib)
+R.&nbsp;Bayreuther. <span class="bibtex-protected">Contemporary Composition as Musical Disciplina - The Example of Sound Installations of Robin Minard</span>. <em>Musiktheorie</em>, 22:357&ndash;364, 2007.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2007/Bayreuther_2007_Contemporary.bib)
 
 N.&nbsp;Crampton, K.&nbsp;Fox, H.&nbsp;Johnston, and A.&nbsp;Whitehead. <span class="bibtex-protected">Dance, Dance Evolution: Accelerometer Sensor Networks as Input to Video Games</span>. In <em>2007 IEEE International Workshop on Haptic, Audio and Visual Environments and Games</em>, 107&ndash;112. 2007.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2007/Crampton2007Dance.bib)
@@ -2763,14 +2763,14 @@ M.&nbsp;Kaltenbrunner and R.&nbsp;Bencina. <span class="bibtex-protected">reacTI
 J.&nbsp;Malloch, S.&nbsp;Sinclair, and M.&nbsp;M. Wanderley. <span class="bibtex-protected">From controller to sound: Tools for collaborative development of digital musical instruments</span>. In <em>Proceedings of the International Computer Music Conference (ICMC 2007)</em>, 65&ndash;72. Copenhagen, Denmark, 2007.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2007/Malloch2007Controller.bib)
 
-N.&nbsp;Magnenat-Thalmann, D.&nbsp;Protopsaltou, and E.&nbsp;Kavakli. <span class="bibtex-protected">Learning How to Dance Using a Web 3D Platform</span>. In <em>Proceedings of the Sixth International Conference on Web-Based Learning</em>, 1&ndash;12. 2007.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2007/Magnenat-Thalmann2007Web3D.bib)
+E.&nbsp;Maestre and others. <span class="bibtex-protected">Acquisition of Violin Instrumental Gestures Using a Commercial EMF Tracking Device</span>. In <em>Proceedings of the 2007 International Computer Music Conference</em>, 386&ndash;393. Copenhagen, Denmark, 2007.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2007/Maestre2007Acquisition.bib)
 
 N.&nbsp;Magnenat-Thalmann and C.&nbsp;Joslin. <span class="bibtex-protected">Learning How to Dance on the Internet</span>. In <em>Proceedings of the Sixth International Conference on Web-Based Learning (ICWL '07)</em>. 2007.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2007/Magnenat-Thalmann2007Dance.bib)
 
-E.&nbsp;Maestre and others. <span class="bibtex-protected">Acquisition of Violin Instrumental Gestures Using a Commercial EMF Tracking Device</span>. In <em>Proceedings of the 2007 International Computer Music Conference</em>, 386&ndash;393. Copenhagen, Denmark, 2007.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2007/Maestre2007Acquisition.bib)
+N.&nbsp;Magnenat-Thalmann, D.&nbsp;Protopsaltou, and E.&nbsp;Kavakli. <span class="bibtex-protected">Learning How to Dance Using a Web 3D Platform</span>. In <em>Proceedings of the Sixth International Conference on Web-Based Learning</em>, 1&ndash;12. 2007.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2007/Magnenat-Thalmann2007Web3D.bib)
 
 S.&nbsp;Sinclair and M.&nbsp;Wanderley. <span class="bibtex-protected">Extending DIMPLE: a Rigid Body Simulator for Interactive Control of Sound</span>. In <em>Proceedings of the 4th International Conference on Enactive Interfaces (ENACTIVE'07)</em>. Grenoble, France, 2007.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2007/Sinclair_2007_Extending.bib)
@@ -2798,29 +2798,26 @@ P.&nbsp;Dahlstedt. <span class="bibtex-protected">Dynamic Mapping Strategies for
 M.&nbsp;Fujimoto, N.&nbsp;Fujita, Y.&nbsp;Takegawa, T.&nbsp;Terada, and M.&nbsp;Tsukamoto. <span class="bibtex-protected">Musical B-boying: A Wearable Musical Instrument by Dancing</span>. In <em>Lecture Notes in Computer Science</em>, volume 5309. 2008.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2008/Fujimoto2008Musical.bib)
 
-R.&nbsp;Grossmann. <span class="bibtex-protected">The tip of the iceberg: laptop music and the information-technological transformation of music</span>. <em>Organised Sound</em>, 13(1):5&ndash;11, 2008.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2008/Grossmann_2008_iceberg.bib)
-
 J.&nbsp;I. Gutknecht, P.&nbsp;Kulka, T.&nbsp;Lukowicz, and Strieker. <em><span class="bibtex-protected">Advances in Expressive Animation in the Interactive Performance of a Butoh Dance</span></em>. Springer Berlin Heidelberg, 2008.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2008/Gutknecht2008Expressive.bib)
+
+R.&nbsp;Grossmann. <span class="bibtex-protected">The tip of the iceberg: laptop music and the information-technological transformation of music</span>. <em>Organised Sound</em>, 13(1):5&ndash;11, 2008.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2008/Grossmann_2008_iceberg.bib)
 
 V.&nbsp;Hayward and K.&nbsp;E. MacLean. <span class="bibtex-protected">Do it yourself haptics: Part II [Tutorial]</span>. <em>IEEE Robotics &amp; Automation Magazine</em>, 2008.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2008/Hayward2008DIY.bib)
 
-A.&nbsp;Johnston, L.&nbsp;Candy, and E.&nbsp;Edmonds. <span class="bibtex-protected">Designing and evaluating virtual musical instruments: facilitating conversational user interaction</span>. <em>Design Studies</em>, 29(6):556&ndash;571, 2008.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2008/Johnston2008Designing.bib)
-
 F.&nbsp;Jean and A.&nbsp;B. Albu. <span class="bibtex-protected">The Visual Keyboard: Real-Time Feet Tracking for the Control of Musical Meta-Instruments</span>. <em>Signal Processing: Image Communication</em>, 23(7):505&ndash;515, 2008.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2008/Jean2008Visual.bib)
+
+A.&nbsp;Johnston, L.&nbsp;Candy, and E.&nbsp;Edmonds. <span class="bibtex-protected">Designing and evaluating virtual musical instruments: facilitating conversational user interaction</span>. <em>Design Studies</em>, 29(6):556&ndash;571, 2008.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2008/Johnston2008Designing.bib)
 
 Y.&nbsp;Kim, D.&nbsp;Jung, S.&nbsp;Park, J.&nbsp;Chi, T.&nbsp;Kim, and S.&nbsp;Lee. <span class="bibtex-protected">The Shadow Dancer: A New Dance Interface with Interactive Shoes</span>. In <em>International Conference on Cyberworlds</em>. Hangzhou, China, 2008. IEEE Computer Society.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2008/Kim2008Shadow.bib)
 
 C.&nbsp;Latulipe and S.&nbsp;Huskey. <span class="bibtex-protected">Dance. Draw: exquisite interaction</span>. In <em>Proceedings of the 22nd British CHI Group Annual Conference on HCI 2008: People and Computers XXII: Culture, Creativity, Interaction</em>, volume&nbsp;2, 47&ndash;51. UK, 2008.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2008/Latulipe2008Dance.bib)
-
-J.&nbsp;Malloch, S.&nbsp;Sinclair, and M.M. Wanderley. <span class="bibtex-protected">A Network-based Framework for Collaborative Development and Performance of Digital Musical Instruments</span>. In <em>Computer Music Modeling and Retrieval: Sense of Sounds</em>, pages 401&ndash;405. 2008.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2008/Malloch2008Network.bib)
 
 J.&nbsp;Malloch, S.&nbsp;Sinclair, and M.&nbsp;M. Wanderley. <span class="bibtex-protected">A Network-based Framework for Collaborative Development and Performance of Digital Musical Instruments</span>. In <em>Proceedings of the Computer Music Modeling and Retrieval Conference (CMMR 2008)</em>, volume 4969 of LNCS, 401&ndash;425. Berlin Heidelberg, 2008. Springer-Verlag.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2008/Malloch2008Framework.bib)
@@ -2830,6 +2827,9 @@ D.&nbsp;Merrill, H.&nbsp;Raffle, and R.&nbsp;Aimi. <span class="bibtex-protected
 
 M.&nbsp;T. Marshall. <em><span class="bibtex-protected">Physical Interface Design for Digital Musical Instruments</span></em>. PhD thesis, McGill University, Montreal, Quebec, Canada, 2008.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2008/Marshall2008Physical.bib)
+
+J.&nbsp;Malloch, S.&nbsp;Sinclair, and M.M. Wanderley. <span class="bibtex-protected">A Network-based Framework for Collaborative Development and Performance of Digital Musical Instruments</span>. In <em>Computer Music Modeling and Retrieval: Sense of Sounds</em>, pages 401&ndash;405. 2008.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2008/Malloch2008Network.bib)
 
 L.&nbsp;Naveda and M.&nbsp;Leman. <span class="bibtex-protected">Representation of Samba dance gestures, using a multi-modal analysis approach</span>. In <em>5th International Conference on Enactive Interfaces</em>. Edizione ETS, 2008.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2008/Naveda2008Samba.bib)
@@ -2848,14 +2848,14 @@ Laura Sinnott. <span class="bibtex-protected">Mapping Strategies for the Augment
 G.&nbsp;Assayag and A.&nbsp;Gerzso. <em><span class="bibtex-protected">New Computational Paradigms for Computer Music</span></em>. Delatour, Sampzon, 2009.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Assayag2009computational.bib)
 
-O.&nbsp;Bown, A.&nbsp;Eldridge, and J.&nbsp;McCormack. <span class="bibtex-protected">Understanding Interaction in Contemporary Digital Music: from instruments to behavioural objects</span>. <em>Organised Sound</em>, 14:188&ndash;196, Aug 2009.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Bown2009Interaction.bib)
+M.&nbsp;G. Boltz, B.&nbsp;Ebendorf, and B.&nbsp;Field. <span class="bibtex-protected">AUDIOVISUAL INTERACTIONS: THE IMPACT OF VISUAL INFORMATION ON MUSIC PERCEPTION AND MEMORY</span>. <em>Music Perception</em>, 27:43&ndash;59, Sep 2009.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Boltz2009Audiovisual.bib)
 
 A.&nbsp;R. Brown and A.&nbsp;Sorensen. <span class="bibtex-protected">Interacting with Generative Music through Live Coding</span>. <em>Contemporary Music Review</em>, 28:17&ndash;29, 2009.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Brown2009Live.bib)
 
-M.&nbsp;G. Boltz, B.&nbsp;Ebendorf, and B.&nbsp;Field. <span class="bibtex-protected">AUDIOVISUAL INTERACTIONS: THE IMPACT OF VISUAL INFORMATION ON MUSIC PERCEPTION AND MEMORY</span>. <em>Music Perception</em>, 27:43&ndash;59, Sep 2009.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Boltz2009Audiovisual.bib)
+O.&nbsp;Bown, A.&nbsp;Eldridge, and J.&nbsp;McCormack. <span class="bibtex-protected">Understanding Interaction in Contemporary Digital Music: from instruments to behavioural objects</span>. <em>Organised Sound</em>, 14:188&ndash;196, Aug 2009.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Bown2009Interaction.bib)
 
 J.&nbsp;Cseres. <span class="bibtex-protected">In Between as a Permanent Status: Milan Adamciak's Version of Intermedia</span>. <em>Leonardo Music Journal</em>, 19:31&ndash;34, 2009.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Cseres2009Intermedia.bib)
@@ -2869,11 +2869,11 @@ G.&nbsp;Dipper. <span class="bibtex-protected">Interactive Interfaces: Installat
 G.&nbsp;Essl and M.&nbsp;Rohs. <span class="bibtex-protected">Interactivity for Mobile Music-Making</span>. <em>Organised Sound</em>, 14:197&ndash;207, Aug 2009.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Essl2009Interactivity.bib)
 
-M.&nbsp;Fujimoto, N.&nbsp;Fujita, Y.&nbsp;Takegawa, T.&nbsp;Terada, and M.&nbsp;Tsukamoto. <span class="bibtex-protected">A Motion Recognition Method for a Wearable Dancing Musical Instrument</span>. In <em>2009 International Symposium on Wearable Computers</em>. IEEE, 2009.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Fujimoto2009Motion.bib)
-
 Error : missing journal in Ferguson2009McGill
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Ferguson2009McGill.bib)
+
+M.&nbsp;Fujimoto, N.&nbsp;Fujita, Y.&nbsp;Takegawa, T.&nbsp;Terada, and M.&nbsp;Tsukamoto. <span class="bibtex-protected">A Motion Recognition Method for a Wearable Dancing Musical Instrument</span>. In <em>2009 International Symposium on Wearable Computers</em>. IEEE, 2009.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Fujimoto2009Motion.bib)
 
 D.&nbsp;Kim-Boyle. <span class="bibtex-protected">Network Musics: Play, Engagement and the Democratization of Performance</span>. <em>Contemporary Music Review</em>, 28(4-5):363&ndash;375, 2009.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Kim-Boyle2009Network.bib)
@@ -2881,17 +2881,11 @@ D.&nbsp;Kim-Boyle. <span class="bibtex-protected">Network Musics: Play, Engageme
 J.&nbsp;Lovischach. <span class="bibtex-protected">Music at Your Fingertips: An Electrotactile Fader</span>. In <em>Proceedings of the 123rd Audio Engineering Society Convention</em>. New York, 2009. Audio Engineering Society.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Lovischach2009Fingertips.bib)
 
-P.D. Lehrman. <span class="bibtex-protected">The Wii Remote as a Musical Instrument: Technology and Case Studies</span>. In <em>Proceedings of the 127th Audio Engineering Society Convention</em>. New York, 2009. Audio Engineering Society.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Lehrman2009Wii.bib)
-
 X.&nbsp;Liang, Q.&nbsp;Li, X.&nbsp;Zhang, S.&nbsp;Zhang, and W.&nbsp;Geng. <span class="bibtex-protected">Performance-driven motion choreographing with accelerometers</span>. <em>Computer Animation and Virtual Worlds</em>, 2(3):89&ndash;99, 2009.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Liang2009Performance.bib)
 
-M.&nbsp;T. Marshall, M.&nbsp;Hartshorn, M.&nbsp;M. Wanderley, and D.&nbsp;J. Levitin. <span class="bibtex-protected">Sensor Choice for Parameter Modulations in Digital Musical Instruments: Empirical Evidence from Pitch Modulation</span>. <em>Journal of New Music Research</em>, 38(3):241&ndash;253, 2009.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Marshall2009Sensor.bib)
-
-K.&nbsp;McAlpine, M.&nbsp;Bett, and J.&nbsp;Scanlan. <span class="bibtex-protected">Approaches to Creating Real-Time Adaptive Music in Interactive Entertainment: A Musical Perspective</span>. In <em>Proceedings of the 128th Audio Engineering Society Conference</em>, volume&nbsp;35. New York, 2009. Audio Engineering Society.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/McAlpine2009Approaches.bib)
+P.D. Lehrman. <span class="bibtex-protected">The Wii Remote as a Musical Instrument: Technology and Case Studies</span>. In <em>Proceedings of the 127th Audio Engineering Society Convention</em>. New York, 2009. Audio Engineering Society.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Lehrman2009Wii.bib)
 
 T.&nbsp;Magnusson. <span class="bibtex-protected">Of Epistemic Tools: Musical Instruments as Cognitive Extensions</span>. <em>Journal of Organised Sound</em>, 14(2):168&ndash;176, 2009.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Magnusson2009Epistemic.bib)
@@ -2899,32 +2893,38 @@ T.&nbsp;Magnusson. <span class="bibtex-protected">Of Epistemic Tools: Musical In
 D.&nbsp;Majoe, I.&nbsp;Kulka, and J.&nbsp;C. Schacher. <span class="bibtex-protected">Towards An Interactive Multimedia Experience For Club Music And Dance</span>. In <em>Proceedings of the International Conference on Mobile Computing and Multimedia (MOMM)</em>. Kuala Lumpur, Malaysia, 2009.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Majoe2009Multimedia.bib)
 
+K.&nbsp;McAlpine, M.&nbsp;Bett, and J.&nbsp;Scanlan. <span class="bibtex-protected">Approaches to Creating Real-Time Adaptive Music in Interactive Entertainment: A Musical Perspective</span>. In <em>Proceedings of the 128th Audio Engineering Society Conference</em>, volume&nbsp;35. New York, 2009. Audio Engineering Society.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/McAlpine2009Approaches.bib)
+
+M.&nbsp;T. Marshall, M.&nbsp;Hartshorn, M.&nbsp;M. Wanderley, and D.&nbsp;J. Levitin. <span class="bibtex-protected">Sensor Choice for Parameter Modulations in Digital Musical Instruments: Empirical Evidence from Pitch Modulation</span>. <em>Journal of New Music Research</em>, 38(3):241&ndash;253, 2009.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Marshall2009Sensor.bib)
+
+D.&nbsp;Overholt, J.&nbsp;Thompson, L.&nbsp;Putnam, B.&nbsp;Bell, J.&nbsp;Kleban, B.&nbsp;Sturm, and J.&nbsp;Kuchera-Morin. <span class="bibtex-protected">A Multimodal System for Gesture Recognition in Interactive Music Performance</span>. <em>Computer Music Journal</em>, 33(4):69–82, 2009.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Overholt2009Multimodal.bib)
+
 D.&nbsp;Overholt. <span class="bibtex-protected">The Musical Interface Technology Design Space</span>. <em>Organised Sound</em>, 14(2):217–226, 2009.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Overholt2009Musical.bib)
 
 D.&nbsp;Overholt, J.&nbsp;Thompson, L.&nbsp;Putnam, B.&nbsp;Bell, J.&nbsp;Kleban, B.&nbsp;Sturm, and J.&nbsp;Kuchera-Morin. <span class="bibtex-protected">A Multimodal System for Gesture Recognition in Interactive Music Performance</span>. <em>Computer Music Journal</em>, 33(4):69&ndash;82, 2009.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Overholt2009System.bib)
 
-D.&nbsp;Overholt, J.&nbsp;Thompson, L.&nbsp;Putnam, B.&nbsp;Bell, J.&nbsp;Kleban, B.&nbsp;Sturm, and J.&nbsp;Kuchera-Morin. <span class="bibtex-protected">A Multimodal System for Gesture Recognition in Interactive Music Performance</span>. <em>Computer Music Journal</em>, 33(4):69–82, 2009.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Overholt2009Multimodal.bib)
-
-G.&nbsp;Paine. <span class="bibtex-protected">Gesture and Morphology in Laptop Music Performance</span>. In R.&nbsp;T. Dean, editor, <em>The Oxford Handbook of Computer Music and Digital Sound Culture</em>, pages 299&ndash;329. Oxford University Press, Oxford, 2009.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Paine2009Gesture.bib)
+K.&nbsp;Petersen, J.&nbsp;Solis, and A.&nbsp;Takanishi. <span class="bibtex-protected">Development of a Aural Real-Time Rhythmical and Harmonic Tracking to Enable the Musical Interaction with the Waseda Flutist Robot</span>. In <em>IEEE/RSJ International Conference on Intelligent Robots and Systems</em>, 2303&ndash;2308. St. Louis, MO, 2009.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Petersen2009Aural.bib)
 
 G.&nbsp;Paine. <span class="bibtex-protected">Towards Unified Design Guidelines for New Interfaces for Musical Expression</span>. <em>Journal of Organised Sound</em>, 14(2):142&ndash;155, 2009.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Paine2009Design.bib)
 
-K.&nbsp;Petersen, J.&nbsp;Solis, and A.&nbsp;Takanishi. <span class="bibtex-protected">Development of a Aural Real-Time Rhythmical and Harmonic Tracking to Enable the Musical Interaction with the Waseda Flutist Robot</span>. In <em>IEEE/RSJ International Conference on Intelligent Robots and Systems</em>, 2303&ndash;2308. St. Louis, MO, 2009.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Petersen2009Aural.bib)
+G.&nbsp;Paine. <span class="bibtex-protected">Gesture and Morphology in Laptop Music Performance</span>. In R.&nbsp;T. Dean, editor, <em>The Oxford Handbook of Computer Music and Digital Sound Culture</em>, pages 299&ndash;329. Oxford University Press, Oxford, 2009.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Paine2009Gesture.bib)
 
 W.&nbsp;Siegel. <span class="bibtex-protected">Dancing the Music: Interactive Dance and Music</span>. In Roger Dean, editor, <em>The Oxford Handbook of Computer Music</em>, pages 191–213. Oxford University Press, New York, 2009.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Siegel2009Dancing.bib)
 
-M.&nbsp;Shedel and A.&nbsp;Rootberg. <span class="bibtex-protected">Generative Techniques in Hypermedia Performance</span>. <em>Contemporary Music Review</em>, 28(1):57&ndash;73, 2009.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Shedel2009Generative.bib)
-
 A.&nbsp;Soga, M.&nbsp;Umino, and B.&nbsp;Hirayama. <span class="bibtex-protected">Automatic Composition for Contemporary Dance Using 3D Motion Clips: Experiment on Dance Training and System Evaluation</span>. In <em>Proc. Int’l Conf. Cyber-Worlds</em>, 171&ndash;176. 2009.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Soga2009Composition.bib)
+
+M.&nbsp;Shedel and A.&nbsp;Rootberg. <span class="bibtex-protected">Generative Techniques in Hypermedia Performance</span>. <em>Contemporary Music Review</em>, 28(1):57&ndash;73, 2009.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Shedel2009Generative.bib)
 
 R.&nbsp;Wechsler. <span class="bibtex-protected">Mappings – applying the lessons of motion tracking. An open letter to musical collaborators</span>. 2009.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2009/Wechsler2009Mappings.bib)
@@ -2940,14 +2940,14 @@ T.&nbsp;Yamaguchi and S.&nbsp;Hashimoto. <span class="bibtex-protected">Grasping
 C.&nbsp;Alexandraki and D.&nbsp;Akoumanakis. <span class="bibtex-protected">Exploring New Perspectives in Network Music Performance: The DIAMOUSES Framework</span>. <em>Computer Music Journal</em>, 34:66&ndash;83, 2010. Summer.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Alexandraki_2010_Exploring.bib)
 
-J.&nbsp;Bresson, C.&nbsp;Agon, and M.&nbsp;Schumacher. <span class="bibtex-protected">Représentation des données de contrôle pour la spatialisation dans OpenMusic</span>. In <em>Actes des Journées d'Informatique Musicale</em>. Rennes, France, 2010.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Bresson2010representation.bib)
+M.&nbsp;A. Baalman, V.&nbsp;d Belleval, C.&nbsp;L. Salter, J.&nbsp;Malloch, J.&nbsp;Thibodeau, and M.&nbsp;Wanderley. <span class="bibtex-protected">Sense/Stage- Low Cost, Open Source Wireless Sensor Infrastructure for Liver Performance and Interactive, Real-Time Environments</span>. In <em>Proceedings of Linux Audio Conference (LAC 2010)</em>, 242&ndash;249. Utrecht, The Netherlands, 2010.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Baalman2010sense.bib)
 
 D.&nbsp;Black, K.&nbsp;Gohlke, and J.&nbsp;Lovischach. <span class="bibtex-protected">Foley Sonic: Placing Sounds on a Timeline Through Gestures</span>. In <em>Proceedings of the 128th Audio Engineering Society Conference</em>. New York, 2010. Audio Engineering Society. Paper no. 8004.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Black2010Foley.bib)
 
-M.&nbsp;A. Baalman, V.&nbsp;d Belleval, C.&nbsp;L. Salter, J.&nbsp;Malloch, J.&nbsp;Thibodeau, and M.&nbsp;Wanderley. <span class="bibtex-protected">Sense/Stage- Low Cost, Open Source Wireless Sensor Infrastructure for Liver Performance and Interactive, Real-Time Environments</span>. In <em>Proceedings of Linux Audio Conference (LAC 2010)</em>, 242&ndash;249. Utrecht, The Netherlands, 2010.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Baalman2010sense.bib)
+J.&nbsp;Bresson, C.&nbsp;Agon, and M.&nbsp;Schumacher. <span class="bibtex-protected">Représentation des données de contrôle pour la spatialisation dans OpenMusic</span>. In <em>Actes des Journées d'Informatique Musicale</em>. Rennes, France, 2010.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Bresson2010representation.bib)
 
 J.&nbsp;Coulter. <span class="bibtex-protected">Electroacoustic Music with Moving Images: the art of media pairing</span>. <em>Organised Sound</em>, 15:26&ndash;34, Apr 2010.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Coulter2010Electroacoustic.bib)
@@ -2970,17 +2970,17 @@ L.&nbsp;Mion, G.&nbsp;D'Inca, A.&nbsp;de&nbsp;Gotzen, and E.&nbsp;Rapana. <span 
 T.&nbsp;Murray-Browne and et. al. <span class="bibtex-protected">The Serendiptichord: A Wearable Instrument for Contemporary Dance Performance</span>. In <em>Proceedings of the 128th Audio Engineering Society Convention</em>, Paper no. 8139. New York, 2010. Audio Engineering Society.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Murray-Browne2010Serendiptichord.bib)
 
-K.&nbsp;Petersen, J.&nbsp;Solis, and A.&nbsp;Takanishi. <span class="bibtex-protected">Musical-based interaction system for the Waseda Flutist Robot</span>. <em>Autonomous Robots</em>, 28(4):471&ndash;488, 2010.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Petersen2010Interaction.bib)
-
 Henning Pohl. <span class="bibtex-protected">Motion Pattern Recognition For Interactive Dance</span>. Master's thesis, Darmstadt, Germany, 2010.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Pohl2010Motion.bib)
 
-M.&nbsp;Schumacher and J.&nbsp;Bresson. <span class="bibtex-protected">Compositional Control of Periphonic Sound Spatialization</span>. In <em>Proceedings of the 2nd International Symposium on Ambisonics and Spherical Acoustics</em>. Paris, France, 2010.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Schumacher_2010_Compositional.bib)
+K.&nbsp;Petersen, J.&nbsp;Solis, and A.&nbsp;Takanishi. <span class="bibtex-protected">Musical-based interaction system for the Waseda Flutist Robot</span>. <em>Autonomous Robots</em>, 28(4):471&ndash;488, 2010.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Petersen2010Interaction.bib)
 
 M.&nbsp;Schumacher and J.&nbsp;Bresson. <span class="bibtex-protected">Spatial Sound Synthesis in Computer-Aided Composition</span>. <em>Organised Sound</em>, 15(3):271–289, 2010.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Schumacher_2010_Spatial.bib)
+
+M.&nbsp;Schumacher and J.&nbsp;Bresson. <span class="bibtex-protected">Compositional Control of Periphonic Sound Spatialization</span>. In <em>Proceedings of the 2nd International Symposium on Ambisonics and Spherical Acoustics</em>. Paris, France, 2010.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Schumacher_2010_Compositional.bib)
 
 R.&nbsp;Wechsler and A.&nbsp;P. Acitores. <span class="bibtex-protected">Motion Tracking: a Music and Dance Tool for People with Cerebral Palsy</span>. publication pending, 2010.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2010/Wechsler2010Cerebral.bib)
@@ -2990,11 +2990,14 @@ R.&nbsp;Wechsler and A.&nbsp;P. Acitores. <span class="bibtex-protected">Motion 
 J.&nbsp;Andean. <span class="bibtex-protected">Ecological Psychology and the Electroacoustic Concert Context</span>. <em>Organised Sound</em>, 16:125&ndash;133, 2011. August.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Andean_2011_Ecological.bib)
 
-W.&nbsp;Balin and J.&nbsp;Lovischach. <span class="bibtex-protected">Gestures to Operate DAW Software</span>. In <em>Proceedings of the 130th Audio Engineering Society Convention</em>. New York, 2011. Audio Engineering Society. Paper No. 8456.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Balin_2011_Gestures.bib)
-
 J.&nbsp;Birringer, E.&nbsp;Bromberg, N.&nbsp;Jackson, J.&nbsp;Mitchell, L.&nbsp;Naugle, and D.&nbsp;Rosenberg. <span class="bibtex-protected">Connected Dance: Distributed Performance across Time Zones</span>. In <em>Transmigratory Moves/Dance in Global Circulation. Congress On Research in Dance Conference Proceedings</em>, 51&ndash;77. New York University, 2011.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Birringer2011connected.bib)
+
+C.&nbsp;Brum&nbsp;Medeiros and M.&nbsp;M. Wanderley. <span class="bibtex-protected">Evaluating of sensor technologies for The Rulers, a kalimba-like Digital Musical Instrument</span>. In <em>Proceedings of the Sound and Music Computing Conference (SMC-2011)</em>. 2011.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/BrumMedeiros2011Evaluating.bib)
+
+W.&nbsp;Balin and J.&nbsp;Lovischach. <span class="bibtex-protected">Gestures to Operate DAW Software</span>. In <em>Proceedings of the 130th Audio Engineering Society Convention</em>. New York, 2011. Audio Engineering Society. Paper No. 8456.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Balin_2011_Gestures.bib)
 
 R.&nbsp;C. Boulanger and V.&nbsp;Lazzarini. <em><span class="bibtex-protected">The Audio Programming Book</span></em>. MIT Press, Cambridge, Mass, 2011.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Boulanger2011audio.bib)
@@ -3002,26 +3005,23 @@ R.&nbsp;C. Boulanger and V.&nbsp;Lazzarini. <em><span class="bibtex-protected">T
 N.&nbsp;G. Brown. <span class="bibtex-protected">Being Among the Living: On the interrelations between performers, witnesses and environment in As I Have Now Memoyre</span>. <em>Organised Sound</em>, 16:176&ndash;183, 2011.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Brown2011Living.bib)
 
-C.&nbsp;Brum&nbsp;Medeiros and M.&nbsp;M. Wanderley. <span class="bibtex-protected">Evaluating of sensor technologies for The Rulers, a kalimba-like Digital Musical Instrument</span>. In <em>Proceedings of the Sound and Music Computing Conference (SMC-2011)</em>. 2011.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/BrumMedeiros2011Evaluating.bib)
-
 L.Q. Deng, H.&nbsp;Leung, N.J. Gu, and Y.&nbsp;Yang. <span class="bibtex-protected">Real-time mocap dance recognition for an interactive dancing game</span>. <em>Computer Animation and Virtual Worlds</em>, 22(2-3):229&ndash;237, 2011.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Deng2011Real-time.bib)
 
 A.&nbsp;Eigenfeldt. <span class="bibtex-protected">Real-time Composition as Performance Ecosystem</span>. <em>Organised Sound</em>, 16:145&ndash;153, Aug 2011.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Eigenfeldt2011Realtime.bib)
 
-M.&nbsp;Giordano and M.&nbsp;M. Wanderley. <span class="bibtex-protected">A Learning Interface for Novice Guitar Players using Vibrotactile Stimulation</span>. In <em>Proceedings of the Sound and Music Computing Conference (SMC-2011)</em>. 2011.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Giordano2011Vibrotactile.bib)
+M.&nbsp;Gurevich and A.&nbsp;C. Fyans. <span class="bibtex-protected">Digital Musical Interactions: Performer-system relationships and their perception by spectators</span>. <em>Organised Sound</em>, 16(2):166&ndash;175, 2011.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Gurevich2011Digital.bib)
 
 O.&nbsp;Green. <span class="bibtex-protected">Agility and Playfulness: Technology and skill in the performance ecosystem</span>. <em>Organised Sound</em>, 16(2):134&ndash;144, 2011.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Green_2011_Agility.bib)
 
+M.&nbsp;Giordano and M.&nbsp;M. Wanderley. <span class="bibtex-protected">A Learning Interface for Novice Guitar Players using Vibrotactile Stimulation</span>. In <em>Proceedings of the Sound and Music Computing Conference (SMC-2011)</em>. 2011.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Giordano2011Vibrotactile.bib)
+
 S.&nbsp;E. Grollmisch, Cano Ceron, and C.&nbsp;Dittmar. <span class="bibtex-protected">Songs 2 See: Learn to Play by Playing</span>. In <em>Proceedings of the 131st Audio Engineering Society Convention</em>, 2&ndash;3. New York, 2011. Audio Engineering Society.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Grollmisch_2011_Songs.bib)
-
-M.&nbsp;Gurevich and A.&nbsp;C. Fyans. <span class="bibtex-protected">Digital Musical Interactions: Performer-system relationships and their perception by spectators</span>. <em>Organised Sound</em>, 16(2):166&ndash;175, 2011.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Gurevich2011Digital.bib)
 
 I.&nbsp;Iaird, D.&nbsp;Murphy, R.&nbsp;Capman, and S.&nbsp;Jouan. <span class="bibtex-protected">Development of a Virtual Performance Studio with Application of Virtual Acoustic Recording Methods</span>. In <em>Proceedings of the 130th Audio Engineering Society Convention</em>. Audio Engineering Society, 2011. Paper no. 8358.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Iaird2011Development.bib)
@@ -3035,11 +3035,11 @@ P.&nbsp;McGlynn. <span class="bibtex-protected">Towards for Effective Mapping St
 D.&nbsp;Newton and M.&nbsp;T. Marshall. <span class="bibtex-protected">The Augmentalist: Enabling Musicians to Develop Augmented Musical Instruments</span>. In <em>Proceedings of the 5th International Conference on Tangible, Embedded and Embodied Interaction</em>, 249&ndash;252. 2011.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Newton2011Augmentalist.bib)
 
-L.&nbsp;O'Sullivan and F.&nbsp;Boland. <span class="bibtex-protected">Visualizing and Controlling Sound with Graphical Interfaces</span>. In <em>Proceedings of the 131st Audio Engineering Society Convention</em>, 2&ndash;4. New York, 2011. Audio Engineering Society.
-[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/O'Sullivan2011Visualizing.bib)
-
 D.&nbsp;Overholt, E.&nbsp;Berdahl, and R.&nbsp;Hamilton. <span class="bibtex-protected">Advancements in Actuated Musical Instruments</span>. <em>Journal of Organised Sound</em>, 16(2):154&ndash;165, 2011.
 [<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Overholt2011Advancements.bib)
+
+L.&nbsp;O'Sullivan and F.&nbsp;Boland. <span class="bibtex-protected">Visualizing and Controlling Sound with Graphical Interfaces</span>. In <em>Proceedings of the 131st Audio Engineering Society Convention</em>, 2&ndash;4. New York, 2011. Audio Engineering Society.
+[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/O'Sullivan2011Visualizing.bib)
 
 Nicolas Rasamimanana, Frederic Bevilacqua, Norbert Schnell, Fabrice Guedy, Emmanuel Flety, Come Maestracci, Bruno Zamborlin, Jean-Louis Frechin, and Uros Petrevski. Modular musical objects towards embodied control of digital music. In <em>Proceedings of the Fifth International Conference on Tangible, Embedded, and Embodied Interaction</em>, TEI '11, 9–12. New York, NY, USA, 2011. Association for Computing Machinery. URL: <a href="https://doi.org/10.1145/1935701.1935704">https://doi.org/10.1145/1935701.1935704</a>, <a href="https://doi.org/10.1145/1935701.1935704">doi:10.1145/1935701.1935704</a>.
 [<kbd><br>Download PDF<br></kbd>](https://doi.org/10.1145/1935701.1935704) <nbsp>[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/2011/Rasamimanana2011Modular.bib)
