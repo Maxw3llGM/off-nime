@@ -73,10 +73,11 @@ def ICMC_fetcher(bib_Lib, directory = "./ICMC"):
     return bib_Lib
 
 def sorter(ref):
-    if (ref.get('author', '')): 
-        value = ref.get('author', '').value 
-    elif (ref.get('editor', '')):
-        value = ref.get('editor', '').value
+    # if (ref.get('author', '')): 
+    #     value = ref.get('author', '').value 
+    # elif (ref.get('editor', '')):
+    #     value = ref.get('editor', '').value
+    value = ref.key[0].upper()
     return value
 
 def bib_sorter(bib_Lib):
@@ -88,13 +89,18 @@ def bib_sorter(bib_Lib):
     last_entry = all_entries[0]
     for ref in all_entries:
         if last_entry.get('year', '').value != ref.get('year', '').value:
+            print(last_entry.get('year', '').value)
             temp_entry_list.sort(key=sorter)
+            arb = []
+            for x in temp_entry_list:
+                arb.append(x.key[0])
+            print(arb)
             entry_list = entry_list + temp_entry_list
             temp_entry_list = []
         temp_entry_list.append(ref)
         last_entry = ref
-
-    return all_entries
+        
+    return entry_list
 
 
     # for ref in entry_list:
@@ -121,8 +127,7 @@ def md_generator(entry, repo, md_file):
         if entry.get('url', ''):
             url = entry.get('url', '').value
             md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp>") #I hardcoded all the journal articles to be identified with CMJ Folder. Fix this later
-        else: 
-            md_file.write(f"[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/{year}/{key}.bib)\n\n")
+        md_file.write(f"[<kbd><br>BibTex<br></kbd>](ISIDM/bib_files/{year}/{key}.bib)\n\n")
         
     elif repo == "CMJ":
         url = entry.get('url', '').value
@@ -149,7 +154,7 @@ def ref_fetcher(md_file):
 def main():
     with open("README.md", "w") as md_file:
         md_file.write(f"# Off-NIME NIME Papers\n")
-        md_file.write(f"Nime papers, chapters and books published outside of the NIME Conference Proceedings\n")
+        md_file.write(f"NIME-related papers, chapters, thesis and books published in other venues\n")
         ref_fetcher(md_file)
 
 
