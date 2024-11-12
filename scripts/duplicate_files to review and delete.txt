@@ -1,0 +1,27 @@
+{'Buxton1977Computer'} {'Buxton1977Directory'} #done
+{'Blaine2000Jam-O-Drum'} {'Blaine2000Jam'} #done
+{'Cadoz1990Feedback'} {'Cadoz1990Modular'} #done
+{'Fletcher1996Force'} {'Fletcher1996Applying'} #done
+{'Freed2000Guitar'} {'Freed2000Musical'} #done
+{'Hunt1999phd'} {'Hunt1999Radical'} #done
+{'Hunt1999phd'} {'Hunt1999Interfaces'} #done
+{'Hunt1999Radical'} {'Hunt1999Interfaces'} #done
+{'Hunt1999Interfaces'} {'Hunt1999phd'}# done
+{'Hunt1999Interfaces'} {'Hunt1999Radical'} #done
+{'Mulder1994Virtual'} {'Mulder1994virtual'} #done
+{'Mulder1994virtual'} {'Mulder1994Virtual'} #done
+{'Marrin1996Toward'} {'Marrin1996Understanding'} #done
+{'Malloch2008Network'} {'Malloch2008Framework'} #done
+{'Ng2004Music'} {'Ng2004Motion'} #done
+{'Overholt2009System'} {'Overholt2009Multimodal'} #done
+{'Overholt2009Multimodal'} {'Overholt2009System'} #done
+{'Paradiso1997Musical'} {'Paradiso1997Electric'} #done
+{'Paradiso1997Magic'} {'Paradiso1997Carpet'} #done
+{'Paradiso1997Carpet'} {'Paradiso1997Magic'} #done
+{'Rosenboom1990extended'} {'Rosenboom1990Extended'} #done
+{'Ryan1991Remarks'} {'Ryan1991STEIM'} #done
+{'Rowe1993Interactive'} {'Rowe1993interactive'} #done
+{'Rovan1997Instrumental'} {'Rovan1997Gestural'} #done
+{'Vinet1999interfaces'} {'Vinet1999Interfaces'} #done
+{'Wanderley2001Performer-Instrument'} {'Wanderley2001Performer'} #done
+
