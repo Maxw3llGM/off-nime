@@ -57,7 +57,10 @@ def md_generator(entry, repo, md_file):
     year = entry.get('year', '').value
     key = entry.key
     try:
-        bib_string = pybtex.format_from_string(entry.raw,"plain", output_backend = "html")
+        temp_lib = bp.Library()
+        temp_lib.add(entry)
+        temp_bib_string = bp.write_string(temp_lib)
+        bib_string = pybtex.format_from_string(temp_bib_string,"plain", output_backend = "html")
         md_file.write(bib_string_formater(bib_string))
         md_file.write("\n")
     except Exception as inst:
@@ -98,12 +101,13 @@ def bib_file_setter(entry_val, directory_val):
     file_name = f"{directory_val}/bib_files/{year}/{entry_key}.bib"
     bp.write_file(file_name,entry_bib_lib)
     return 0
+
 def ref_fetcher(directories):
-    
     bib_references = []
     for d in directories:
         print(f"./{d}/{d}.pkl")
         bib_references.append(pkl_fetcher(f"./{d}/{d}.pkl"))
+
     sorted_bib_references = []
     for idx, conferences in enumerate(bib_references):
         print(len(conferences.entries))
@@ -130,7 +134,8 @@ def ref_fetcher(directories):
     bib_list.extend(sorted_bib_references[1].entries)
     bib_list.extend(sorted_bib_references[2].entries)
 
-    return bib_list, bib_references
+    bib_list = bib_sorter(bib_list)
+    return bib_list, sorted_bib_references
 # def reference_updater(reference_type, key_value):
 #     return 0
 
@@ -149,6 +154,7 @@ def ref_fetcher(directories):
 def main():
     directories = ["CMJ","ICMC","ISIDM"]
     bib_refs, bib_sections = ref_fetcher(directories)
+    print(len(bib_refs))
     with open("README.md", "w") as md_file:
         md_file.write(f"# Off-NIME NIME Papers\n")
         md_file.write(f"NIME-related papers, chapters, thesis and books published in other venues\n\n")
