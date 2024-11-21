@@ -14,8 +14,6 @@ def bib_string_formater(bib_string):
     bib_string = re.findall(re_str_ref,bib_string)[0]
     return bib_string
 
-
-
 def sorter(ref):
     # if (ref.get('author', '')): 
     #     value = ref.get('author', '').value 
@@ -71,7 +69,7 @@ def md_generator(entry, repo, md_file):
     if entry.get('url', ''):
         url = entry.get('url', '').value
         md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp>") #I hardcoded all the journal articles to be identified with CMJ Folder. Fix this later
-    md_file.write(f"[<kbd><br>BibTex<br></kbd>]({repo}/bib_files/{year}/{key}.bib)\n\n")
+    md_file.write(f"[<kbd><br>BibTex<br></kbd>]({repo}/bib_files/{year}/{key}.bib) \n\n")
 
 def sub_md_generator(entry, repo, md_file):
     entry.pop('repo')
@@ -156,7 +154,7 @@ def main():
     bib_refs, bib_sections = ref_fetcher(directories)
     print(len(bib_refs))
     with open("README.md", "w") as md_file:
-        md_file.write(f"# Off-NIME NIME Papers\n")
+        md_file.write(f"# Off-NIME Papers\n")
         md_file.write(f"NIME-related papers, chapters, thesis and books published in other venues\n\n")
         
         last_entry = bib_refs[0]
@@ -181,6 +179,6 @@ def main():
                 bib_file_setter(entry,directorie)
                 last_entry = entry
         bp.write_file(f"{directorie}/{directorie}_bibtex.bib", bib_sections[idx])
-        
+
 if __name__ =='__main__':
     main()
