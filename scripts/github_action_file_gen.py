@@ -70,6 +70,8 @@ def md_generator(entry, repo, md_file):
         entry['url'] = entry.pop('URL').value
     year = entry.get('year', '').value
     key = entry.key
+    if(key == "Bridwell1978"):
+        print(entry)
     try:
         temp_lib = bp.Library()
         temp_lib.add(entry)
@@ -85,7 +87,7 @@ def md_generator(entry, repo, md_file):
     if entry.get('url', ''):
         url = entry.get('url', '').value
         md_file.write(f"[<kbd><br>Download PDF<br></kbd>]({url}) <nbsp>") #I hardcoded all the journal articles to be identified with CMJ Folder. Fix this later
-    md_file.write(f"[<kbd><br>BibTex<br></kbd>]({repo}/bib_files/{year}/{key}.bib)\n\n")
+    md_file.write(f"[<kbd><br>BibTex<br></kbd>]({repo}/{year}/{key}.bib)\n\n")
     
 def ref_fetcher(md_file):
     bib_Lib = bp.Library()
