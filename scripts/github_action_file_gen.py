@@ -5,10 +5,13 @@ import re
 
 def bib_string_formater(bib_string):
     tag = "dd"
+    pattern = r'URL: <a [^>]*>.*?</a>\.'
     re_str_ref = "<" + tag + ">(.*?)</" + tag + ">"
 
     bib_string = bib_string.replace("\n"," ")
     bib_string = re.findall(re_str_ref,bib_string)[0]
+    if("URL:" in bib_string):
+        bib_string = re.sub(pattern, '', bib_string)
     return bib_string
 
 def file_fetcher(bib_Lib, directory):
@@ -77,6 +80,7 @@ def md_generator(entry, repo, md_file):
         temp_lib.add(entry)
         temp_bib_string = bp.write_string(temp_lib)
         bib_string = pybtex.format_from_string(temp_bib_string,"plain", output_backend = "html")
+        
         md_file.write(bib_string_formater(bib_string))
         md_file.write("\n")
     except Exception as inst:
